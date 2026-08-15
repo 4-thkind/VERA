@@ -109,8 +109,9 @@ graph TD
     C -.->|Reference Reports for GT| H
     H --> I((Final Metrics & Figures))
     
-    classDef notebook fill:#e1f5fe,stroke:#0288d1,stroke-width:2px;
-    classDef data fill:#f3e5f5,stroke:#8e24aa,stroke-width:1px;
+    classDef notebook fill:#000000,stroke:#ff0000,stroke-width:2px,color:#ff0000;
+    classDef data fill:#000000,stroke:#ff0000,stroke-width:2px,color:#ff0000;
+    linkStyle default stroke:#ff0000,color:#ff0000;
     
     class B,D,E,F,G,H notebook;
     class A,C,I data;
