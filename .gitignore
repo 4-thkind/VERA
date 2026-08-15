@@ -1,0 +1,34 @@
+# Data (large files, downloaded at runtime)
+data/
+*.npz
+*.tgz
+*.tar.gz
+
+# Model caches
+models/
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
