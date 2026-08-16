@@ -36,10 +36,16 @@ for _d in [PROCESSED_DIR, ATTENTION_DIR, CLAIMS_DIR, RESULTS_DIR, FIGURES_DIR]:
 # ============================================================
 # Priority: environment variable > hardcoded fallback
 # WARNING: Do not commit this file with a real token to public repos.
-HF_TOKEN = os.environ.get(
-    "HF_TOKEN",
-    "YOUR_HF_TOKEN_HERE"  # <-- Replace with your actual token on Kaggle
+HF_DATASET_TOKEN = os.environ.get(
+    "HF_DATASET_TOKEN", 
+    os.environ.get("HF_TOKEN", "YOUR_HF_DATASET_TOKEN_HERE")
 )
+HF_MODEL_TOKEN = os.environ.get(
+    "HF_MODEL_TOKEN", 
+    os.environ.get("HF_TOKEN", "YOUR_HF_MODEL_TOKEN_HERE")
+)
+# Kept for backward compatibility if scripts still use it
+HF_TOKEN = os.environ.get("HF_TOKEN", "YOUR_HF_TOKEN_HERE")
 
 # ============================================================
 # Model Configuration
