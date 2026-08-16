@@ -510,7 +510,7 @@ def load_indiana_u() -> List[Dict]:
 
 def load_rexgradient() -> List[Dict]:
     """Load subset of ReXGradient dataset from HuggingFace via streaming."""
-    from config import HF_DATASET_ID, HF_TOKEN, REX_SUBSET_SIZE, OUTPUT_DIR
+    from config import HF_DATASET_ID, HF_DATASET_TOKEN, REX_SUBSET_SIZE, OUTPUT_DIR
     from datasets import load_dataset
     
     print(f"Loading {REX_SUBSET_SIZE} samples from {HF_DATASET_ID}...")
@@ -518,7 +518,7 @@ def load_rexgradient() -> List[Dict]:
         HF_DATASET_ID, 
         split="train", 
         streaming=True, 
-        token=HF_TOKEN
+        token=HF_DATASET_TOKEN
     )
     
     out_dir = Path(OUTPUT_DIR) / "rexgradient"
