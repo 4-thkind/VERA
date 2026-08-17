@@ -177,16 +177,60 @@ class AttentionExtractor:
 
         try:
             # Process inputs
-            if self.image_processor is not None:
-                pixel_values = self.image_processor(
-                    images=image, return_tensors="pt"
-                ).pixel_values.to(self.device)
-            else:
-                pixel_values = None
+            if hasattr(self.tokenizer, "from_list_format"):
+                # Fix Stanford's bug where pos_embed is float32, which casts images to float32
+                if hasattr(self.model, "model") and hasattr(self.model.model, "visual"):
+                    visual = self.model.model.visual
+                    
+                    # 1. Materialize pos_embed if it was left on the meta device
+                    if hasattr(visual, "pos_embed") and visual.pos_embed.device.type == "meta":
+                        import sys
+                        module = sys.modules[visual.__module__]
+                        width = visual.model.config.hidden_size
+                        grid_size = visual.grid_size[0]
+                        pos_embed_np = module.get_2d_sincos_pos_embed(width, grid_size)
+                        # Replace the meta tensor entirely with a real parameter
+                        visual.pos_embed = torch.nn.Parameter(
+                            torch.from_numpy(pos_embed_np).to(device=self.device, dtype=torch.float16), 
+                            requires_grad=False
+                        )
 
-            text_inputs = self.tokenizer(
-                prompt, return_tensors="pt", padding=True
-            ).to(self.device)
+                    # 2. Reload the ENTIRE vision encoder if accelerate turned it into a ghost
+                    if hasattr(visual, "model") and next(visual.model.parameters()).device.type == "meta":
+                        from transformers import AutoModel
+                        print("    [FIX] Reloading SigLIP vision model to replace meta tensors...")
+                        real_vision_model = AutoModel.from_pretrained(
+                            "StanfordAIMI/XraySigLIP__vit-l-16-siglip-384__webli"
+                        ).vision_model
+                        visual.model = real_vision_model.to(device=self.device, dtype=torch.float16)
+
+                    # 3. Fix precision bugs on real tensors
+                    for param in visual.parameters():
+                        if param.dtype == torch.float32 and param.device.type != "meta":
+                            param.data = param.data.to(torch.float16)
+                import tempfile
+                tmp_img = tempfile.mktemp(suffix=".png")
+                image.save(tmp_img)
+                query = self.tokenizer.from_list_format([{"image": tmp_img}, {"text": prompt}])
+                conv = [
+                    {"from": "system", "value": "You are a helpful assistant."},
+                    {"from": "human", "value": query}
+                ]
+                formatted_prompt = self.tokenizer.apply_chat_template(conv, add_generation_prompt=True, tokenize=False)
+                text_inputs = self.tokenizer(
+                    text=formatted_prompt, return_tensors="pt", padding=True
+                ).to(self.device)
+                pixel_values = None
+            else:
+                if self.image_processor is not None:
+                    pixel_values = self.image_processor(
+                        images=image, return_tensors="pt"
+                    ).pixel_values.to(self.device, dtype=self.model.dtype)
+                else:
+                    pixel_values = None
+                text_inputs = self.tokenizer(
+                    text=prompt, return_tensors="pt", padding=True
+                ).to(self.device)
 
             # Build model inputs
             model_inputs = {
@@ -196,6 +240,7 @@ class AttentionExtractor:
             if pixel_values is not None:
                 model_inputs["pixel_values"] = pixel_values
 
+            print("  [DEBUG] Calling model.generate()...")
             # Generate with attention output
             with torch.no_grad():
                 outputs = self.model.generate(
@@ -539,7 +584,7 @@ def load_chexagent(
         model = LlavaForConditionalGeneration.from_pretrained(
             model_id,
             torch_dtype=torch.float16,
-            device_map="auto",
+            device_map={"": 0},
             token=hf_token,
             attn_implementation="eager",  # Required for attention extraction
             quantization_config=quantization_config,
@@ -549,7 +594,7 @@ def load_chexagent(
         model = AutoModelForCausalLM.from_pretrained(
             model_id,
             torch_dtype=torch.float16,
-            device_map="auto",
+            device_map={"": 0},
             token=hf_token,
             trust_remote_code=True,
             attn_implementation="eager",
@@ -612,7 +657,7 @@ def load_llava_med(
     model = LlavaForConditionalGeneration.from_pretrained(
         model_id,
         torch_dtype=torch.float16,
-        device_map="auto",
+        device_map={"": 0},
         token=hf_token,
         attn_implementation="eager",
         quantization_config=quantization_config,
