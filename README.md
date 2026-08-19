@@ -14,7 +14,9 @@ Unlike existing approaches, VERA operates entirely **zero-shot**—it requires n
 3. [Key Features](#key-features)
 4. [System Architecture](#system-architecture)
 5. [Data Flow & Execution Pipeline](#data-flow--execution-pipeline)
-6. [Repository Structure](#repository-structure)
+6. [References](#references)
+7. [Repository Structure](#repository-structure)
+ 
 
 ---
 
