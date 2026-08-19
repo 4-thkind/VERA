@@ -153,46 +153,69 @@ The following references underpin the theoretical foundations, datasets, models,
 6. Zhai, X., et al. "SigLIP: Sigmoid Loss for Language Image Pre-Training." *IEEE/CVF International Conference on Computer Vision (ICCV)*, 2023.
 7. Radford, A., et al. "Learning Transferable Visual Models from Natural Language Supervision." *International Conference on Machine Learning (ICML)*, 2021.
 8. Dosovitskiy, A., et al. "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale." *International Conference on Learning Representations (ICLR)*, 2021.
+9. Jing, B., et al. "On the Automatic Generation of Medical Imaging Reports." *Association for Computational Linguistics (ACL)*, 2018.
+10. Chen, Z., et al. "Generating Radiology Reports via Memory-driven Transformer." *Empirical Methods in Natural Language Processing (EMNLP)*, 2020.
+11. Miura, Y., et al. "Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation." *North American Chapter of the Association for Computational Linguistics (NAACL)*, 2021.
+12. Liu, H., et al. "LLaVA 1.5: Improved Baselines with Visual Instruction Tuning." *arXiv preprint arXiv:2310.03744*, 2023.
 
 #### Hallucination Detection & Mitigation
 
-9. Ji, Z., et al. "Survey of Hallucination in Natural Language Generation." *ACM Computing Surveys*, 55(12), 1–38, 2023.
-10. Huang, L., et al. "A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions." *arXiv preprint arXiv:2311.05232*, 2023.
-11. Li, Y., et al. "Evaluating Object Hallucination in Large Vision-Language Models." *Empirical Methods in Natural Language Processing (EMNLP)*, 2023.
-12. Zhou, Y., et al. "Analyzing and Mitigating Object Hallucination in Large Vision-Language Models." *International Conference on Learning Representations (ICLR)*, 2024.
-13. Rohrbach, A., et al. "Object Hallucination in Image Captioning." *Empirical Methods in Natural Language Processing (EMNLP)*, 2018.
-14. Manakul, P., et al. "SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models." *Empirical Methods in Natural Language Processing (EMNLP)*, 2023.
+13. Ji, Z., et al. "Survey of Hallucination in Natural Language Generation." *ACM Computing Surveys*, 55(12), 1–38, 2023.
+14. Huang, L., et al. "A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions." *arXiv preprint arXiv:2311.05232*, 2023.
+15. Li, Y., et al. "Evaluating Object Hallucination in Large Vision-Language Models." *Empirical Methods in Natural Language Processing (EMNLP)*, 2023.
+16. Zhou, Y., et al. "Analyzing and Mitigating Object Hallucination in Large Vision-Language Models." *International Conference on Learning Representations (ICLR)*, 2024.
+17. Rohrbach, A., et al. "Object Hallucination in Image Captioning." *Empirical Methods in Natural Language Processing (EMNLP)*, 2018.
+18. Manakul, P., et al. "SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models." *Empirical Methods in Natural Language Processing (EMNLP)*, 2023.
+19. Rawte, V., et al. "A Survey of Hallucination in Large Foundation Models." *arXiv preprint arXiv:2309.05922*, 2023.
+20. Gunjal, A., et al. "Detecting and Preventing Hallucinations in Large Vision Language Models." *AAAI Conference on Artificial Intelligence*, 2024.
+21. Umapathi, L.K., et al. "Med-HALT: Medical Domain Hallucination Test for Large Language Models." *Conference on Computational Natural Language Learning (CoNLL)*, 2023.
 
 #### Attention Mechanisms & Interpretability
 
-15. Vaswani, A., et al. "Attention Is All You Need." *Advances in Neural Information Processing Systems (NeurIPS)*, 2017.
-16. Jain, S. and Wallace, B.C. "Attention is Not Explanation." *North American Chapter of the Association for Computational Linguistics (NAACL)*, 2019.
-17. Wiegreffe, S. and Pinter, Y. "Attention is Not Not Explanation." *Empirical Methods in Natural Language Processing (EMNLP)*, 2019.
-18. Abnar, S. and Zuidema, W. "Quantifying Attention Flow in Transformers." *Association for Computational Linguistics (ACL)*, 2020.
-19. Chefer, H., et al. "Transformer Interpretability Beyond Attention Visualization." *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021.
+22. Vaswani, A., et al. "Attention Is All You Need." *Advances in Neural Information Processing Systems (NeurIPS)*, 2017.
+23. Jain, S. and Wallace, B.C. "Attention is Not Explanation." *North American Chapter of the Association for Computational Linguistics (NAACL)*, 2019.
+24. Wiegreffe, S. and Pinter, Y. "Attention is Not Not Explanation." *Empirical Methods in Natural Language Processing (EMNLP)*, 2019.
+25. Abnar, S. and Zuidema, W. "Quantifying Attention Flow in Transformers." *Association for Computational Linguistics (ACL)*, 2020.
+26. Chefer, H., et al. "Transformer Interpretability Beyond Attention Visualization." *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021.
+27. Selvaraju, R.R., et al. "Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization." *IEEE International Conference on Computer Vision (ICCV)*, 2017.
+28. Park, D.H., et al. "Multimodal Explanations: Justifying Decisions and Pointing to the Evidence." *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018.
+29. Clark, K., et al. "What Does BERT Look At? An Analysis of BERT's Attention." *BlackboxNLP Workshop, Association for Computational Linguistics (ACL)*, 2019.
 
-#### Chest X-Ray Datasets
+#### Chest X-Ray Datasets & Benchmarks
 
-20. Demner-Fushman, D., et al. "Preparing a Collection of Radiology Examinations for Distribution and Retrieval." *Journal of the American Medical Informatics Association (JAMIA)*, 22(2), 304–310, 2015.
-21. Johnson, A.E.W., et al. "MIMIC-CXR, a De-identified Publicly Available Database of Chest Radiographs with Free-Text Reports." *Scientific Data*, 6(317), 2019.
-22. Irvin, J., et al. "CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison." *AAAI Conference on Artificial Intelligence*, 2019.
-23. Rajpurkar, P., et al. "CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning." *arXiv preprint arXiv:1711.05225*, 2017.
+30. Demner-Fushman, D., et al. "Preparing a Collection of Radiology Examinations for Distribution and Retrieval." *Journal of the American Medical Informatics Association (JAMIA)*, 22(2), 304–310, 2015.
+31. Johnson, A.E.W., et al. "MIMIC-CXR, a De-identified Publicly Available Database of Chest Radiographs with Free-Text Reports." *Scientific Data*, 6(317), 2019.
+32. Irvin, J., et al. "CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison." *AAAI Conference on Artificial Intelligence*, 2019.
+33. Rajpurkar, P., et al. "CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning." *arXiv preprint arXiv:1711.05225*, 2017.
+34. Wang, X., et al. "ChestX-ray8: Hospital-Scale Chest X-Ray Database and Benchmarks." *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2017.
+35. Bustos, A., et al. "PadChest: A Large Chest X-Ray Image Dataset with Multi-label Annotated Reports." *Medical Image Analysis*, 66, 101797, 2020.
 
 #### Natural Language Inference & Factual Consistency
 
-24. Reimers, N. and Gurevych, I. "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks." *Empirical Methods in Natural Language Processing (EMNLP)*, 2019.
-25. Kryscinski, W., et al. "Evaluating the Factual Consistency of Abstractive Text Summarization." *Empirical Methods in Natural Language Processing (EMNLP)*, 2020.
-26. Honovich, O., et al. "Q²: Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering." *Empirical Methods in Natural Language Processing (EMNLP)*, 2021.
+36. Reimers, N. and Gurevych, I. "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks." *Empirical Methods in Natural Language Processing (EMNLP)*, 2019.
+37. Kryscinski, W., et al. "Evaluating the Factual Consistency of Abstractive Text Summarization." *Empirical Methods in Natural Language Processing (EMNLP)*, 2020.
+38. Honovich, O., et al. "Q²: Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering." *Empirical Methods in Natural Language Processing (EMNLP)*, 2021.
+39. Bowman, S.R., et al. "A Large Annotated Corpus for Learning Natural Language Inference." *Empirical Methods in Natural Language Processing (EMNLP)*, 2015.
+40. Williams, A., et al. "A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference." *North American Chapter of the Association for Computational Linguistics (NAACL)*, 2018.
 
 #### Medical NLP & Clinical Text Processing
 
-27. Neumann, M., et al. "ScispaCy: Fast and Robust Models for Biomedical Natural Language Processing." *BioNLP Workshop, Association for Computational Linguistics (ACL)*, 2019.
-28. Bodenreider, O. "The Unified Medical Language System (UMLS): Integrating Biomedical Terminology." *Nucleic Acids Research*, 32(suppl_1), D267–D270, 2004.
+41. Neumann, M., et al. "ScispaCy: Fast and Robust Models for Biomedical Natural Language Processing." *BioNLP Workshop, Association for Computational Linguistics (ACL)*, 2019.
+42. Bodenreider, O. "The Unified Medical Language System (UMLS): Integrating Biomedical Terminology." *Nucleic Acids Research*, 32(suppl_1), D267–D270, 2004.
+43. Lee, J., et al. "BioBERT: A Pre-trained Biomedical Language Representation Model for Biomedical Text Mining." *Bioinformatics*, 36(4), 1234–1240, 2020.
+44. Gu, Y., et al. "Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing." *ACM Transactions on Computing for Healthcare*, 3(1), 1–23, 2022.
+45. Peng, Y., et al. "NegBio: A High-Performance Tool for Negation and Uncertainty Detection in Radiology Reports." *AMIA Joint Summits on Translational Science*, 188–196, 2018.
+
+#### Medical AI Safety & Trustworthiness
+
+46. Singhal, K., et al. "Large Language Models Encode Clinical Knowledge." *Nature*, 620, 172–180, 2023.
+47. Nori, H., et al. "Capabilities of GPT-4 on Medical Challenge Problems." *arXiv preprint arXiv:2303.13375*, 2023.
+48. Thirunavukarasu, A.J., et al. "Large Language Models in Medicine." *Nature Medicine*, 29, 1930–1940, 2023.
 
 #### Efficient Model Inference
 
-29. Dettmers, T., et al. "QLoRA: Efficient Finetuning of Quantized Language Models." *Advances in Neural Information Processing Systems (NeurIPS)*, 2023.
-30. Gugger, S., et al. "Accelerate: Training and Inference at Scale Made Simple, Efficient, and Adaptable." *GitHub Repository, HuggingFace*, 2022.
+49. Dettmers, T., et al. "QLoRA: Efficient Finetuning of Quantized Language Models." *Advances in Neural Information Processing Systems (NeurIPS)*, 2023.
+50. Gugger, S., et al. "Accelerate: Training and Inference at Scale Made Simple, Efficient, and Adaptable." *GitHub Repository, HuggingFace*, 2022.
 
 ---
 
