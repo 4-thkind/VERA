@@ -578,28 +578,16 @@ def load_chexagent(
             bnb_4bit_quant_type="nf4",
         )
 
-    # Try loading as a vision-language model
-    try:
-        from transformers import LlavaForConditionalGeneration
-        model = LlavaForConditionalGeneration.from_pretrained(
-            model_id,
-            torch_dtype=torch.float16,
-            device_map={"": 0},
-            token=hf_token,
-            attn_implementation="eager",  # Required for attention extraction
-            quantization_config=quantization_config,
-        )
-    except Exception:
-        # Fallback to AutoModel
-        model = AutoModelForCausalLM.from_pretrained(
-            model_id,
-            torch_dtype=torch.float16,
-            device_map={"": 0},
-            token=hf_token,
-            trust_remote_code=True,
-            attn_implementation="eager",
-            quantization_config=quantization_config,
-        )
+    # Load directly as AutoModel since CheXagent uses custom architecture
+    model = AutoModelForCausalLM.from_pretrained(
+        model_id,
+        torch_dtype=torch.float16,
+        device_map={"": 0},
+        token=hf_token,
+        trust_remote_code=True,
+        attn_implementation="eager",
+        quantization_config=quantization_config,
+    )
 
     # Load tokenizer
     tokenizer = AutoTokenizer.from_pretrained(
