@@ -119,17 +119,23 @@ graph TD
 
 ### Notebook Execution Guide
 
+You can run VERA either step-by-step locally or end-to-end on Google Colab.
+
+#### Option 1: Google Colab (Recommended for GPU constraints)
+* **`VERA_Colab_Pipeline.ipynb`**: A unified, single-notebook pipeline designed specifically for Colab's T4 GPU. It handles Kaggle credentials, dependency patching (bypassing Colab library conflicts), automated memory management, and runs Phases 1 through 6 sequentially.
+
+#### Option 2: Step-by-Step Local Execution
 * **Phase 1: Preparation**
-  * `01_data_prep.ipynb`: Loads and parses Indiana U (XML) and ReXGradient (JSON) datasets. Filters for anatomical mentions and generates the standard 70/20/10 data splits.
+  * `01_data_prep.ipynb`: Loads and parses datasets, generating standard splits.
 * **Phase 2: Generation & Hooking (GPU Required)**
-  * `02_model_inference.ipynb`: Initializes the VLM, registers PyTorch forward hooks on the cross-attention layers, runs inference on the test split, and saves the generated reports alongside raw attention `.npz` maps.
+  * `02_model_inference.ipynb`: Initializes the VLM, registers hooks, and saves generated reports with attention maps.
 * **Phase 3: Parsing & Mapping**
-  * `03_claim_extraction.ipynb`: Executes the NLP pipeline to structure the clinical claims from the generated text.
-  * `04_anatomy_atlas.ipynb`: Constructs and validates the spatial mapping between anatomical strings and the model's visual patch grid.
+  * `03_claim_extraction.ipynb`: Executes NLP pipeline to structure clinical claims.
+  * `04_anatomy_atlas.ipynb`: Validates the spatial mapping to the visual patch grid.
 * **Phase 4: Auditing**
-  * `05_vera_scoring.ipynb`: Computes the final VERA alignment scores and calibrates the tiered severity thresholds using the validation split.
+  * `05_vera_scoring.ipynb`: Computes VERA alignment scores and calibrates thresholds.
 * **Phase 5: Evaluation**
-  * `06_evaluation.ipynb`: Compares VERA's hallucination predictions against NLI-based ground truth. Generates final performance metrics (Precision, Recall, F1, AUROC) and exports all paper figures, heatmaps, and tables.
+  * `06_evaluation.ipynb`: Compares against NLI ground truth and generates final metrics/figures.
 
 ---
 
@@ -138,6 +144,7 @@ graph TD
 ```text
 VERA_GENAI4HEALTH/
 ├── config.py                  # Global settings, Kaggle path detection, and HF tokens
+├── VERA_Colab_Pipeline.ipynb  # Unified end-to-end Colab execution notebook
 ├── src/                       # Core python modules
 │   ├── anatomy_atlas.py       # 13-zone chest bounding box definitions and masking
 │   ├── attention_extractor.py # PyTorch VLM hooks and token-wise attention pooling
