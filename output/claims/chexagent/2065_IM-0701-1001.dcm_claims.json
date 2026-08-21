@@ -1,0 +1,345 @@
+{
+  "image_id": "2065_IM-0701-1001.dcm",
+  "generated_report": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+  "claims": [
+    {
+      "finding": "pulmonary edema",
+      "location": "cardiac",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        99,
+        114
+      ]
+    },
+    {
+      "finding": "pulmonary edema",
+      "location": "pleural",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        99,
+        114
+      ]
+    },
+    {
+      "finding": "pulmonary edema",
+      "location": "lungs",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        99,
+        114
+      ]
+    },
+    {
+      "finding": "pulmonary edema",
+      "location": "heart",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        99,
+        114
+      ]
+    },
+    {
+      "finding": "cardiomegaly",
+      "location": "cardiac",
+      "severity": "moderate",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        29,
+        41
+      ]
+    },
+    {
+      "finding": "cardiomegaly",
+      "location": "pleural",
+      "severity": "moderate",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        29,
+        41
+      ]
+    },
+    {
+      "finding": "cardiomegaly",
+      "location": "lungs",
+      "severity": "moderate",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        29,
+        41
+      ]
+    },
+    {
+      "finding": "cardiomegaly",
+      "location": "heart",
+      "severity": "moderate",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        29,
+        41
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "cardiac",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        147,
+        156
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "pleural",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        147,
+        156
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "lungs",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        147,
+        156
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "heart",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        147,
+        156
+      ]
+    },
+    {
+      "finding": "scoliosis",
+      "location": "cardiac",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        246,
+        255
+      ]
+    },
+    {
+      "finding": "scoliosis",
+      "location": "pleural",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        246,
+        255
+      ]
+    },
+    {
+      "finding": "scoliosis",
+      "location": "lungs",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        246,
+        255
+      ]
+    },
+    {
+      "finding": "scoliosis",
+      "location": "heart",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        246,
+        255
+      ]
+    },
+    {
+      "finding": "mild cardiomegaly",
+      "location": "cardiac",
+      "severity": "moderate",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        24,
+        41
+      ]
+    },
+    {
+      "finding": "mild cardiomegaly",
+      "location": "pleural",
+      "severity": "moderate",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        24,
+        41
+      ]
+    },
+    {
+      "finding": "mild cardiomegaly",
+      "location": "lungs",
+      "severity": "moderate",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        24,
+        41
+      ]
+    },
+    {
+      "finding": "mild cardiomegaly",
+      "location": "heart",
+      "severity": "moderate",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        24,
+        41
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "cardiac",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        170,
+        176
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "pleural",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        170,
+        176
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "lungs",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        170,
+        176
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "heart",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        170,
+        176
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "cardiac",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        191,
+        208
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "pleural",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        191,
+        208
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "lungs",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        191,
+        208
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "heart",
+      "severity": "moderate",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+      "sentence_idx": 0,
+      "char_span": [
+        191,
+        208
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 28,
+  "num_relational_flags": 0
+}

@@ -1,0 +1,153 @@
+{
+  "image_id": "2125_IM-0749-1001.dcm",
+  "generated_report": "[Breathing: Lungs] **Left lower lobe consolidation is present, which is concerning for pneumonia.** [Breathing: Pleura] **A small left pleural effusion is also noted.**",
+  "claims": [
+    {
+      "finding": "pleural effusion",
+      "location": "left lower lobe",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **Left lower lobe consolidation is present, which is concerning for pneumonia.** [Breathing: Pleura] **A small left pleural effusion is also noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        135,
+        151
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **Left lower lobe consolidation is present, which is concerning for pneumonia.** [Breathing: Pleura] **A small left pleural effusion is also noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        135,
+        151
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **Left lower lobe consolidation is present, which is concerning for pneumonia.** [Breathing: Pleura] **A small left pleural effusion is also noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        135,
+        151
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "left lower lobe",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **Left lower lobe consolidation is present, which is concerning for pneumonia.** [Breathing: Pleura] **A small left pleural effusion is also noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        37,
+        50
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **Left lower lobe consolidation is present, which is concerning for pneumonia.** [Breathing: Pleura] **A small left pleural effusion is also noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        37,
+        50
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **Left lower lobe consolidation is present, which is concerning for pneumonia.** [Breathing: Pleura] **A small left pleural effusion is also noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        37,
+        50
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "left lower lobe",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **Left lower lobe consolidation is present, which is concerning for pneumonia.** [Breathing: Pleura] **A small left pleural effusion is also noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        87,
+        96
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **Left lower lobe consolidation is present, which is concerning for pneumonia.** [Breathing: Pleura] **A small left pleural effusion is also noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        87,
+        96
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **Left lower lobe consolidation is present, which is concerning for pneumonia.** [Breathing: Pleura] **A small left pleural effusion is also noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        87,
+        96
+      ]
+    },
+    {
+      "finding": "left lower lobe consolidation",
+      "location": "left lower lobe",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **Left lower lobe consolidation is present, which is concerning for pneumonia.** [Breathing: Pleura] **A small left pleural effusion is also noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        21,
+        50
+      ]
+    },
+    {
+      "finding": "left lower lobe consolidation",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **Left lower lobe consolidation is present, which is concerning for pneumonia.** [Breathing: Pleura] **A small left pleural effusion is also noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        21,
+        50
+      ]
+    },
+    {
+      "finding": "left lower lobe consolidation",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **Left lower lobe consolidation is present, which is concerning for pneumonia.** [Breathing: Pleura] **A small left pleural effusion is also noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        21,
+        50
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 12,
+  "num_relational_flags": 0
+}

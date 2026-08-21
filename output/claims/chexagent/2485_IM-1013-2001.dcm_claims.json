@@ -1,0 +1,105 @@
+{
+  "image_id": "2485_IM-1013-2001.dcm",
+  "generated_report": "[Breathing: Lungs] **There is consolidation in the left lower lobe.** [Breathing: Pleura] **There are bilateral pleural effusions.**",
+  "claims": [
+    {
+      "finding": "consolidation",
+      "location": "left lower lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is consolidation in the left lower lobe.** [Breathing: Pleura] **There are bilateral pleural effusions.**",
+      "sentence_idx": 0,
+      "char_span": [
+        30,
+        43
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "bilateral",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is consolidation in the left lower lobe.** [Breathing: Pleura] **There are bilateral pleural effusions.**",
+      "sentence_idx": 0,
+      "char_span": [
+        30,
+        43
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is consolidation in the left lower lobe.** [Breathing: Pleura] **There are bilateral pleural effusions.**",
+      "sentence_idx": 0,
+      "char_span": [
+        30,
+        43
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is consolidation in the left lower lobe.** [Breathing: Pleura] **There are bilateral pleural effusions.**",
+      "sentence_idx": 0,
+      "char_span": [
+        30,
+        43
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "left lower lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is consolidation in the left lower lobe.** [Breathing: Pleura] **There are bilateral pleural effusions.**",
+      "sentence_idx": 0,
+      "char_span": [
+        112,
+        129
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "bilateral",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is consolidation in the left lower lobe.** [Breathing: Pleura] **There are bilateral pleural effusions.**",
+      "sentence_idx": 0,
+      "char_span": [
+        112,
+        129
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is consolidation in the left lower lobe.** [Breathing: Pleura] **There are bilateral pleural effusions.**",
+      "sentence_idx": 0,
+      "char_span": [
+        112,
+        129
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is consolidation in the left lower lobe.** [Breathing: Pleura] **There are bilateral pleural effusions.**",
+      "sentence_idx": 0,
+      "char_span": [
+        112,
+        129
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 8,
+  "num_relational_flags": 0
+}

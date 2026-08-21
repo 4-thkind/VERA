@@ -1,0 +1,585 @@
+{
+  "image_id": "2991_IM-1378-1001.dcm",
+  "generated_report": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+  "claims": [
+    {
+      "finding": "opacity",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        45
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        45
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        45
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        45
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        45
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "right",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        45
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        174,
+        180
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        174,
+        180
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        174,
+        180
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        174,
+        180
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        174,
+        180
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "right",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        174,
+        180
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        127,
+        132
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        127,
+        132
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        127,
+        132
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        127,
+        132
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        127,
+        132
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "right",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        127,
+        132
+      ]
+    },
+    {
+      "finding": "nodular opacity",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        30,
+        45
+      ]
+    },
+    {
+      "finding": "nodular opacity",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        30,
+        45
+      ]
+    },
+    {
+      "finding": "nodular opacity",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        30,
+        45
+      ]
+    },
+    {
+      "finding": "nodular opacity",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        30,
+        45
+      ]
+    },
+    {
+      "finding": "nodular opacity",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        30,
+        45
+      ]
+    },
+    {
+      "finding": "nodular opacity",
+      "location": "right",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        30,
+        45
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        200,
+        211
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        200,
+        211
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        200,
+        211
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        200,
+        211
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        200,
+        211
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "right",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        200,
+        211
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        262,
+        268
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        262,
+        268
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        262,
+        268
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        262,
+        268
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        262,
+        268
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "right",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        262,
+        268
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        283,
+        300
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        283,
+        300
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        283,
+        300
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        283,
+        300
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        283,
+        300
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "right",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        283,
+        300
+      ]
+    },
+    {
+      "finding": "bones] **old right-sided rib fractures",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        320,
+        358
+      ]
+    },
+    {
+      "finding": "bones] **old right-sided rib fractures",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        320,
+        358
+      ]
+    },
+    {
+      "finding": "bones] **old right-sided rib fractures",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        320,
+        358
+      ]
+    },
+    {
+      "finding": "bones] **old right-sided rib fractures",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        320,
+        358
+      ]
+    },
+    {
+      "finding": "bones] **old right-sided rib fractures",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        320,
+        358
+      ]
+    },
+    {
+      "finding": "bones] **old right-sided rib fractures",
+      "location": "right",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        320,
+        358
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 48,
+  "num_relational_flags": 0
+}

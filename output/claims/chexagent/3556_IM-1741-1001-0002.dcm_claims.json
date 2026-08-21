@@ -1,0 +1,177 @@
+{
+  "image_id": "3556_IM-1741-1001-0002.dcm",
+  "generated_report": "[Everything else: Mediastinal] The cardiomedial silhouette is stable with intact median sternotomy wires. [Breathing: Lungs] The lungs are clear without focal consolidation, effusion, or edema. [Everything else: Bones] There is no acute osseous abnormality.",
+  "claims": [
+    {
+      "finding": "consolidation",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Everything else: Mediastinal] The cardiomedial silhouette is stable with intact median sternotomy wires. [Breathing: Lungs] The lungs are clear without focal consolidation, effusion, or edema. [Everything else: Bones] There is no acute osseous abnormality.",
+      "sentence_idx": 0,
+      "char_span": [
+        159,
+        172
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Everything else: Mediastinal] The cardiomedial silhouette is stable with intact median sternotomy wires. [Breathing: Lungs] The lungs are clear without focal consolidation, effusion, or edema. [Everything else: Bones] There is no acute osseous abnormality.",
+      "sentence_idx": 0,
+      "char_span": [
+        159,
+        172
+      ]
+    },
+    {
+      "finding": "effusion",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Everything else: Mediastinal] The cardiomedial silhouette is stable with intact median sternotomy wires. [Breathing: Lungs] The lungs are clear without focal consolidation, effusion, or edema. [Everything else: Bones] There is no acute osseous abnormality.",
+      "sentence_idx": 0,
+      "char_span": [
+        174,
+        182
+      ]
+    },
+    {
+      "finding": "effusion",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Everything else: Mediastinal] The cardiomedial silhouette is stable with intact median sternotomy wires. [Breathing: Lungs] The lungs are clear without focal consolidation, effusion, or edema. [Everything else: Bones] There is no acute osseous abnormality.",
+      "sentence_idx": 0,
+      "char_span": [
+        174,
+        182
+      ]
+    },
+    {
+      "finding": "stable",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Mediastinal] The cardiomedial silhouette is stable with intact median sternotomy wires. [Breathing: Lungs] The lungs are clear without focal consolidation, effusion, or edema. [Everything else: Bones] There is no acute osseous abnormality.",
+      "sentence_idx": 0,
+      "char_span": [
+        62,
+        68
+      ]
+    },
+    {
+      "finding": "stable",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Mediastinal] The cardiomedial silhouette is stable with intact median sternotomy wires. [Breathing: Lungs] The lungs are clear without focal consolidation, effusion, or edema. [Everything else: Bones] There is no acute osseous abnormality.",
+      "sentence_idx": 0,
+      "char_span": [
+        62,
+        68
+      ]
+    },
+    {
+      "finding": "edema",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Everything else: Mediastinal] The cardiomedial silhouette is stable with intact median sternotomy wires. [Breathing: Lungs] The lungs are clear without focal consolidation, effusion, or edema. [Everything else: Bones] There is no acute osseous abnormality.",
+      "sentence_idx": 0,
+      "char_span": [
+        187,
+        192
+      ]
+    },
+    {
+      "finding": "edema",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Everything else: Mediastinal] The cardiomedial silhouette is stable with intact median sternotomy wires. [Breathing: Lungs] The lungs are clear without focal consolidation, effusion, or edema. [Everything else: Bones] There is no acute osseous abnormality.",
+      "sentence_idx": 0,
+      "char_span": [
+        187,
+        192
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Mediastinal] The cardiomedial silhouette is stable with intact median sternotomy wires. [Breathing: Lungs] The lungs are clear without focal consolidation, effusion, or edema. [Everything else: Bones] There is no acute osseous abnormality.",
+      "sentence_idx": 0,
+      "char_span": [
+        139,
+        144
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Mediastinal] The cardiomedial silhouette is stable with intact median sternotomy wires. [Breathing: Lungs] The lungs are clear without focal consolidation, effusion, or edema. [Everything else: Bones] There is no acute osseous abnormality.",
+      "sentence_idx": 0,
+      "char_span": [
+        139,
+        144
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Mediastinal] The cardiomedial silhouette is stable with intact median sternotomy wires. [Breathing: Lungs] The lungs are clear without focal consolidation, effusion, or edema. [Everything else: Bones] There is no acute osseous abnormality.",
+      "sentence_idx": 0,
+      "char_span": [
+        18,
+        29
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Mediastinal] The cardiomedial silhouette is stable with intact median sternotomy wires. [Breathing: Lungs] The lungs are clear without focal consolidation, effusion, or edema. [Everything else: Bones] There is no acute osseous abnormality.",
+      "sentence_idx": 0,
+      "char_span": [
+        18,
+        29
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Everything else: Mediastinal] The cardiomedial silhouette is stable with intact median sternotomy wires. [Breathing: Lungs] The lungs are clear without focal consolidation, effusion, or edema. [Everything else: Bones] There is no acute osseous abnormality.",
+      "sentence_idx": 0,
+      "char_span": [
+        153,
+        172
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Everything else: Mediastinal] The cardiomedial silhouette is stable with intact median sternotomy wires. [Breathing: Lungs] The lungs are clear without focal consolidation, effusion, or edema. [Everything else: Bones] There is no acute osseous abnormality.",
+      "sentence_idx": 0,
+      "char_span": [
+        153,
+        172
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 14,
+  "num_relational_flags": 0
+}

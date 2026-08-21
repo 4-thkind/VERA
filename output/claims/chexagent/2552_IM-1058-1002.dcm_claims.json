@@ -1,0 +1,297 @@
+{
+  "image_id": "2552_IM-1058-1002.dcm",
+  "generated_report": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+  "claims": [
+    {
+      "finding": "opacities",
+      "location": "cardiac silhouette",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        87,
+        96
+      ]
+    },
+    {
+      "finding": "opacities",
+      "location": "right lung",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        87,
+        96
+      ]
+    },
+    {
+      "finding": "opacities",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        87,
+        96
+      ]
+    },
+    {
+      "finding": "opacities",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        87,
+        96
+      ]
+    },
+    {
+      "finding": "opacities",
+      "location": "bases",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        87,
+        96
+      ]
+    },
+    {
+      "finding": "opacities",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        87,
+        96
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac silhouette",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        352,
+        358
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "right lung",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        352,
+        358
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        352,
+        358
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        352,
+        358
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "bases",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        352,
+        358
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        352,
+        358
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "cardiac silhouette",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        252,
+        258
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "right lung",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        252,
+        258
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        252,
+        258
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        252,
+        258
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "bases",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        252,
+        258
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        252,
+        258
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "cardiac silhouette",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        273,
+        290
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "right lung",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        273,
+        290
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        273,
+        290
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        273,
+        290
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "bases",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        273,
+        290
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        273,
+        290
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 24,
+  "num_relational_flags": 0
+}

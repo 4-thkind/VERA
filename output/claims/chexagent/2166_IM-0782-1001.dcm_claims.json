@@ -1,0 +1,189 @@
+{
+  "image_id": "2166_IM-0782-1001.dcm",
+  "generated_report": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] **Mild tortuosity of the thoracic aorta.**",
+  "claims": [
+    {
+      "finding": "consolidation",
+      "location": "cardiac silhouette",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] **Mild tortuosity of the thoracic aorta.**",
+      "sentence_idx": 0,
+      "char_span": [
+        78,
+        91
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] **Mild tortuosity of the thoracic aorta.**",
+      "sentence_idx": 0,
+      "char_span": [
+        78,
+        91
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] **Mild tortuosity of the thoracic aorta.**",
+      "sentence_idx": 0,
+      "char_span": [
+        78,
+        91
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] **Mild tortuosity of the thoracic aorta.**",
+      "sentence_idx": 0,
+      "char_span": [
+        78,
+        91
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "aorta",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] **Mild tortuosity of the thoracic aorta.**",
+      "sentence_idx": 0,
+      "char_span": [
+        78,
+        91
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac silhouette",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] **Mild tortuosity of the thoracic aorta.**",
+      "sentence_idx": 0,
+      "char_span": [
+        148,
+        154
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] **Mild tortuosity of the thoracic aorta.**",
+      "sentence_idx": 0,
+      "char_span": [
+        148,
+        154
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] **Mild tortuosity of the thoracic aorta.**",
+      "sentence_idx": 0,
+      "char_span": [
+        148,
+        154
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] **Mild tortuosity of the thoracic aorta.**",
+      "sentence_idx": 0,
+      "char_span": [
+        148,
+        154
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "aorta",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] **Mild tortuosity of the thoracic aorta.**",
+      "sentence_idx": 0,
+      "char_span": [
+        148,
+        154
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "cardiac silhouette",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] **Mild tortuosity of the thoracic aorta.**",
+      "sentence_idx": 0,
+      "char_span": [
+        72,
+        91
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] **Mild tortuosity of the thoracic aorta.**",
+      "sentence_idx": 0,
+      "char_span": [
+        72,
+        91
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] **Mild tortuosity of the thoracic aorta.**",
+      "sentence_idx": 0,
+      "char_span": [
+        72,
+        91
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] **Mild tortuosity of the thoracic aorta.**",
+      "sentence_idx": 0,
+      "char_span": [
+        72,
+        91
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "aorta",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] **Mild tortuosity of the thoracic aorta.**",
+      "sentence_idx": 0,
+      "char_span": [
+        72,
+        91
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 15,
+  "num_relational_flags": 0
+}

@@ -1,0 +1,549 @@
+{
+  "image_id": "975_IM-2464-2001.dcm",
+  "generated_report": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+  "claims": [
+    {
+      "finding": "pleural effusion",
+      "location": "cardiac silhouette",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        252,
+        268
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        252,
+        268
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        252,
+        268
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        252,
+        268
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        252,
+        268
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "cardiac silhouette",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        205,
+        218
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        205,
+        218
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        205,
+        218
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        205,
+        218
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        205,
+        218
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "cardiac silhouette",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        272,
+        284
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        272,
+        284
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        272,
+        284
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        272,
+        284
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        272,
+        284
+      ]
+    },
+    {
+      "finding": "atelectasis",
+      "location": "cardiac silhouette",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        153,
+        164
+      ]
+    },
+    {
+      "finding": "atelectasis",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        153,
+        164
+      ]
+    },
+    {
+      "finding": "atelectasis",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        153,
+        164
+      ]
+    },
+    {
+      "finding": "atelectasis",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        153,
+        164
+      ]
+    },
+    {
+      "finding": "atelectasis",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        153,
+        164
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac silhouette",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        334,
+        340
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        334,
+        340
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        334,
+        340
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        334,
+        340
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        334,
+        340
+      ]
+    },
+    {
+      "finding": "mild bibasilar atelectasis",
+      "location": "cardiac silhouette",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        138,
+        164
+      ]
+    },
+    {
+      "finding": "mild bibasilar atelectasis",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        138,
+        164
+      ]
+    },
+    {
+      "finding": "mild bibasilar atelectasis",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        138,
+        164
+      ]
+    },
+    {
+      "finding": "mild bibasilar atelectasis",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        138,
+        164
+      ]
+    },
+    {
+      "finding": "mild bibasilar atelectasis",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        138,
+        164
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "cardiac silhouette",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        199,
+        218
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        199,
+        218
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        199,
+        218
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        199,
+        218
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        199,
+        218
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "cardiac silhouette",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        232,
+        238
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        232,
+        238
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        232,
+        238
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        232,
+        238
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        232,
+        238
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "cardiac silhouette",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        360,
+        371
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        360,
+        371
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        360,
+        371
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        360,
+        371
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        360,
+        371
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 45,
+  "num_relational_flags": 0
+}

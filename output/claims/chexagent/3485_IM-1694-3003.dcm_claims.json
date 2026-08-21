@@ -1,0 +1,513 @@
+{
+  "image_id": "3485_IM-1694-3003.dcm",
+  "generated_report": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+  "claims": [
+    {
+      "finding": "pleural effusion",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        192,
+        208
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        192,
+        208
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        192,
+        208
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        192,
+        208
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        192,
+        208
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "hilar",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        192,
+        208
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        145,
+        158
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        145,
+        158
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        145,
+        158
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        145,
+        158
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        145,
+        158
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "hilar",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        145,
+        158
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        212,
+        224
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        212,
+        224
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        212,
+        224
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        212,
+        224
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        212,
+        224
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "hilar",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        212,
+        224
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        266,
+        272
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        266,
+        272
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        266,
+        272
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        266,
+        272
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        266,
+        272
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "hilar",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        266,
+        272
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        139,
+        158
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        139,
+        158
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        139,
+        158
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        139,
+        158
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        139,
+        158
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "hilar",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        139,
+        158
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        172,
+        178
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        172,
+        178
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        172,
+        178
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        172,
+        178
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        172,
+        178
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "hilar",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        172,
+        178
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        292,
+        303
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        292,
+        303
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        292,
+        303
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        292,
+        303
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        292,
+        303
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "hilar",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        292,
+        303
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 42,
+  "num_relational_flags": 0
+}

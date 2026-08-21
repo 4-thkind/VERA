@@ -1,0 +1,429 @@
+{
+  "image_id": "1145_IM-0097-2002.dcm",
+  "generated_report": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+  "claims": [
+    {
+      "finding": "pleural effusion",
+      "location": "thoracic spine",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        136,
+        152
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        136,
+        152
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        136,
+        152
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        136,
+        152
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        136,
+        152
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "thoracic spine",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        89,
+        102
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        89,
+        102
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        89,
+        102
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        89,
+        102
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        89,
+        102
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "thoracic spine",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        186,
+        198
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        186,
+        198
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        186,
+        198
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        186,
+        198
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        186,
+        198
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "thoracic spine",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        277,
+        283
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        277,
+        283
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        277,
+        283
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        277,
+        283
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        277,
+        283
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "thoracic spine",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        83,
+        102
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        83,
+        102
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        83,
+        102
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        83,
+        102
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        83,
+        102
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "thoracic spine",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        116,
+        122
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        116,
+        122
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        116,
+        122
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        116,
+        122
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        116,
+        122
+      ]
+    },
+    {
+      "finding": "dextroscoliosis",
+      "location": "thoracic spine",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        333,
+        348
+      ]
+    },
+    {
+      "finding": "dextroscoliosis",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        333,
+        348
+      ]
+    },
+    {
+      "finding": "dextroscoliosis",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        333,
+        348
+      ]
+    },
+    {
+      "finding": "dextroscoliosis",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        333,
+        348
+      ]
+    },
+    {
+      "finding": "dextroscoliosis",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+      "sentence_idx": 0,
+      "char_span": [
+        333,
+        348
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 35,
+  "num_relational_flags": 0
+}

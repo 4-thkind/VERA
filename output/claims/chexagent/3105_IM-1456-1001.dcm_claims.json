@@ -1,0 +1,297 @@
+{
+  "image_id": "3105_IM-1456-1001.dcm",
+  "generated_report": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+  "claims": [
+    {
+      "finding": "vascular congestion",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        164,
+        183
+      ]
+    },
+    {
+      "finding": "vascular congestion",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        164,
+        183
+      ]
+    },
+    {
+      "finding": "vascular congestion",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        164,
+        183
+      ]
+    },
+    {
+      "finding": "vascular congestion",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        164,
+        183
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        188,
+        204
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        188,
+        204
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        188,
+        204
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        188,
+        204
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        150,
+        162
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        150,
+        162
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        150,
+        162
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        150,
+        162
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        70,
+        76
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        70,
+        76
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        70,
+        76
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        70,
+        76
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        116
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        116
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        116
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        116
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        130,
+        136
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        130,
+        136
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        130,
+        136
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        130,
+        136
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 24,
+  "num_relational_flags": 0
+}

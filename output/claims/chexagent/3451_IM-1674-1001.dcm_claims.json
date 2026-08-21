@@ -1,0 +1,57 @@
+{
+  "image_id": "3451_IM-1674-1001.dcm",
+  "generated_report": "<|ref|> Pleural thickening <|/ref|> <|box|> (14,52),(22,63) <|/box|> <|ref|> Pleural effusion <|/ref|> <|box|> (14,52),(22,63) <|/box|> <|ref|> Calcification <|/ref|> <|box|> (55,28),(59,36) <|/box|> <|ref|> Other lesion <|/ref|> <|box|> (55,28),(59,36) <|/box|>",
+  "claims": [
+    {
+      "finding": "pleural effusion",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "<|ref|> Pleural thickening <|/ref|> <|box|> (14,52),(22,63) <|/box|> <|ref|> Pleural effusion <|/ref|> <|box|> (14,52),(22,63) <|/box|> <|ref|> Calcification <|/ref|> <|box|> (55,28),(59,36) <|/box|> <|ref|> Other lesion <|/ref|> <|box|> (55,28),(59,36) <|/box|>",
+      "sentence_idx": 0,
+      "char_span": [
+        77,
+        93
+      ]
+    },
+    {
+      "finding": "calcification",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "<|ref|> Pleural thickening <|/ref|> <|box|> (14,52),(22,63) <|/box|> <|ref|> Pleural effusion <|/ref|> <|box|> (14,52),(22,63) <|/box|> <|ref|> Calcification <|/ref|> <|box|> (55,28),(59,36) <|/box|> <|ref|> Other lesion <|/ref|> <|box|> (55,28),(59,36) <|/box|>",
+      "sentence_idx": 0,
+      "char_span": [
+        144,
+        157
+      ]
+    },
+    {
+      "finding": "thickening",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "<|ref|> Pleural thickening <|/ref|> <|box|> (14,52),(22,63) <|/box|> <|ref|> Pleural effusion <|/ref|> <|box|> (14,52),(22,63) <|/box|> <|ref|> Calcification <|/ref|> <|box|> (55,28),(59,36) <|/box|> <|ref|> Other lesion <|/ref|> <|box|> (55,28),(59,36) <|/box|>",
+      "sentence_idx": 0,
+      "char_span": [
+        16,
+        26
+      ]
+    },
+    {
+      "finding": "pleural thickening",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "<|ref|> Pleural thickening <|/ref|> <|box|> (14,52),(22,63) <|/box|> <|ref|> Pleural effusion <|/ref|> <|box|> (14,52),(22,63) <|/box|> <|ref|> Calcification <|/ref|> <|box|> (55,28),(59,36) <|/box|> <|ref|> Other lesion <|/ref|> <|box|> (55,28),(59,36) <|/box|>",
+      "sentence_idx": 0,
+      "char_span": [
+        8,
+        26
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 4,
+  "num_relational_flags": 0
+}

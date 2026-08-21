@@ -1,0 +1,729 @@
+{
+  "image_id": "1223_IM-0150-1001.dcm",
+  "generated_report": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+  "claims": [
+    {
+      "finding": "pneumothorax",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        367,
+        379
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        367,
+        379
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        367,
+        379
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        367,
+        379
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        367,
+        379
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "left",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        367,
+        379
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        114,
+        122
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        114,
+        122
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        114,
+        122
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        114,
+        122
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        114,
+        122
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "left",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        114,
+        122
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        44,
+        51
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        44,
+        51
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        44,
+        51
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        44,
+        51
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        44,
+        51
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "left",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        44,
+        51
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        216,
+        222
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        216,
+        222
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        216,
+        222
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        216,
+        222
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        216,
+        222
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "left",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        216,
+        222
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        169,
+        174
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        169,
+        174
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        169,
+        174
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        169,
+        174
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        169,
+        174
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "left",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        169,
+        174
+      ]
+    },
+    {
+      "finding": "focal opacity",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        51
+      ]
+    },
+    {
+      "finding": "focal opacity",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        51
+      ]
+    },
+    {
+      "finding": "focal opacity",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        51
+      ]
+    },
+    {
+      "finding": "focal opacity",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        51
+      ]
+    },
+    {
+      "finding": "focal opacity",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        51
+      ]
+    },
+    {
+      "finding": "focal opacity",
+      "location": "left",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        51
+      ]
+    },
+    {
+      "finding": "rib fracture",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        110,
+        122
+      ]
+    },
+    {
+      "finding": "rib fracture",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        110,
+        122
+      ]
+    },
+    {
+      "finding": "rib fracture",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        110,
+        122
+      ]
+    },
+    {
+      "finding": "rib fracture",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        110,
+        122
+      ]
+    },
+    {
+      "finding": "rib fracture",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        110,
+        122
+      ]
+    },
+    {
+      "finding": "rib fracture",
+      "location": "left",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        110,
+        122
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        242,
+        253
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        242,
+        253
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        242,
+        253
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        242,
+        253
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        242,
+        253
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "left",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        242,
+        253
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        304,
+        310
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        304,
+        310
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        304,
+        310
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        304,
+        310
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        304,
+        310
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "left",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        304,
+        310
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        325,
+        342
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        325,
+        342
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "pleural",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        325,
+        342
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        325,
+        342
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        325,
+        342
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "left",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        325,
+        342
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 60,
+  "num_relational_flags": 0
+}

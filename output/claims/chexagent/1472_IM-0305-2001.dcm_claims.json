@@ -1,0 +1,153 @@
+{
+  "image_id": "1472_IM-0305-2001.dcm",
+  "generated_report": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiomedial silhouette is within normal limits. [Everything else: Bones] There are no acute osseous abnormalities.",
+  "claims": [
+    {
+      "finding": "consolidation",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiomedial silhouette is within normal limits. [Everything else: Bones] There are no acute osseous abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        89,
+        102
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiomedial silhouette is within normal limits. [Everything else: Bones] There are no acute osseous abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        89,
+        102
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiomedial silhouette is within normal limits. [Everything else: Bones] There are no acute osseous abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        89,
+        102
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiomedial silhouette is within normal limits. [Everything else: Bones] There are no acute osseous abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        164,
+        170
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiomedial silhouette is within normal limits. [Everything else: Bones] There are no acute osseous abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        164,
+        170
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiomedial silhouette is within normal limits. [Everything else: Bones] There are no acute osseous abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        164,
+        170
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiomedial silhouette is within normal limits. [Everything else: Bones] There are no acute osseous abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        83,
+        102
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiomedial silhouette is within normal limits. [Everything else: Bones] There are no acute osseous abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        83,
+        102
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiomedial silhouette is within normal limits. [Everything else: Bones] There are no acute osseous abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        83,
+        102
+      ]
+    },
+    {
+      "finding": "acute osseous abnormalities",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiomedial silhouette is within normal limits. [Everything else: Bones] There are no acute osseous abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        217,
+        244
+      ]
+    },
+    {
+      "finding": "acute osseous abnormalities",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiomedial silhouette is within normal limits. [Everything else: Bones] There are no acute osseous abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        217,
+        244
+      ]
+    },
+    {
+      "finding": "acute osseous abnormalities",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiomedial silhouette is within normal limits. [Everything else: Bones] There are no acute osseous abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        217,
+        244
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 12,
+  "num_relational_flags": 0
+}

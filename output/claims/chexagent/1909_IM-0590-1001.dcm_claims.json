@@ -1,0 +1,1017 @@
+{
+  "image_id": "1909_IM-0590-1001.dcm",
+  "generated_report": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+  "claims": [
+    {
+      "finding": "pleural effusion",
+      "location": "right middle lobe",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        340,
+        356
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        340,
+        356
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "left lung",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        340,
+        356
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        340,
+        356
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        340,
+        356
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        340,
+        356
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        340,
+        356
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "right middle lobe",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        360,
+        372
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        360,
+        372
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "left lung",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        360,
+        372
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        360,
+        372
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        360,
+        372
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        360,
+        372
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        360,
+        372
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "right middle lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        128,
+        137
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        128,
+        137
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "left lung",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        128,
+        137
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        128,
+        137
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        128,
+        137
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        128,
+        137
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        128,
+        137
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "right middle lobe",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        424,
+        432
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        424,
+        432
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "left lung",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        424,
+        432
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        424,
+        432
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        424,
+        432
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        424,
+        432
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        424,
+        432
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "right middle lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        37,
+        44
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        37,
+        44
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "left lung",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        37,
+        44
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        37,
+        44
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        37,
+        44
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        37,
+        44
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        37,
+        44
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "right middle lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        300,
+        306
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        300,
+        306
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "left lung",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        300,
+        306
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        300,
+        306
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        300,
+        306
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        300,
+        306
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        300,
+        306
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "right middle lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        177,
+        182
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        177,
+        182
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "left lung",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        177,
+        182
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        177,
+        182
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        177,
+        182
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        177,
+        182
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        177,
+        182
+      ]
+    },
+    {
+      "finding": "hazy opacity",
+      "location": "right middle lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        32,
+        44
+      ]
+    },
+    {
+      "finding": "hazy opacity",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        32,
+        44
+      ]
+    },
+    {
+      "finding": "hazy opacity",
+      "location": "left lung",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        32,
+        44
+      ]
+    },
+    {
+      "finding": "hazy opacity",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        32,
+        44
+      ]
+    },
+    {
+      "finding": "hazy opacity",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        32,
+        44
+      ]
+    },
+    {
+      "finding": "hazy opacity",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        32,
+        44
+      ]
+    },
+    {
+      "finding": "hazy opacity",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        32,
+        44
+      ]
+    },
+    {
+      "finding": "heart",
+      "location": "right middle lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        90,
+        95
+      ]
+    },
+    {
+      "finding": "heart",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        90,
+        95
+      ]
+    },
+    {
+      "finding": "heart",
+      "location": "left lung",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        90,
+        95
+      ]
+    },
+    {
+      "finding": "heart",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        90,
+        95
+      ]
+    },
+    {
+      "finding": "heart",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        90,
+        95
+      ]
+    },
+    {
+      "finding": "heart",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        90,
+        95
+      ]
+    },
+    {
+      "finding": "heart",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        90,
+        95
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "right middle lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        258,
+        269
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        258,
+        269
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "left lung",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        258,
+        269
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        258,
+        269
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        258,
+        269
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        258,
+        269
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        258,
+        269
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "right middle lobe",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        320,
+        326
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        320,
+        326
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "left lung",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        320,
+        326
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        320,
+        326
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        320,
+        326
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        320,
+        326
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        320,
+        326
+      ]
+    },
+    {
+      "finding": "old left rib fracture",
+      "location": "right middle lobe",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        411,
+        432
+      ]
+    },
+    {
+      "finding": "old left rib fracture",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        411,
+        432
+      ]
+    },
+    {
+      "finding": "old left rib fracture",
+      "location": "left lung",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        411,
+        432
+      ]
+    },
+    {
+      "finding": "old left rib fracture",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        411,
+        432
+      ]
+    },
+    {
+      "finding": "old left rib fracture",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        411,
+        432
+      ]
+    },
+    {
+      "finding": "old left rib fracture",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        411,
+        432
+      ]
+    },
+    {
+      "finding": "old left rib fracture",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+      "sentence_idx": 0,
+      "char_span": [
+        411,
+        432
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 84,
+  "num_relational_flags": 0
+}

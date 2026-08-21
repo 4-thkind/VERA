@@ -1,0 +1,309 @@
+{
+  "image_id": "2075_IM-0708-2001.dcm",
+  "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+  "claims": [
+    {
+      "finding": "scoliosis",
+      "location": "mediastinum",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        178,
+        187
+      ]
+    },
+    {
+      "finding": "scoliosis",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        178,
+        187
+      ]
+    },
+    {
+      "finding": "scoliosis",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        178,
+        187
+      ]
+    },
+    {
+      "finding": "scoliosis",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        178,
+        187
+      ]
+    },
+    {
+      "finding": "scoliosis",
+      "location": "left",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        178,
+        187
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "mediastinum",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        117
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        117
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        117
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        117
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "left",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        117
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "mediastinum",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        33,
+        38
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        33,
+        38
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        33,
+        38
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        33,
+        38
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "left",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        33,
+        38
+      ]
+    },
+    {
+      "finding": "heart",
+      "location": "mediastinum",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        50,
+        55
+      ]
+    },
+    {
+      "finding": "heart",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        50,
+        55
+      ]
+    },
+    {
+      "finding": "heart",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        50,
+        55
+      ]
+    },
+    {
+      "finding": "heart",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        50,
+        55
+      ]
+    },
+    {
+      "finding": "heart",
+      "location": "left",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        50,
+        55
+      ]
+    },
+    {
+      "finding": "mild thoracic scoliosis",
+      "location": "mediastinum",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        164,
+        187
+      ]
+    },
+    {
+      "finding": "mild thoracic scoliosis",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        164,
+        187
+      ]
+    },
+    {
+      "finding": "mild thoracic scoliosis",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        164,
+        187
+      ]
+    },
+    {
+      "finding": "mild thoracic scoliosis",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        164,
+        187
+      ]
+    },
+    {
+      "finding": "mild thoracic scoliosis",
+      "location": "left",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+      "sentence_idx": 0,
+      "char_span": [
+        164,
+        187
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 25,
+  "num_relational_flags": 0
+}

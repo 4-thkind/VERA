@@ -1,0 +1,297 @@
+{
+  "image_id": "1888_IM-0576-1001.dcm",
+  "generated_report": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+  "claims": [
+    {
+      "finding": "pulmonary edema",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        94,
+        109
+      ]
+    },
+    {
+      "finding": "pulmonary edema",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        94,
+        109
+      ]
+    },
+    {
+      "finding": "pulmonary edema",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        94,
+        109
+      ]
+    },
+    {
+      "finding": "pulmonary edema",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        94,
+        109
+      ]
+    },
+    {
+      "finding": "cardiomegaly",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        24,
+        36
+      ]
+    },
+    {
+      "finding": "cardiomegaly",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        24,
+        36
+      ]
+    },
+    {
+      "finding": "cardiomegaly",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        24,
+        36
+      ]
+    },
+    {
+      "finding": "cardiomegaly",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        24,
+        36
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        142,
+        151
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        142,
+        151
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        142,
+        151
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        142,
+        151
+      ]
+    },
+    {
+      "finding": "heart size] **cardiomegaly",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        10,
+        36
+      ]
+    },
+    {
+      "finding": "heart size] **cardiomegaly",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        10,
+        36
+      ]
+    },
+    {
+      "finding": "heart size] **cardiomegaly",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        10,
+        36
+      ]
+    },
+    {
+      "finding": "heart size] **cardiomegaly",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        10,
+        36
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        165,
+        171
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        165,
+        171
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        165,
+        171
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        165,
+        171
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        186,
+        203
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        186,
+        203
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        186,
+        203
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+      "sentence_idx": 0,
+      "char_span": [
+        186,
+        203
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 24,
+  "num_relational_flags": 0
+}

@@ -1,0 +1,153 @@
+{
+  "image_id": "1428_IM-0274-1001.dcm",
+  "generated_report": "[Cardiac: Heart Size and Borders] There is no evidence of acute cardiopulmonary disease. [Breathing: Lungs] No pneumonia or vascular congestion. [Breathing: Pleura] No pleural effusion.",
+  "claims": [
+    {
+      "finding": "vascular congestion",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] There is no evidence of acute cardiopulmonary disease. [Breathing: Lungs] No pneumonia or vascular congestion. [Breathing: Pleura] No pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        124,
+        143
+      ]
+    },
+    {
+      "finding": "vascular congestion",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] There is no evidence of acute cardiopulmonary disease. [Breathing: Lungs] No pneumonia or vascular congestion. [Breathing: Pleura] No pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        124,
+        143
+      ]
+    },
+    {
+      "finding": "vascular congestion",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] There is no evidence of acute cardiopulmonary disease. [Breathing: Lungs] No pneumonia or vascular congestion. [Breathing: Pleura] No pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        124,
+        143
+      ]
+    },
+    {
+      "finding": "vascular congestion",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] There is no evidence of acute cardiopulmonary disease. [Breathing: Lungs] No pneumonia or vascular congestion. [Breathing: Pleura] No pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        124,
+        143
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] There is no evidence of acute cardiopulmonary disease. [Breathing: Lungs] No pneumonia or vascular congestion. [Breathing: Pleura] No pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        168,
+        184
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] There is no evidence of acute cardiopulmonary disease. [Breathing: Lungs] No pneumonia or vascular congestion. [Breathing: Pleura] No pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        168,
+        184
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] There is no evidence of acute cardiopulmonary disease. [Breathing: Lungs] No pneumonia or vascular congestion. [Breathing: Pleura] No pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        168,
+        184
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] There is no evidence of acute cardiopulmonary disease. [Breathing: Lungs] No pneumonia or vascular congestion. [Breathing: Pleura] No pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        168,
+        184
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] There is no evidence of acute cardiopulmonary disease. [Breathing: Lungs] No pneumonia or vascular congestion. [Breathing: Pleura] No pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        120
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] There is no evidence of acute cardiopulmonary disease. [Breathing: Lungs] No pneumonia or vascular congestion. [Breathing: Pleura] No pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        120
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] There is no evidence of acute cardiopulmonary disease. [Breathing: Lungs] No pneumonia or vascular congestion. [Breathing: Pleura] No pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        120
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size and Borders] There is no evidence of acute cardiopulmonary disease. [Breathing: Lungs] No pneumonia or vascular congestion. [Breathing: Pleura] No pleural effusion.",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        120
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 12,
+  "num_relational_flags": 0
+}

@@ -1,0 +1,297 @@
+{
+  "image_id": "2794_IM-1226-1002.dcm",
+  "generated_report": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+  "claims": [
+    {
+      "finding": "pleural effusion",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        136,
+        152
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        136,
+        152
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        136,
+        152
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        136,
+        152
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        89,
+        102
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        89,
+        102
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        89,
+        102
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        89,
+        102
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        156,
+        168
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        156,
+        168
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        156,
+        168
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        156,
+        168
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        228,
+        234
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        228,
+        234
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        228,
+        234
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        228,
+        234
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        83,
+        102
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        83,
+        102
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        83,
+        102
+      ]
+    },
+    {
+      "finding": "focal consolidation",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        83,
+        102
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        116,
+        122
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        116,
+        122
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        116,
+        122
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+      "sentence_idx": 0,
+      "char_span": [
+        116,
+        122
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 24,
+  "num_relational_flags": 0
+}
