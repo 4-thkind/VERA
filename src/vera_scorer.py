@@ -192,13 +192,27 @@ def score_single_claim(
     # Get attention map for this claim's tokens
     token_span = claim.get("token_span", (0, 0))
     start_tok, end_tok = token_span
+    num_maps = len(attention_maps)
 
-    if start_tok >= end_tok or end_tok > len(attention_maps):
-        # Use average attention over all generated tokens
-        claim_attention = attention_maps.mean(axis=0)
-    else:
-        # Average attention for claim's tokens
+    if (start_tok >= end_tok or end_tok > num_maps) and "char_span" in claim and "sentence" in claim:
+        # Map character span in report to token indices proportionally
+        char_span = claim.get("char_span", (0, 0))
+        report_text = claim.get("sentence", "")
+        if char_span[1] > char_span[0] and len(report_text) > 0 and num_maps > 1:
+            ratio_start = max(0.0, min(1.0, char_span[0] / len(report_text)))
+            ratio_end = max(0.0, min(1.0, char_span[1] / len(report_text)))
+            start_tok = int(ratio_start * num_maps)
+            end_tok = max(start_tok + 1, int(ratio_end * num_maps))
+            # Expand slightly by 1 token for context
+            start_tok = max(0, start_tok - 1)
+            end_tok = min(num_maps, end_tok + 1)
+
+    if start_tok < end_tok and end_tok <= num_maps:
+        # Claim-specific token attention
         claim_attention = attention_maps[start_tok:end_tok].mean(axis=0)
+    else:
+        # Fallback to report-level mean attention
+        claim_attention = attention_maps.mean(axis=0)
 
     # Compute VERA score
     vera_score = compute_vera_score(claim_attention, region_mask)
