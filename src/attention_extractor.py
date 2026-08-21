@@ -106,50 +106,55 @@ class AttentionExtractor:
         """
         Find the start and end positions of image tokens in the input sequence.
         
-        In LLaVA-style models, image tokens are inserted into the sequence
-        at a specific position (usually after the system prompt / before the user text).
+        In CheXagent-2-3b:
+        Image tokens are placed between tokenizer.img_start_id (<|img|>) and
+        tokenizer.img_end_id (<|/img|>). The visual encoder projects exactly
+        num_patches (e.g., 24x24 = 576) patch features into the sequence.
         
-        The image token placeholder is typically a special token (e.g., <image>).
-        After processing, each image becomes num_patches tokens.
+        In LLaVA-style models:
+        Image placeholder tokens (e.g. IMAGE_TOKEN_INDEX / -200 or <image>)
+        are expanded to num_patches tokens.
         """
         input_ids_list = input_ids[0].tolist()
+        num_patches = self.patch_grid[0] * self.patch_grid[1]
         
-        # Common image placeholder token IDs across models
-        # For LLaVA-style: -200 or a specific token ID
-        # We detect by looking for the IMAGE_TOKEN_INDEX
+        # Method 1: CheXagent custom tokenizer (<|img|> ... <|/img|>)
+        img_start_id = getattr(self.tokenizer, "img_start_id", None)
+        img_end_id = getattr(self.tokenizer, "img_end_id", None)
         
-        # Method 1: Look for the image_token_id in config
+        if img_start_id is not None and img_start_id in input_ids_list:
+            start_idx = input_ids_list.index(img_start_id) + 1
+            if img_end_id is not None and img_end_id in input_ids_list:
+                end_idx = input_ids_list.index(img_end_id)
+                # The model places the visual embeddings starting right after img_start_id
+                # If there are pad tokens up to img_end_id, the actual patch count is num_patches
+                if (end_idx - start_idx) > num_patches:
+                    end_idx = start_idx + num_patches
+            else:
+                end_idx = min(start_idx + num_patches, len(input_ids_list))
+            print(f"  [DEBUG] Found CheXagent image token bounds: [{start_idx}:{end_idx}] (count={end_idx - start_idx})")
+            return start_idx, end_idx
+
+        # Method 2: Look for image_token_id in config (for standard LLaVA / LLaVA-Med)
         image_token_id = getattr(self.model.config, "image_token_index", None)
         if image_token_id is None:
             image_token_id = getattr(self.model.config, "image_token_id", None)
 
         if image_token_id is not None and image_token_id in input_ids_list:
-            # Find all image token positions
             positions = [i for i, t in enumerate(input_ids_list) if t == image_token_id]
             if positions:
-                return positions[0], positions[-1] + 1
+                start_idx = positions[0]
+                end_idx = positions[-1] + 1
+                if (end_idx - start_idx) == 1 and num_patches > 1:
+                    end_idx = start_idx + num_patches
+                print(f"  [DEBUG] Found LLaVA image token bounds: [{start_idx}:{end_idx}] (count={end_idx - start_idx})")
+                return start_idx, end_idx
 
-        # Method 2: Estimate from the number of patches
-        # num_patches = patch_grid[0] * patch_grid[1] = 576 for 24x24
-        num_patches = self.patch_grid[0] * self.patch_grid[1]
-        
-        # In most LLaVA models, image tokens start after the initial special tokens
-        # and system prompt. We estimate the image token region.
-        # After the model processes the inputs, the sequence is:
-        # [BOS] [system_tokens...] [IMAGE_TOKENS x num_patches] [user_tokens...] [generated_tokens...]
-        
-        # Heuristic: image tokens are usually the first large block of repeated/projected tokens
-        # In practice, we'll use the model's prepare_inputs method to determine this
-        
-        # Fallback: assume image tokens start after BOS and any prompt tokens
-        # For CheXagent-2: typically starts around position 5-10
-        prompt_length = min(10, len(input_ids_list) // 4)
+        # Fallback: estimate from number of patches
+        prompt_length = min(10, max(1, len(input_ids_list) // 4))
         img_start = prompt_length
-        img_end = prompt_length + num_patches
-
-        # Clamp to valid range
-        img_end = min(img_end, len(input_ids_list))
-
+        img_end = min(prompt_length + num_patches, len(input_ids_list))
+        print(f"  [DEBUG] Fallback image token bounds: [{img_start}:{img_end}] (count={img_end - img_start})")
         return img_start, img_end
 
     def extract_attention(
