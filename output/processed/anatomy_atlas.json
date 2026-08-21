@@ -1,0 +1,251 @@
+{
+  "zones": {
+    "right_upper_lobe": [
+      0.08,
+      0.08,
+      0.42,
+      0.38
+    ],
+    "right_middle_lobe": [
+      0.12,
+      0.33,
+      0.42,
+      0.55
+    ],
+    "right_lower_lobe": [
+      0.12,
+      0.48,
+      0.48,
+      0.82
+    ],
+    "left_upper_lobe": [
+      0.58,
+      0.08,
+      0.92,
+      0.38
+    ],
+    "left_lower_lobe": [
+      0.52,
+      0.48,
+      0.88,
+      0.82
+    ],
+    "mediastinum": [
+      0.35,
+      0.05,
+      0.65,
+      0.65
+    ],
+    "cardiac_silhouette": [
+      0.28,
+      0.35,
+      0.72,
+      0.78
+    ],
+    "right_hilum": [
+      0.33,
+      0.22,
+      0.48,
+      0.48
+    ],
+    "left_hilum": [
+      0.52,
+      0.22,
+      0.67,
+      0.48
+    ],
+    "right_costophrenic_angle": [
+      0.08,
+      0.72,
+      0.32,
+      0.95
+    ],
+    "left_costophrenic_angle": [
+      0.68,
+      0.72,
+      0.92,
+      0.95
+    ],
+    "right_hemidiaphragm": [
+      0.08,
+      0.68,
+      0.48,
+      0.88
+    ],
+    "left_hemidiaphragm": [
+      0.52,
+      0.68,
+      0.92,
+      0.88
+    ]
+  },
+  "location_mapping": {
+    "right upper lobe": [
+      "right_upper_lobe"
+    ],
+    "rul": [
+      "right_upper_lobe"
+    ],
+    "right middle lobe": [
+      "right_middle_lobe"
+    ],
+    "rml": [
+      "right_middle_lobe"
+    ],
+    "right lower lobe": [
+      "right_lower_lobe"
+    ],
+    "rll": [
+      "right_lower_lobe"
+    ],
+    "right lung": [
+      "right_upper_lobe",
+      "right_middle_lobe",
+      "right_lower_lobe"
+    ],
+    "right apex": [
+      "right_upper_lobe"
+    ],
+    "right base": [
+      "right_lower_lobe"
+    ],
+    "left upper lobe": [
+      "left_upper_lobe"
+    ],
+    "lul": [
+      "left_upper_lobe"
+    ],
+    "left lower lobe": [
+      "left_lower_lobe"
+    ],
+    "lll": [
+      "left_lower_lobe"
+    ],
+    "left lung": [
+      "left_upper_lobe",
+      "left_lower_lobe"
+    ],
+    "left apex": [
+      "left_upper_lobe"
+    ],
+    "left base": [
+      "left_lower_lobe"
+    ],
+    "upper lobe": [
+      "right_upper_lobe",
+      "left_upper_lobe"
+    ],
+    "upper lobes": [
+      "right_upper_lobe",
+      "left_upper_lobe"
+    ],
+    "lower lobe": [
+      "right_lower_lobe",
+      "left_lower_lobe"
+    ],
+    "lower lobes": [
+      "right_lower_lobe",
+      "left_lower_lobe"
+    ],
+    "bilateral": [
+      "right_upper_lobe",
+      "right_middle_lobe",
+      "right_lower_lobe",
+      "left_upper_lobe",
+      "left_lower_lobe"
+    ],
+    "lungs": [
+      "right_upper_lobe",
+      "right_middle_lobe",
+      "right_lower_lobe",
+      "left_upper_lobe",
+      "left_lower_lobe"
+    ],
+    "lung fields": [
+      "right_upper_lobe",
+      "right_middle_lobe",
+      "right_lower_lobe",
+      "left_upper_lobe",
+      "left_lower_lobe"
+    ],
+    "mediastinum": [
+      "mediastinum"
+    ],
+    "mediastinal": [
+      "mediastinum"
+    ],
+    "cardiac": [
+      "cardiac_silhouette"
+    ],
+    "cardiac silhouette": [
+      "cardiac_silhouette"
+    ],
+    "heart": [
+      "cardiac_silhouette"
+    ],
+    "heart size": [
+      "cardiac_silhouette"
+    ],
+    "right hilum": [
+      "right_hilum"
+    ],
+    "left hilum": [
+      "left_hilum"
+    ],
+    "hilum": [
+      "right_hilum",
+      "left_hilum"
+    ],
+    "hila": [
+      "right_hilum",
+      "left_hilum"
+    ],
+    "hilar": [
+      "right_hilum",
+      "left_hilum"
+    ],
+    "right costophrenic angle": [
+      "right_costophrenic_angle"
+    ],
+    "left costophrenic angle": [
+      "left_costophrenic_angle"
+    ],
+    "costophrenic": [
+      "right_costophrenic_angle",
+      "left_costophrenic_angle"
+    ],
+    "costophrenic angles": [
+      "right_costophrenic_angle",
+      "left_costophrenic_angle"
+    ],
+    "right hemidiaphragm": [
+      "right_hemidiaphragm"
+    ],
+    "left hemidiaphragm": [
+      "left_hemidiaphragm"
+    ],
+    "diaphragm": [
+      "right_hemidiaphragm",
+      "left_hemidiaphragm"
+    ],
+    "pleural": [
+      "right_costophrenic_angle",
+      "left_costophrenic_angle",
+      "right_lower_lobe",
+      "left_lower_lobe"
+    ],
+    "right pleural": [
+      "right_costophrenic_angle",
+      "right_lower_lobe"
+    ],
+    "left pleural": [
+      "left_costophrenic_angle",
+      "left_lower_lobe"
+    ]
+  },
+  "patch_grid": [
+    24,
+    24
+  ],
+  "num_zones": 13
+}
