@@ -1,0 +1,7 @@
+{
+  "image_id": "3556_IM-1741-1001-0002.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/3556_IM-1741-1001-0002.dcm.png",
+  "generated_report": "[Everything else: Mediastinal] The cardiomedial silhouette is stable with intact median sternotomy wires. [Breathing: Lungs] The lungs are clear without focal consolidation, effusion, or edema. [Everything else: Bones] There is no acute osseous abnormality.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/3556_IM-1741-1001-0002.dcm_attention.npz",
+  "num_generated_tokens": 64
+}

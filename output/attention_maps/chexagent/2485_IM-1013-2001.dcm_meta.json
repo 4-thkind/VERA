@@ -1,0 +1,7 @@
+{
+  "image_id": "2485_IM-1013-2001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/2485_IM-1013-2001.dcm.png",
+  "generated_report": "[Breathing: Lungs] **There is consolidation in the left lower lobe.** [Breathing: Pleura] **There are bilateral pleural effusions.**",
+  "attention_map_path": "/content/data/attention_maps/chexagent/2485_IM-1013-2001.dcm_attention.npz",
+  "num_generated_tokens": 38
+}

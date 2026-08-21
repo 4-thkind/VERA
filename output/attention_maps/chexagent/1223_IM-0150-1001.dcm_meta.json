@@ -1,0 +1,7 @@
+{
+  "image_id": "1223_IM-0150-1001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/1223_IM-0150-1001.dcm.png",
+  "generated_report": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/1223_IM-0150-1001.dcm_attention.npz",
+  "num_generated_tokens": 109
+}

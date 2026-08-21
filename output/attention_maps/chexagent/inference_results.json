@@ -1,0 +1,352 @@
+[
+  {
+    "image_id": "2794_IM-1226-1002.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/2794_IM-1226-1002.dcm.png",
+    "generated_report": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/2794_IM-1226-1002.dcm_attention.npz",
+    "num_generated_tokens": 72
+  },
+  {
+    "image_id": "629_IM-2209-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/629_IM-2209-1001.dcm.png",
+    "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural abnormality. [Everything else: Bones] **There is a mild thoracic scoliosis.**",
+    "attention_map_path": "/content/data/attention_maps/chexagent/629_IM-2209-1001.dcm_attention.npz",
+    "num_generated_tokens": 62
+  },
+  {
+    "image_id": "3105_IM-1456-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/3105_IM-1456-1001.dcm.png",
+    "generated_report": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax, vascular congestion, or pleural effusion.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/3105_IM-1456-1001.dcm_attention.npz",
+    "num_generated_tokens": 59
+  },
+  {
+    "image_id": "187_IM-0563-2001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/187_IM-0563-2001.dcm.png",
+    "generated_report": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] **There is minimal atelectasis in the left lung base.** [Breathing: Lungs] The lungs are otherwise clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen. [Everything else: Bones] There are no acute osseous abnormalities.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/187_IM-0563-2001.dcm_attention.npz",
+    "num_generated_tokens": 136
+  },
+  {
+    "image_id": "975_IM-2464-2001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/975_IM-2464-2001.dcm.png",
+    "generated_report": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] **There is mild bibasilar atelectasis.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiac silhouette is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/975_IM-2464-2001.dcm_attention.npz",
+    "num_generated_tokens": 119
+  },
+  {
+    "image_id": "3989_IM-2042-2001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/3989_IM-2042-2001.dcm.png",
+    "generated_report": "[Everything else: Tubes] The tip of the right-sided central venous catheter is located in the right atrium. [Breathing: Lungs] The lungs are clear.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/3989_IM-2042-2001.dcm_attention.npz",
+    "num_generated_tokens": 41
+  },
+  {
+    "image_id": "3280_IM-1561-2001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/3280_IM-1561-2001.dcm.png",
+    "generated_report": "[Breathing: Lungs] **There is a right lower lobe opacity, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Everything else: Mediastinal] Incidental note is made of an azygos lobe. [Cardiac: Heart Size] The heart size is within normal limits. [Everything else: Bones] The osseous structures are unremarkable.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/3280_IM-1561-2001.dcm_attention.npz",
+    "num_generated_tokens": 91
+  },
+  {
+    "image_id": "854_IM-2376-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/854_IM-2376-1001.dcm.png",
+    "generated_report": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] The mediastinal silhouette is within normal limits. [Everything else: Bones] **Old left clavicular fracture.**",
+    "attention_map_path": "/content/data/attention_maps/chexagent/854_IM-2376-1001.dcm_attention.npz",
+    "num_generated_tokens": 78
+  },
+  {
+    "image_id": "2370_IM-0931-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/2370_IM-0931-1001.dcm.png",
+    "generated_report": "[Breathing: Lungs] **Right lower lobe consolidation is present.** [Breathing: Pleura] **There is a small right pleural effusion.**",
+    "attention_map_path": "/content/data/attention_maps/chexagent/2370_IM-0931-1001.dcm_attention.npz",
+    "num_generated_tokens": 38
+  },
+  {
+    "image_id": "2485_IM-1013-2001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/2485_IM-1013-2001.dcm.png",
+    "generated_report": "[Breathing: Lungs] **There is consolidation in the left lower lobe.** [Breathing: Pleura] **There are bilateral pleural effusions.**",
+    "attention_map_path": "/content/data/attention_maps/chexagent/2485_IM-1013-2001.dcm_attention.npz",
+    "num_generated_tokens": 38
+  },
+  {
+    "image_id": "1888_IM-0576-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/1888_IM-0576-1001.dcm.png",
+    "generated_report": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/1888_IM-0576-1001.dcm_attention.npz",
+    "num_generated_tokens": 80
+  },
+  {
+    "image_id": "1817_IM-0529-4004.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/1817_IM-0529-4004.dcm.png",
+    "generated_report": "[Breathing: Lungs] **There is no evidence of pneumonia.**",
+    "attention_map_path": "/content/data/attention_maps/chexagent/1817_IM-0529-4004.dcm_attention.npz",
+    "num_generated_tokens": 18
+  },
+  {
+    "image_id": "1543_IM-0353-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/1543_IM-0353-1001.dcm.png",
+    "generated_report": "[Everything else: Mediastinal] **A large hiatal hernia is present.** [Breathing: Lungs] **There is mild left basilar atelectasis.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is within normal limits. [Everything else: Bones] **There is a fracture of the left fourth rib laterally.**",
+    "attention_map_path": "/content/data/attention_maps/chexagent/1543_IM-0353-1001.dcm_attention.npz",
+    "num_generated_tokens": 91
+  },
+  {
+    "image_id": "320_IM-1511-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/320_IM-1511-1001.dcm.png",
+    "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/320_IM-1511-1001.dcm_attention.npz",
+    "num_generated_tokens": 77
+  },
+  {
+    "image_id": "3485_IM-1694-3003.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/3485_IM-1694-3003.dcm.png",
+    "generated_report": "[Breathing: Lungs] **The lungs are hyperinflated with flattening of the diaphragms, consistent with COPD.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/3485_IM-1694-3003.dcm_attention.npz",
+    "num_generated_tokens": 114
+  },
+  {
+    "image_id": "2926_IM-1328-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/2926_IM-1328-1001.dcm.png",
+    "generated_report": "No abnormalities detected.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/2926_IM-1328-1001.dcm_attention.npz",
+    "num_generated_tokens": 5
+  },
+  {
+    "image_id": "3636_IM-1803-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/3636_IM-1803-1001.dcm.png",
+    "generated_report": "No abnormalities detected.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/3636_IM-1803-1001.dcm_attention.npz",
+    "num_generated_tokens": 5
+  },
+  {
+    "image_id": "1223_IM-0150-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/1223_IM-0150-1001.dcm.png",
+    "generated_report": "[Breathing: Lungs] **There is a small focal opacity in the left mid lung field, which may represent a healing rib fracture.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/1223_IM-0150-1001.dcm_attention.npz",
+    "num_generated_tokens": 109
+  },
+  {
+    "image_id": "2065_IM-0701-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/2065_IM-0701-1001.dcm.png",
+    "generated_report": "[Cardiac: Heart Size] **Mild cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Moderate scoliosis is observed.**",
+    "attention_map_path": "/content/data/attention_maps/chexagent/2065_IM-0701-1001.dcm_attention.npz",
+    "num_generated_tokens": 82
+  },
+  {
+    "image_id": "2020_IM-0668-2001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/2020_IM-0668-2001.dcm.png",
+    "generated_report": "No abnormalities detected.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/2020_IM-0668-2001.dcm_attention.npz",
+    "num_generated_tokens": 5
+  },
+  {
+    "image_id": "391_IM-1986-1002.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/391_IM-1986-1002.dcm.png",
+    "generated_report": "[Breathing: Lungs] The lung volumes are low. [Cardiac: Heart Size] The cardiac silhouette is of borderline size. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Pleura] There are no pleural effusions. [Breathing: Lungs] There is no pneumonia.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/391_IM-1986-1002.dcm_attention.npz",
+    "num_generated_tokens": 74
+  },
+  {
+    "image_id": "3542_IM-1734-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/3542_IM-1734-1001.dcm.png",
+    "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pneumothorax. [Everything else: Bones] There are no bony abnormalities.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/3542_IM-1734-1001.dcm_attention.npz",
+    "num_generated_tokens": 61
+  },
+  {
+    "image_id": "1145_IM-0097-2002.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/1145_IM-0097-2002.dcm.png",
+    "generated_report": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] **There is mild dextroscoliosis of the thoracic spine.**",
+    "attention_map_path": "/content/data/attention_maps/chexagent/1145_IM-0097-2002.dcm_attention.npz",
+    "num_generated_tokens": 110
+  },
+  {
+    "image_id": "518_IM-2131-2001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/518_IM-2131-2001.dcm.png",
+    "generated_report": "[Breathing: Lungs] **There is no evidence of pneumonia.**",
+    "attention_map_path": "/content/data/attention_maps/chexagent/518_IM-2131-2001.dcm_attention.npz",
+    "num_generated_tokens": 18
+  },
+  {
+    "image_id": "1639_IM-0418-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/1639_IM-0418-1001.dcm.png",
+    "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/1639_IM-0418-1001.dcm_attention.npz",
+    "num_generated_tokens": 77
+  },
+  {
+    "image_id": "2552_IM-1058-1002.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/2552_IM-1058-1002.dcm.png",
+    "generated_report": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/2552_IM-1058-1002.dcm_attention.npz",
+    "num_generated_tokens": 105
+  },
+  {
+    "image_id": "3059_IM-1425-2001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/3059_IM-1425-2001.dcm.png",
+    "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/3059_IM-1425-2001.dcm_attention.npz",
+    "num_generated_tokens": 77
+  },
+  {
+    "image_id": "1428_IM-0274-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/1428_IM-0274-1001.dcm.png",
+    "generated_report": "[Cardiac: Heart Size and Borders] There is no evidence of acute cardiopulmonary disease. [Breathing: Lungs] No pneumonia or vascular congestion. [Breathing: Pleura] No pleural effusion.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/1428_IM-0274-1001.dcm_attention.npz",
+    "num_generated_tokens": 50
+  },
+  {
+    "image_id": "950_IM-2446-1003002.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/950_IM-2446-1003002.dcm.png",
+    "generated_report": "[Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] There is no pneumothorax. [Everything else: Bones] There are no displaced rib fractures.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/950_IM-2446-1003002.dcm_attention.npz",
+    "num_generated_tokens": 63
+  },
+  {
+    "image_id": "2125_IM-0749-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/2125_IM-0749-1001.dcm.png",
+    "generated_report": "[Breathing: Lungs] **Left lower lobe consolidation is present, which is concerning for pneumonia.** [Breathing: Pleura] **A small left pleural effusion is also noted.**",
+    "attention_map_path": "/content/data/attention_maps/chexagent/2125_IM-0749-1001.dcm_attention.npz",
+    "num_generated_tokens": 45
+  },
+  {
+    "image_id": "559_IM-2159-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/559_IM-2159-1001.dcm.png",
+    "generated_report": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right apex, which may be related to the first rib.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/559_IM-2159-1001.dcm_attention.npz",
+    "num_generated_tokens": 83
+  },
+  {
+    "image_id": "1349_IM-0227-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/1349_IM-0227-1001.dcm.png",
+    "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen. [Everything else: Soft Tissues] Surgical clips are noted in the lower neck.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/1349_IM-0227-1001.dcm_attention.npz",
+    "num_generated_tokens": 95
+  },
+  {
+    "image_id": "2491_IM-1017-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/2491_IM-1017-1001.dcm.png",
+    "generated_report": "No abnormalities detected.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/2491_IM-1017-1001.dcm_attention.npz",
+    "num_generated_tokens": 5
+  },
+  {
+    "image_id": "3492_IM-1698-2001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/3492_IM-1698-2001.dcm.png",
+    "generated_report": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/3492_IM-1698-2001.dcm_attention.npz",
+    "num_generated_tokens": 100
+  },
+  {
+    "image_id": "1472_IM-0305-2001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/1472_IM-0305-2001.dcm.png",
+    "generated_report": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiomedial silhouette is within normal limits. [Everything else: Bones] There are no acute osseous abnormalities.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/1472_IM-0305-2001.dcm_attention.npz",
+    "num_generated_tokens": 66
+  },
+  {
+    "image_id": "3451_IM-1674-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/3451_IM-1674-1001.dcm.png",
+    "generated_report": "<|ref|> Pleural thickening <|/ref|> <|box|> (14,52),(22,63) <|/box|> <|ref|> Pleural effusion <|/ref|> <|box|> (14,52),(22,63) <|/box|> <|ref|> Calcification <|/ref|> <|box|> (55,28),(59,36) <|/box|> <|ref|> Other lesion <|/ref|> <|box|> (55,28),(59,36) <|/box|>",
+    "attention_map_path": "/content/data/attention_maps/chexagent/3451_IM-1674-1001.dcm_attention.npz",
+    "num_generated_tokens": 73
+  },
+  {
+    "image_id": "3556_IM-1741-1001-0002.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/3556_IM-1741-1001-0002.dcm.png",
+    "generated_report": "[Everything else: Mediastinal] The cardiomedial silhouette is stable with intact median sternotomy wires. [Breathing: Lungs] The lungs are clear without focal consolidation, effusion, or edema. [Everything else: Bones] There is no acute osseous abnormality.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/3556_IM-1741-1001-0002.dcm_attention.npz",
+    "num_generated_tokens": 64
+  },
+  {
+    "image_id": "2391_IM-0944-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/2391_IM-0944-1001.dcm.png",
+    "generated_report": "[Diaphragm] **Elevation of the right hemidiaphragm is noted.** [Breathing: Lungs] There is no evidence of pneumonia.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/2391_IM-0944-1001.dcm_attention.npz",
+    "num_generated_tokens": 39
+  },
+  {
+    "image_id": "1909_IM-0590-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/1909_IM-0590-1001.dcm.png",
+    "generated_report": "[Breathing: Lungs] **There is a hazy opacity in the right middle lobe obscuring the right heart border, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Cardiac: Heart Size] **The heart is mildly enlarged.** [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Everything else: Bones] There is an old left rib fracture.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/1909_IM-0590-1001.dcm_attention.npz",
+    "num_generated_tokens": 117
+  },
+  {
+    "image_id": "151_IM-0331-2001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/151_IM-0331-2001.dcm.png",
+    "generated_report": "No abnormalities detected.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/151_IM-0331-2001.dcm_attention.npz",
+    "num_generated_tokens": 5
+  },
+  {
+    "image_id": "2166_IM-0782-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/2166_IM-0782-1001.dcm.png",
+    "generated_report": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] **Mild tortuosity of the thoracic aorta.**",
+    "attention_map_path": "/content/data/attention_maps/chexagent/2166_IM-0782-1001.dcm_attention.npz",
+    "num_generated_tokens": 69
+  },
+  {
+    "image_id": "800_IM-2334-4004-0001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/800_IM-2334-4004-0001.dcm.png",
+    "generated_report": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] **Severe degenerative changes are seen in the shoulders bilaterally.**",
+    "attention_map_path": "/content/data/attention_maps/chexagent/800_IM-2334-4004-0001.dcm_attention.npz",
+    "num_generated_tokens": 86
+  },
+  {
+    "image_id": "1369_IM-0238-2001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/1369_IM-0238-2001.dcm.png",
+    "generated_report": "<|ref|> Aortic enlargement <|/ref|> <|box|> (50,31),(64,44) <|/box|>",
+    "attention_map_path": "/content/data/attention_maps/chexagent/1369_IM-0238-2001.dcm_attention.npz",
+    "num_generated_tokens": 20
+  },
+  {
+    "image_id": "417_IM-2060-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/417_IM-2060-1001.dcm.png",
+    "generated_report": "No abnormalities detected.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/417_IM-2060-1001.dcm_attention.npz",
+    "num_generated_tokens": 5
+  },
+  {
+    "image_id": "2976_IM-1365-3003.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/2976_IM-1365-3003.dcm.png",
+    "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Breathing: Pleura] There is no pneumothorax. [Everything else: Bones] There are no acute osseous abnormalities.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/2976_IM-1365-3003.dcm_attention.npz",
+    "num_generated_tokens": 65
+  },
+  {
+    "image_id": "3480_IM-1691-2001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/3480_IM-1691-2001.dcm.png",
+    "generated_report": "[Cardiac: Heart Size] No acute cardiopulmonary process.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/3480_IM-1691-2001.dcm_attention.npz",
+    "num_generated_tokens": 16
+  },
+  {
+    "image_id": "3821_IM-1929-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/3821_IM-1929-1001.dcm.png",
+    "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormality is detected.",
+    "attention_map_path": "/content/data/attention_maps/chexagent/3821_IM-1929-1001.dcm_attention.npz",
+    "num_generated_tokens": 50
+  },
+  {
+    "image_id": "2075_IM-0708-2001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/2075_IM-0708-2001.dcm.png",
+    "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+    "attention_map_path": "/content/data/attention_maps/chexagent/2075_IM-0708-2001.dcm_attention.npz",
+    "num_generated_tokens": 59
+  },
+  {
+    "image_id": "2991_IM-1378-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/2991_IM-1378-1001.dcm.png",
+    "generated_report": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+    "attention_map_path": "/content/data/attention_maps/chexagent/2991_IM-1378-1001.dcm_attention.npz",
+    "num_generated_tokens": 106
+  },
+  {
+    "image_id": "2955_IM-1352-1001.dcm",
+    "image_path": "/content/indiana_dataset/images/images_normalized/2955_IM-1352-1001.dcm.png",
+    "generated_report": "[Breathing: Lungs] **There is a small pneumothorax at the left lung base.** [Breathing: Lungs] **There is a small left apical pneumothorax.**",
+    "attention_map_path": "/content/data/attention_maps/chexagent/2955_IM-1352-1001.dcm_attention.npz",
+    "num_generated_tokens": 47
+  }
+]

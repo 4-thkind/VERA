@@ -1,0 +1,7 @@
+{
+  "image_id": "2391_IM-0944-1001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/2391_IM-0944-1001.dcm.png",
+  "generated_report": "[Diaphragm] **Elevation of the right hemidiaphragm is noted.** [Breathing: Lungs] There is no evidence of pneumonia.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/2391_IM-0944-1001.dcm_attention.npz",
+  "num_generated_tokens": 39
+}

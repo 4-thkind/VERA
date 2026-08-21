@@ -1,0 +1,7 @@
+{
+  "image_id": "1349_IM-0227-1001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/1349_IM-0227-1001.dcm.png",
+  "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen. [Everything else: Soft Tissues] Surgical clips are noted in the lower neck.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/1349_IM-0227-1001.dcm_attention.npz",
+  "num_generated_tokens": 95
+}

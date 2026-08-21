@@ -1,0 +1,7 @@
+{
+  "image_id": "2075_IM-0708-2001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/2075_IM-0708-2001.dcm.png",
+  "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is a mild thoracic scoliosis convex to the left.**",
+  "attention_map_path": "/content/data/attention_maps/chexagent/2075_IM-0708-2001.dcm_attention.npz",
+  "num_generated_tokens": 59
+}

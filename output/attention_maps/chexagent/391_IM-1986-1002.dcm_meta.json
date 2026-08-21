@@ -1,0 +1,7 @@
+{
+  "image_id": "391_IM-1986-1002.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/391_IM-1986-1002.dcm.png",
+  "generated_report": "[Breathing: Lungs] The lung volumes are low. [Cardiac: Heart Size] The cardiac silhouette is of borderline size. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Pleura] There are no pleural effusions. [Breathing: Lungs] There is no pneumonia.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/391_IM-1986-1002.dcm_attention.npz",
+  "num_generated_tokens": 74
+}

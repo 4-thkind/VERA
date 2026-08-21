@@ -1,0 +1,7 @@
+{
+  "image_id": "2125_IM-0749-1001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/2125_IM-0749-1001.dcm.png",
+  "generated_report": "[Breathing: Lungs] **Left lower lobe consolidation is present, which is concerning for pneumonia.** [Breathing: Pleura] **A small left pleural effusion is also noted.**",
+  "attention_map_path": "/content/data/attention_maps/chexagent/2125_IM-0749-1001.dcm_attention.npz",
+  "num_generated_tokens": 45
+}

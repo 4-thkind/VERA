@@ -1,0 +1,7 @@
+{
+  "image_id": "1369_IM-0238-2001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/1369_IM-0238-2001.dcm.png",
+  "generated_report": "<|ref|> Aortic enlargement <|/ref|> <|box|> (50,31),(64,44) <|/box|>",
+  "attention_map_path": "/content/data/attention_maps/chexagent/1369_IM-0238-2001.dcm_attention.npz",
+  "num_generated_tokens": 20
+}

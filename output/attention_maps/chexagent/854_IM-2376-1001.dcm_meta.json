@@ -1,0 +1,7 @@
+{
+  "image_id": "854_IM-2376-1001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/854_IM-2376-1001.dcm.png",
+  "generated_report": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] The mediastinal silhouette is within normal limits. [Everything else: Bones] **Old left clavicular fracture.**",
+  "attention_map_path": "/content/data/attention_maps/chexagent/854_IM-2376-1001.dcm_attention.npz",
+  "num_generated_tokens": 78
+}

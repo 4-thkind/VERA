@@ -1,0 +1,7 @@
+{
+  "image_id": "2955_IM-1352-1001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/2955_IM-1352-1001.dcm.png",
+  "generated_report": "[Breathing: Lungs] **There is a small pneumothorax at the left lung base.** [Breathing: Lungs] **There is a small left apical pneumothorax.**",
+  "attention_map_path": "/content/data/attention_maps/chexagent/2955_IM-1352-1001.dcm_attention.npz",
+  "num_generated_tokens": 47
+}

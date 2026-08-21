@@ -1,0 +1,7 @@
+{
+  "image_id": "3542_IM-1734-1001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/3542_IM-1734-1001.dcm.png",
+  "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pneumothorax. [Everything else: Bones] There are no bony abnormalities.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/3542_IM-1734-1001.dcm_attention.npz",
+  "num_generated_tokens": 61
+}

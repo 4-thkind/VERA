@@ -1,0 +1,7 @@
+{
+  "image_id": "2991_IM-1378-1001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/2991_IM-1378-1001.dcm.png",
+  "generated_report": "[Breathing: Lungs] **A 1.5 cm nodular opacity is seen in the right mid lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] **Old right-sided rib fractures are present.**",
+  "attention_map_path": "/content/data/attention_maps/chexagent/2991_IM-1378-1001.dcm_attention.npz",
+  "num_generated_tokens": 106
+}

@@ -1,0 +1,7 @@
+{
+  "image_id": "417_IM-2060-1001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/417_IM-2060-1001.dcm.png",
+  "generated_report": "No abnormalities detected.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/417_IM-2060-1001.dcm_attention.npz",
+  "num_generated_tokens": 5
+}
