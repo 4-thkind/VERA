@@ -1,7 +1,0 @@
-{
-  "image_id": "3492_IM-1698-2001.dcm",
-  "image_path": "/content/indiana_dataset/images/images_normalized/3492_IM-1698-2001.dcm.png",
-  "generated_report": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal silhouette is normal. [Airway: Hilar Structures] The hilar contours are normal.",
-  "attention_map_path": "/content/data/attention_maps/chexagent/3492_IM-1698-2001.dcm_attention.npz",
-  "num_generated_tokens": 100
-}

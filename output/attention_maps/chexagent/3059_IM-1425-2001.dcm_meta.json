@@ -1,7 +1,0 @@
-{
-  "image_id": "3059_IM-1425-2001.dcm",
-  "image_path": "/content/indiana_dataset/images/images_normalized/3059_IM-1425-2001.dcm.png",
-  "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Breathing: Pleura] No pneumothorax is seen.",
-  "attention_map_path": "/content/data/attention_maps/chexagent/3059_IM-1425-2001.dcm_attention.npz",
-  "num_generated_tokens": 77
-}

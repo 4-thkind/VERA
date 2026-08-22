@@ -1,7 +1,0 @@
-{
-  "image_id": "3451_IM-1674-1001.dcm",
-  "image_path": "/content/indiana_dataset/images/images_normalized/3451_IM-1674-1001.dcm.png",
-  "generated_report": "<|ref|> Pleural thickening <|/ref|> <|box|> (14,52),(22,63) <|/box|> <|ref|> Pleural effusion <|/ref|> <|box|> (14,52),(22,63) <|/box|> <|ref|> Calcification <|/ref|> <|box|> (55,28),(59,36) <|/box|> <|ref|> Other lesion <|/ref|> <|box|> (55,28),(59,36) <|/box|>",
-  "attention_map_path": "/content/data/attention_maps/chexagent/3451_IM-1674-1001.dcm_attention.npz",
-  "num_generated_tokens": 73
-}

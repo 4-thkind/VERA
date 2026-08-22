@@ -1,7 +1,0 @@
-{
-  "image_id": "1428_IM-0274-1001.dcm",
-  "image_path": "/content/indiana_dataset/images/images_normalized/1428_IM-0274-1001.dcm.png",
-  "generated_report": "[Cardiac: Heart Size and Borders] There is no evidence of acute cardiopulmonary disease. [Breathing: Lungs] No pneumonia or vascular congestion. [Breathing: Pleura] No pleural effusion.",
-  "attention_map_path": "/content/data/attention_maps/chexagent/1428_IM-0274-1001.dcm_attention.npz",
-  "num_generated_tokens": 50
-}

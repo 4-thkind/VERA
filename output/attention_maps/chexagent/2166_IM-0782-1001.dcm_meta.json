@@ -1,7 +1,0 @@
-{
-  "image_id": "2166_IM-0782-1001.dcm",
-  "image_path": "/content/indiana_dataset/images/images_normalized/2166_IM-0782-1001.dcm.png",
-  "generated_report": "[Breathing: Lungs] **Low lung volumes.** [Breathing: Lungs] There is no focal consolidation. [Cardiac: Heart Size] The cardiac silhouette is within normal limits. [Everything else: Mediastinal] **Mild tortuosity of the thoracic aorta.**",
-  "attention_map_path": "/content/data/attention_maps/chexagent/2166_IM-0782-1001.dcm_attention.npz",
-  "num_generated_tokens": 69
-}

@@ -1,7 +1,0 @@
-{
-  "image_id": "3280_IM-1561-2001.dcm",
-  "image_path": "/content/indiana_dataset/images/images_normalized/3280_IM-1561-2001.dcm.png",
-  "generated_report": "[Breathing: Lungs] **There is a right lower lobe opacity, which is concerning for pneumonia.** [Breathing: Lungs] The left lung is clear. [Everything else: Mediastinal] Incidental note is made of an azygos lobe. [Cardiac: Heart Size] The heart size is within normal limits. [Everything else: Bones] The osseous structures are unremarkable.",
-  "attention_map_path": "/content/data/attention_maps/chexagent/3280_IM-1561-2001.dcm_attention.npz",
-  "num_generated_tokens": 91
-}

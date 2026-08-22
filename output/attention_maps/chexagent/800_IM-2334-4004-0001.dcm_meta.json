@@ -1,7 +1,0 @@
-{
-  "image_id": "800_IM-2334-4004-0001.dcm",
-  "image_path": "/content/indiana_dataset/images/images_normalized/800_IM-2334-4004-0001.dcm.png",
-  "generated_report": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] **Severe degenerative changes are seen in the shoulders bilaterally.**",
-  "attention_map_path": "/content/data/attention_maps/chexagent/800_IM-2334-4004-0001.dcm_attention.npz",
-  "num_generated_tokens": 86
-}

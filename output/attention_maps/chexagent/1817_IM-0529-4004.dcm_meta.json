@@ -1,7 +1,0 @@
-{
-  "image_id": "1817_IM-0529-4004.dcm",
-  "image_path": "/content/indiana_dataset/images/images_normalized/1817_IM-0529-4004.dcm.png",
-  "generated_report": "[Breathing: Lungs] **There is no evidence of pneumonia.**",
-  "attention_map_path": "/content/data/attention_maps/chexagent/1817_IM-0529-4004.dcm_attention.npz",
-  "num_generated_tokens": 18
-}

@@ -1,7 +1,0 @@
-{
-  "image_id": "2370_IM-0931-1001.dcm",
-  "image_path": "/content/indiana_dataset/images/images_normalized/2370_IM-0931-1001.dcm.png",
-  "generated_report": "[Breathing: Lungs] **Right lower lobe consolidation is present.** [Breathing: Pleura] **There is a small right pleural effusion.**",
-  "attention_map_path": "/content/data/attention_maps/chexagent/2370_IM-0931-1001.dcm_attention.npz",
-  "num_generated_tokens": 38
-}

@@ -1,7 +1,0 @@
-{
-  "image_id": "1888_IM-0576-1001.dcm",
-  "image_path": "/content/indiana_dataset/images/images_normalized/1888_IM-0576-1001.dcm.png",
-  "generated_report": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pulmonary edema. [Breathing: Lungs] There is no pneumonia. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] The alignment of the sternal wires is unchanged.",
-  "attention_map_path": "/content/data/attention_maps/chexagent/1888_IM-0576-1001.dcm_attention.npz",
-  "num_generated_tokens": 80
-}

@@ -1,7 +1,0 @@
-{
-  "image_id": "2552_IM-1058-1002.dcm",
-  "image_path": "/content/indiana_dataset/images/images_normalized/2552_IM-1058-1002.dcm.png",
-  "generated_report": "[Breathing: Lungs] **There is a decrease in the extent of the pre-existing parenchymal opacities.** [Breathing: Lungs] **The opacities are still clearly visible, notably at the right lung bases.** [Breathing: Lungs] There are no opacities. [Breathing: Pleura] There are no pleural effusions. [Cardiac: Heart Size] The size of the cardiac silhouette is normal.",
-  "attention_map_path": "/content/data/attention_maps/chexagent/2552_IM-1058-1002.dcm_attention.npz",
-  "num_generated_tokens": 105
-}

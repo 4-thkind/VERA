@@ -1,7 +1,0 @@
-{
-  "image_id": "629_IM-2209-1001.dcm",
-  "image_path": "/content/indiana_dataset/images/images_normalized/629_IM-2209-1001.dcm.png",
-  "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural abnormality. [Everything else: Bones] **There is a mild thoracic scoliosis.**",
-  "attention_map_path": "/content/data/attention_maps/chexagent/629_IM-2209-1001.dcm_attention.npz",
-  "num_generated_tokens": 62
-}
