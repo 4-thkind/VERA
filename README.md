@@ -4,7 +4,7 @@
 
 ---
 
-## ⚡ The Core Problem & Intuition
+##  The Core Problem & Intuition
 
 State-of-the-art medical VLMs (like **CheXagent-2-3b** or **LLaVA-Med**) generate remarkably fluent radiology reports—but they frequently suffer from **hallucinations**: asserting pathologies (e.g., *"pneumothorax in the right apex"*) that do not exist on the radiograph.
 
@@ -20,7 +20,7 @@ State-of-the-art medical VLMs (like **CheXagent-2-3b** or **LLaVA-Med**) generat
 
 ---
 
-## 🔍 Cross-Modal Attention Verification
+##  Cross-Modal Attention Verification
 
 When the model claims *"There is a calcified granuloma in the right lower lobe"*, VERA extracts the internal token-wise cross-attention weights and verifies that the model is actively looking at the lower lobe rather than background noise:
 
@@ -34,7 +34,7 @@ When the model claims *"There is a calcified granuloma in the right lower lobe"*
 
 ---
 
-## 🗺️ 13-Zone Chest Anatomy Atlas
+##  13-Zone Chest Anatomy Atlas
 
 To bridge natural language claims with spatial pixel grids, VERA maps extracted clinical entities into a standardized **13-Zone Chest Anatomy Atlas**:
 
@@ -62,7 +62,7 @@ To bridge natural language claims with spatial pixel grids, VERA maps extracted 
 
 ---
 
-## 📊 Benchmark Results & Empirical Performance
+##  Benchmark Results & Empirical Performance
 
 Evaluated on the **Indiana University Chest X-Ray (IU CXR)** benchmark using Stanford's **CheXagent-2-3b** foundation model and audited via DeBERTa-v3-base NLI ground truth:
 
@@ -99,7 +99,7 @@ In clinical radiology, failing to detect a critical pathology (e.g., missed pneu
 
 ---
 
-## 🔬 Mathematical Formulation
+##  Mathematical Formulation
 
 ### 1. VERA Alignment Score
 For a generated clinical claim $c = (f, r)$ consisting of a finding $f$ located at anatomical region $r$:
@@ -126,7 +126,7 @@ Where $\mathcal{T}_{\tau}$ are thresholds dynamically calibrated on a validation
 
 ---
 
-## 🏗️ System Architecture & Data Flow
+##  System Architecture & Data Flow
 
 ```mermaid
 flowchart TD
@@ -171,7 +171,7 @@ flowchart TD
 
 ---
 
-## 📂 Repository Organization
+##  Repository Organization
 
 ```text
 VERA_GENAI4HEALTH/
@@ -203,7 +203,7 @@ VERA_GENAI4HEALTH/
 
 ---
 
-## 📚 Comprehensive Bibliography (50 Citations)
+##  Comprehensive Bibliography (50 Citations)
 
 #### Vision-Language Models in Radiology & Biomedicine
 1. Chen, Z., et al. "CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation." *arXiv:2401.12208*, 2024.
@@ -273,7 +273,7 @@ VERA_GENAI4HEALTH/
 
 ---
 
-## 📜 Citation & License
+##  Citation & License
 
 If you use VERA or find our cross-attention hallucination auditing framework helpful for your research, please cite:
 
