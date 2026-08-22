@@ -1,0 +1,259 @@
+{
+  "image_id": "2285_IM-0870-1001.dcm",
+  "generated_report": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+  "claims": [
+    {
+      "finding": "pulmonary edema",
+      "location": "bilateral",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        54,
+        69
+      ]
+    },
+    {
+      "finding": "pulmonary edema",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        54,
+        69
+      ]
+    },
+    {
+      "finding": "pulmonary edema",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        54,
+        69
+      ]
+    },
+    {
+      "finding": "pulmonary edema",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        54,
+        69
+      ]
+    },
+    {
+      "finding": "pulmonary edema",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        54,
+        69
+      ]
+    },
+    {
+      "finding": "cardiomegaly",
+      "location": "bilateral",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        162,
+        174
+      ]
+    },
+    {
+      "finding": "cardiomegaly",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        162,
+        174
+      ]
+    },
+    {
+      "finding": "cardiomegaly",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        162,
+        174
+      ]
+    },
+    {
+      "finding": "cardiomegaly",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        162,
+        174
+      ]
+    },
+    {
+      "finding": "cardiomegaly",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        162,
+        174
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "bilateral",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        105,
+        122
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        105,
+        122
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        105,
+        122
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        105,
+        122
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        105,
+        122
+      ]
+    },
+    {
+      "finding": "heart size] **cardiomegaly",
+      "location": "bilateral",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        148,
+        174
+      ]
+    },
+    {
+      "finding": "heart size] **cardiomegaly",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        148,
+        174
+      ]
+    },
+    {
+      "finding": "heart size] **cardiomegaly",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        148,
+        174
+      ]
+    },
+    {
+      "finding": "heart size] **cardiomegaly",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        148,
+        174
+      ]
+    },
+    {
+      "finding": "heart size] **cardiomegaly",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is an interval increase in pulmonary edema.** [Breathing: Pleura] **Bilateral pleural effusions are present.** [Cardiac: Heart Size] **Cardiomegaly is noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        148,
+        174
+      ]
+    }
+  ],
+  "relational_flags": [
+    {
+      "type": "relational_hallucination",
+      "matched_pattern": "interval increase",
+      "context": "eathing: Lungs] **There is an interval increase in pulmonary edema.** [Breath",
+      "char_span": [
+        33,
+        50
+      ]
+    }
+  ],
+  "num_claims": 20,
+  "num_relational_flags": 1
+}

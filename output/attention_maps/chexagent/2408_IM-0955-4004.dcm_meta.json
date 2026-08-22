@@ -1,0 +1,7 @@
+{
+  "image_id": "2408_IM-0955-4004.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/2408_IM-0955-4004.dcm.png",
+  "generated_report": "[Breathing: Lungs] **Bibasilar atelectasis is present.** [Breathing: Lungs] There is no evidence of pneumonia.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/2408_IM-0955-4004.dcm_attention.npz",
+  "num_generated_tokens": 36
+}

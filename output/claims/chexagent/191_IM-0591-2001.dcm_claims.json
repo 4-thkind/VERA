@@ -1,0 +1,585 @@
+{
+  "image_id": "191_IM-0591-2001.dcm",
+  "generated_report": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+  "claims": [
+    {
+      "finding": "pneumothorax",
+      "location": "mediastinum",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        434,
+        446
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        434,
+        446
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        434,
+        446
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        434,
+        446
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        434,
+        446
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "left",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        434,
+        446
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "mediastinum",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        40,
+        48
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        40,
+        48
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        40,
+        48
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        40,
+        48
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        40,
+        48
+      ]
+    },
+    {
+      "finding": "fracture",
+      "location": "left",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        40,
+        48
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "mediastinum",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        336,
+        342
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        336,
+        342
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        336,
+        342
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        336,
+        342
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        336,
+        342
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "left",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        336,
+        342
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "mediastinum",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        289,
+        294
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        289,
+        294
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        289,
+        294
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        289,
+        294
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        289,
+        294
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "left",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        289,
+        294
+      ]
+    },
+    {
+      "finding": "comminuted fracture",
+      "location": "mediastinum",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        29,
+        48
+      ]
+    },
+    {
+      "finding": "comminuted fracture",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        29,
+        48
+      ]
+    },
+    {
+      "finding": "comminuted fracture",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        29,
+        48
+      ]
+    },
+    {
+      "finding": "comminuted fracture",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        29,
+        48
+      ]
+    },
+    {
+      "finding": "comminuted fracture",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        29,
+        48
+      ]
+    },
+    {
+      "finding": "comminuted fracture",
+      "location": "left",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        29,
+        48
+      ]
+    },
+    {
+      "finding": "bones] **a fracture",
+      "location": "mediastinum",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        191,
+        210
+      ]
+    },
+    {
+      "finding": "bones] **a fracture",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        191,
+        210
+      ]
+    },
+    {
+      "finding": "bones] **a fracture",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        191,
+        210
+      ]
+    },
+    {
+      "finding": "bones] **a fracture",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        191,
+        210
+      ]
+    },
+    {
+      "finding": "bones] **a fracture",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        191,
+        210
+      ]
+    },
+    {
+      "finding": "bones] **a fracture",
+      "location": "left",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        191,
+        210
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "mediastinum",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        362,
+        373
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        362,
+        373
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        362,
+        373
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        362,
+        373
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        362,
+        373
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "left",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        362,
+        373
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "mediastinum",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        414,
+        420
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        414,
+        420
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        414,
+        420
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        414,
+        420
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        414,
+        420
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "left",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        414,
+        420
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 48,
+  "num_relational_flags": 0
+}

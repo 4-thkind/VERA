@@ -1,0 +1,729 @@
+{
+  "image_id": "455_IM-2086-4004.dcm",
+  "generated_report": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+  "claims": [
+    {
+      "finding": "consolidation",
+      "location": "right lower lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        124,
+        137
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        124,
+        137
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        124,
+        137
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        124,
+        137
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        124,
+        137
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        124,
+        137
+      ]
+    },
+    {
+      "finding": "atelectasis",
+      "location": "right lower lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        122
+      ]
+    },
+    {
+      "finding": "atelectasis",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        122
+      ]
+    },
+    {
+      "finding": "atelectasis",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        122
+      ]
+    },
+    {
+      "finding": "atelectasis",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        122
+      ]
+    },
+    {
+      "finding": "atelectasis",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        122
+      ]
+    },
+    {
+      "finding": "atelectasis",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        122
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "right lower lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        49,
+        56
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        49,
+        56
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        49,
+        56
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        49,
+        56
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        49,
+        56
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        49,
+        56
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "right lower lobe",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        254,
+        260
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        254,
+        260
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        254,
+        260
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        254,
+        260
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        254,
+        260
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        254,
+        260
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "right lower lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        207,
+        212
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        207,
+        212
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        207,
+        212
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        207,
+        212
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        207,
+        212
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        207,
+        212
+      ]
+    },
+    {
+      "finding": "right lower lobe opacity",
+      "location": "right lower lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        32,
+        56
+      ]
+    },
+    {
+      "finding": "right lower lobe opacity",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        32,
+        56
+      ]
+    },
+    {
+      "finding": "right lower lobe opacity",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        32,
+        56
+      ]
+    },
+    {
+      "finding": "right lower lobe opacity",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        32,
+        56
+      ]
+    },
+    {
+      "finding": "right lower lobe opacity",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        32,
+        56
+      ]
+    },
+    {
+      "finding": "right lower lobe opacity",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        32,
+        56
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "right lower lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        280,
+        291
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        280,
+        291
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        280,
+        291
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        280,
+        291
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        280,
+        291
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        280,
+        291
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "right lower lobe",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        342,
+        348
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        342,
+        348
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        342,
+        348
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        342,
+        348
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        342,
+        348
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        342,
+        348
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "right lower lobe",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        363,
+        380
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        363,
+        380
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        363,
+        380
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        363,
+        380
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        363,
+        380
+      ]
+    },
+    {
+      "finding": "pleural effusions",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        363,
+        380
+      ]
+    },
+    {
+      "finding": "acute bony abnormalities",
+      "location": "right lower lobe",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        420,
+        444
+      ]
+    },
+    {
+      "finding": "acute bony abnormalities",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        420,
+        444
+      ]
+    },
+    {
+      "finding": "acute bony abnormalities",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        420,
+        444
+      ]
+    },
+    {
+      "finding": "acute bony abnormalities",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        420,
+        444
+      ]
+    },
+    {
+      "finding": "acute bony abnormalities",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        420,
+        444
+      ]
+    },
+    {
+      "finding": "acute bony abnormalities",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a right lower lobe opacity obscuring the right heart border, which may represent atelectasis, consolidation, or a pericardial cyst.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions. [Everything else: Bones] There are no acute bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        420,
+        444
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 60,
+  "num_relational_flags": 0
+}

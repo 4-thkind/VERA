@@ -1,0 +1,33 @@
+{
+  "image_id": "854_IM-2376-2001.dcm",
+  "generated_report": "[Breathing: Lungs] **There is a small infiltrate in the right lower lobe.**",
+  "claims": [
+    {
+      "finding": "infiltrate",
+      "location": "right lower lobe",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small infiltrate in the right lower lobe.**",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        48
+      ]
+    },
+    {
+      "finding": "infiltrate",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a small infiltrate in the right lower lobe.**",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        48
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 2,
+  "num_relational_flags": 0
+}

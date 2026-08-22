@@ -1,0 +1,7 @@
+{
+  "image_id": "1691_IM-0453-4001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/1691_IM-0453-4001.dcm.png",
+  "generated_report": "<|ref|> Pulmonary fibrosis <|/ref|> <|box|> (73,41),(85,50) <|/box|>",
+  "attention_map_path": "/content/data/attention_maps/chexagent/1691_IM-0453-4001.dcm_attention.npz",
+  "num_generated_tokens": 20
+}

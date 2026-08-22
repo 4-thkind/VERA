@@ -1,0 +1,7 @@
+{
+  "image_id": "2183_IM-0794-1001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/2183_IM-0794-1001.dcm.png",
+  "generated_report": "<|ref|> Cardiomegaly <|/ref|> <|box|> (31,54),(85,78) <|/box|> <|ref|> Aortic enlargement <|/ref|> <|box|> (50,31),(64,43) <|/box|> <|ref|> Lung Opacity <|/ref|> <|box|> (68,50),(86,72) <|/box|>",
+  "attention_map_path": "/content/data/attention_maps/chexagent/2183_IM-0794-1001.dcm_attention.npz",
+  "num_generated_tokens": 57
+}

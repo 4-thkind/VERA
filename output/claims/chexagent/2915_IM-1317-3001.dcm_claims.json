@@ -1,0 +1,249 @@
+{
+  "image_id": "2915_IM-1317-3001.dcm",
+  "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+  "claims": [
+    {
+      "finding": "pleural effusion",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        145,
+        161
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        145,
+        161
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        145,
+        161
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        145,
+        161
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        105,
+        111
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        105,
+        111
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        105,
+        111
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        105,
+        111
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        33,
+        38
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        33,
+        38
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        33,
+        38
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        33,
+        38
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        125,
+        131
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        125,
+        131
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        125,
+        131
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        125,
+        131
+      ]
+    },
+    {
+      "finding": "bony abnormalities",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        201,
+        219
+      ]
+    },
+    {
+      "finding": "bony abnormalities",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        201,
+        219
+      ]
+    },
+    {
+      "finding": "bony abnormalities",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        201,
+        219
+      ]
+    },
+    {
+      "finding": "bony abnormalities",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] There are no bony abnormalities.",
+      "sentence_idx": 0,
+      "char_span": [
+        201,
+        219
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 20,
+  "num_relational_flags": 0
+}

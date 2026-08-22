@@ -1,0 +1,7 @@
+{
+  "image_id": "2022_IM-0669-1001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/2022_IM-0669-1001.dcm.png",
+  "generated_report": "[Breathing: Lungs] **There is a small area of consolidation in the left lower lobe, which could represent atelectasis or pneumonia.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is within normal limits. [Everything else: Mediastinal] The mediastinum is within normal limits. [Everything else: Bones] The bony thorax is intact.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/2022_IM-0669-1001.dcm_attention.npz",
+  "num_generated_tokens": 95
+}

@@ -1,0 +1,7 @@
+{
+  "image_id": "3445_IM-1668-1001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/3445_IM-1668-1001.dcm.png",
+  "generated_report": "[Breathing: Lungs] **A nodular opacity is seen in the right lower lung zone, which may represent a nipple shadow.** [Breathing: Lungs] The lungs are otherwise clear. [Everything else: Mediastinal] The cardiomedial silhouette is unremarkable. [Breathing: Pleura] There is no evidence of pneumothorax.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/3445_IM-1668-1001.dcm_attention.npz",
+  "num_generated_tokens": 82
+}

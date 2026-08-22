@@ -1,0 +1,21 @@
+{
+  "image_id": "1072_IM-0052-1001-0002.dcm",
+  "generated_report": "<|ref|> Cardiomegaly <|/ref|> <|box|> (38,50),(85,70) <|/box|> <|ref|> Aortic enlargement <|/ref|> <|box|> (50,29),(62,40) <|/box|>",
+  "claims": [
+    {
+      "finding": "cardiomegaly",
+      "location": "aortic",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "<|ref|> Cardiomegaly <|/ref|> <|box|> (38,50),(85,70) <|/box|> <|ref|> Aortic enlargement <|/ref|> <|box|> (50,29),(62,40) <|/box|>",
+      "sentence_idx": 0,
+      "char_span": [
+        8,
+        20
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 1,
+  "num_relational_flags": 0
+}

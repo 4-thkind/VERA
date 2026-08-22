@@ -1,0 +1,21 @@
+{
+  "image_id": "2569_IM-1071-3001.dcm",
+  "generated_report": "No abnormalities detected.",
+  "claims": [
+    {
+      "finding": "no abnormalities",
+      "location": "",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "No abnormalities detected.",
+      "sentence_idx": 0,
+      "char_span": [
+        0,
+        0
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 1,
+  "num_relational_flags": 0
+}

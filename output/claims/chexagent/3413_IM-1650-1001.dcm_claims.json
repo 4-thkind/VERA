@@ -1,0 +1,369 @@
+{
+  "image_id": "3413_IM-1650-1001.dcm",
+  "generated_report": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+  "claims": [
+    {
+      "finding": "pleural effusion",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        293,
+        309
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        293,
+        309
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        293,
+        309
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        293,
+        309
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        293,
+        309
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "hilar",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        293,
+        309
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        313,
+        325
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        313,
+        325
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        313,
+        325
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        313,
+        325
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        313,
+        325
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "hilar",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        313,
+        325
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        40,
+        46
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        40,
+        46
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        40,
+        46
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        40,
+        46
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        40,
+        46
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "hilar",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        40,
+        46
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        263,
+        268
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        263,
+        268
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        263,
+        268
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        263,
+        268
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        263,
+        268
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "hilar",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        263,
+        268
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        66,
+        77
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        66,
+        77
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        66,
+        77
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        66,
+        77
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        66,
+        77
+      ]
+    },
+    {
+      "finding": "mediastinal",
+      "location": "hilar",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+      "sentence_idx": 0,
+      "char_span": [
+        66,
+        77
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 30,
+  "num_relational_flags": 0
+}

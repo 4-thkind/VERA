@@ -1,0 +1,117 @@
+{
+  "image_id": "800_IM-2334-4001.dcm",
+  "generated_report": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pneumonia.",
+  "claims": [
+    {
+      "finding": "cardiomegaly",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pneumonia.",
+      "sentence_idx": 0,
+      "char_span": [
+        24,
+        36
+      ]
+    },
+    {
+      "finding": "cardiomegaly",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pneumonia.",
+      "sentence_idx": 0,
+      "char_span": [
+        24,
+        36
+      ]
+    },
+    {
+      "finding": "cardiomegaly",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pneumonia.",
+      "sentence_idx": 0,
+      "char_span": [
+        24,
+        36
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pneumonia.",
+      "sentence_idx": 0,
+      "char_span": [
+        94,
+        103
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pneumonia.",
+      "sentence_idx": 0,
+      "char_span": [
+        94,
+        103
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pneumonia.",
+      "sentence_idx": 0,
+      "char_span": [
+        94,
+        103
+      ]
+    },
+    {
+      "finding": "heart size] **cardiomegaly",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pneumonia.",
+      "sentence_idx": 0,
+      "char_span": [
+        10,
+        36
+      ]
+    },
+    {
+      "finding": "heart size] **cardiomegaly",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pneumonia.",
+      "sentence_idx": 0,
+      "char_span": [
+        10,
+        36
+      ]
+    },
+    {
+      "finding": "heart size] **cardiomegaly",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] **Cardiomegaly is present.** [Breathing: Lungs] There is no evidence of pneumonia.",
+      "sentence_idx": 0,
+      "char_span": [
+        10,
+        36
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 9,
+  "num_relational_flags": 0
+}

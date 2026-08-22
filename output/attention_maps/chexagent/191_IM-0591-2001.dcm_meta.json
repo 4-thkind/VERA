@@ -1,0 +1,7 @@
+{
+  "image_id": "191_IM-0591-2001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/191_IM-0591-2001.dcm.png",
+  "generated_report": "[Everything else: Bones] **A comminuted fracture of the left humeral head and neck is present.** [Everything else: Bones] **There is a fracture of the left humeral shaft.** [Everything else: Bones] **A fracture of the left distal clavicle is also noted.** [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinum is normal. [Breathing: Pleura] There is no pneumothorax.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/191_IM-0591-2001.dcm_attention.npz",
+  "num_generated_tokens": 125
+}
