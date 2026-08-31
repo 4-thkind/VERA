@@ -96,9 +96,9 @@ def compute_vera_score(
     region_mask: np.ndarray,
 ) -> float:
     """
-    Compute VERA alignment score for a single claim.
+    Compute raw VERA alignment score for a single claim.
     
-    VERA(c) = sum(attention[R(c)]) / sum(attention[all])
+    VERA_raw(c) = sum(attention[R(c)]) / sum(attention[all])
     
     Args:
         attention_map: Attention map of shape (H, W) — normalized or unnormalized
@@ -109,7 +109,6 @@ def compute_vera_score(
     """
     # Ensure same shape
     if attention_map.shape != region_mask.shape:
-        # Try to resize mask to match attention
         from scipy.ndimage import zoom
         zoom_factors = (
             attention_map.shape[0] / region_mask.shape[0],
@@ -126,6 +125,53 @@ def compute_vera_score(
 
     vera_score = float(attention_in_region / attention_total)
     return vera_score
+
+
+def compute_vera_score_normalized(
+    attention_map: np.ndarray,
+    region_mask: np.ndarray,
+) -> float:
+    """
+    Compute area-normalized VERA score (geometric correction).
+    
+    Divides the raw density ratio by the mask's area fraction to remove
+    the bias where large masks score artificially high under uniform attention.
+    
+    VERA_norm(c) = VERA_raw(c) / (|R(c)| / |Omega|)
+    
+    A score of 1.0 means attention density matches random expectation.
+    Scores >1.0 mean the model is actively focusing on the claimed zone.
+    Scores <1.0 mean the model under-attends the claimed zone.
+    
+    Args:
+        attention_map: Attention map of shape (H, W)
+        region_mask: Binary mask of shape (H, W)
+    
+    Returns:
+        Normalized VERA score (unbounded positive float).
+    """
+    # Ensure same shape
+    if attention_map.shape != region_mask.shape:
+        from scipy.ndimage import zoom
+        zoom_factors = (
+            attention_map.shape[0] / region_mask.shape[0],
+            attention_map.shape[1] / region_mask.shape[1],
+        )
+        region_mask = zoom(region_mask, zoom_factors, order=0)
+
+    raw_score = compute_vera_score(attention_map, region_mask)
+
+    # Compute area fraction: |R(c)| / |Omega|
+    mask_area = float(region_mask.sum())
+    total_area = float(region_mask.shape[0] * region_mask.shape[1])
+
+    if mask_area <= 0 or total_area <= 0:
+        return 0.0
+
+    area_fraction = mask_area / total_area
+    vera_norm = raw_score / area_fraction
+
+    return float(vera_norm)
 
 
 def compute_attention_entropy(attention_map: np.ndarray) -> float:
@@ -169,6 +215,8 @@ def score_single_claim(
     # Make a copy to avoid mutating input
     scored_claim = dict(claim)
     scored_claim["vera_score"] = None
+    scored_claim["vera_score_norm"] = None
+    scored_claim["mask_area_fraction"] = None
     scored_claim["vera_flagged"] = False
     scored_claim["vera_threshold"] = None
     scored_claim["attention_entropy"] = None
@@ -188,6 +236,11 @@ def score_single_claim(
         return scored_claim
 
     scored_claim["localizable"] = True
+
+    # Compute and store mask area fraction for transparency
+    mask_area = float(region_mask.sum())
+    total_area = float(region_mask.shape[0] * region_mask.shape[1])
+    scored_claim["mask_area_fraction"] = mask_area / total_area if total_area > 0 else 0.0
 
     # Get attention map for this claim's tokens
     token_span = claim.get("token_span", (0, 0))
@@ -214,9 +267,13 @@ def score_single_claim(
         # Fallback to report-level mean attention
         claim_attention = attention_maps.mean(axis=0)
 
-    # Compute VERA score
+    # Compute raw VERA score
     vera_score = compute_vera_score(claim_attention, region_mask)
     scored_claim["vera_score"] = vera_score
+
+    # Compute area-normalized VERA score (geometric correction)
+    vera_norm = compute_vera_score_normalized(claim_attention, region_mask)
+    scored_claim["vera_score_norm"] = vera_norm
 
     # Get severity tier and threshold
     severity = classify_severity(finding)
@@ -224,8 +281,8 @@ def score_single_claim(
     threshold = get_threshold(finding, thresholds)
     scored_claim["vera_threshold"] = threshold
 
-    # Flag as hallucination if below threshold
-    scored_claim["vera_flagged"] = vera_score < threshold
+    # Flag as hallucination using NORMALIZED score
+    scored_claim["vera_flagged"] = vera_norm < threshold
 
     # Compute attention entropy
     scored_claim["attention_entropy"] = compute_attention_entropy(claim_attention)
