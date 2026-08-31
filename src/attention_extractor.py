@@ -564,6 +564,8 @@ def load_chexagent(
     Returns:
         (model, tokenizer, image_processor)
     """
+    import tokenizers
+    tokenizers.__version__ = "0.19.1"
     from transformers import (
         AutoModelForCausalLM,
         AutoTokenizer,
