@@ -171,6 +171,54 @@ def compute_per_severity_metrics(
     return results
 
 
+def compute_per_severity_auroc(
+    scored_claims: List[Dict],
+    ground_truth: List[bool],
+    score_key: str = "vera_score_norm",
+) -> Dict[str, float]:
+    """
+    Compute AUROC per severity tier.
+    
+    Groups claims by severity tier and computes AUROC separately for each,
+    revealing whether ranking signal is strong in specific tiers but
+    washed out by pooling across all claims.
+    
+    Args:
+        scored_claims: List of claim dicts with vera scores and severity_tier
+        ground_truth: List of bool (True = hallucination)
+        score_key: Which score field to use (default: area-normalized)
+    
+    Returns:
+        Dict mapping tier name -> AUROC value (or None if insufficient data)
+    """
+    from sklearn.metrics import roc_auc_score
+
+    tiers = defaultdict(lambda: {"scores": [], "gts": []})
+
+    for claim, gt in zip(scored_claims, ground_truth):
+        tier = claim.get("severity_tier", "unknown")
+        score = claim.get(score_key)
+        if score is not None:
+            tiers[tier]["scores"].append(score)
+            tiers[tier]["gts"].append(gt)
+
+    results = {}
+    for tier, data in tiers.items():
+        gt_array = np.array(data["gts"], dtype=int)
+        # Need both classes present and at least 5 samples
+        if len(set(gt_array)) < 2 or len(gt_array) < 5:
+            results[tier] = None
+            continue
+        # Invert scores: lower VERA = higher hallucination risk
+        risk_scores = 1.0 - np.array(data["scores"], dtype=float)
+        try:
+            results[tier] = float(roc_auc_score(gt_array, risk_scores))
+        except ValueError:
+            results[tier] = None
+
+    return results
+
+
 # ============================================================
 # Baselines
 # ============================================================
