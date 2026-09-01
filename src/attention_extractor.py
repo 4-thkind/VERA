@@ -9,8 +9,9 @@ serves as our cross-attention proxy. We extract attention[text_tokens → image_
 and reshape the image-token dimension into a spatial grid matching the vision encoder's
 patch layout.
 """
-import os
-os.environ["TRANSFORMERS_NO_ADVISORY_WARNINGS"] = "1"
+import importlib.metadata
+_orig = importlib.metadata.version
+importlib.metadata.version = lambda pkg: '0.19.1' if pkg == 'tokenizers' else _orig(pkg)
 
 import torch
 import numpy as np

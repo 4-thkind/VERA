@@ -2,8 +2,9 @@
 VERA Evaluation
 Metrics computation, baseline implementations, and paper-quality plotting.
 """
-import os
-os.environ["TRANSFORMERS_NO_ADVISORY_WARNINGS"] = "1"
+import importlib.metadata
+_orig = importlib.metadata.version
+importlib.metadata.version = lambda pkg: '0.19.1' if pkg == 'tokenizers' else _orig(pkg)
 
 import numpy as np
 import json
