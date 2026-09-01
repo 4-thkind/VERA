@@ -1,0 +1,7 @@
+{
+  "image_id": "2798_IM-1230-3001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/2798_IM-1230-3001.dcm.png",
+  "generated_report": "[Breathing: Lungs] The lungs are clear. [Everything else: Mediastinal] **There is a calcified lymph node in the AP window.** [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pneumothorax.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/2798_IM-1230-3001.dcm_attention.npz",
+  "num_generated_tokens": 66
+}

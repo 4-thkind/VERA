@@ -1,0 +1,153 @@
+{
+  "image_id": "3605_IM-1781-1001.dcm",
+  "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is mild scoliosis.**",
+  "claims": [
+    {
+      "finding": "scoliosis",
+      "location": "mediastinum",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is mild scoliosis.**",
+      "sentence_idx": 0,
+      "char_span": [
+        167,
+        176
+      ]
+    },
+    {
+      "finding": "scoliosis",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is mild scoliosis.**",
+      "sentence_idx": 0,
+      "char_span": [
+        167,
+        176
+      ]
+    },
+    {
+      "finding": "scoliosis",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is mild scoliosis.**",
+      "sentence_idx": 0,
+      "char_span": [
+        167,
+        176
+      ]
+    },
+    {
+      "finding": "scoliosis",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is mild scoliosis.**",
+      "sentence_idx": 0,
+      "char_span": [
+        167,
+        176
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "mediastinum",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is mild scoliosis.**",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        117
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is mild scoliosis.**",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        117
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is mild scoliosis.**",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        117
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is mild scoliosis.**",
+      "sentence_idx": 0,
+      "char_span": [
+        111,
+        117
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "mediastinum",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is mild scoliosis.**",
+      "sentence_idx": 0,
+      "char_span": [
+        33,
+        38
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is mild scoliosis.**",
+      "sentence_idx": 0,
+      "char_span": [
+        33,
+        38
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is mild scoliosis.**",
+      "sentence_idx": 0,
+      "char_span": [
+        33,
+        38
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The heart and mediastinum are within normal limits. [Everything else: Bones] **There is mild scoliosis.**",
+      "sentence_idx": 0,
+      "char_span": [
+        33,
+        38
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 12,
+  "num_relational_flags": 0
+}

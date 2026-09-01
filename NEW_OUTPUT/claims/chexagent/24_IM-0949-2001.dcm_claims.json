@@ -1,0 +1,309 @@
+{
+  "image_id": "24_IM-0949-2001.dcm",
+  "generated_report": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+  "claims": [
+    {
+      "finding": "unremarkable",
+      "location": "left lower lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        301,
+        313
+      ]
+    },
+    {
+      "finding": "unremarkable",
+      "location": "right lung",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        301,
+        313
+      ]
+    },
+    {
+      "finding": "unremarkable",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        301,
+        313
+      ]
+    },
+    {
+      "finding": "unremarkable",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        301,
+        313
+      ]
+    },
+    {
+      "finding": "unremarkable",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        301,
+        313
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "left lower lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        94,
+        103
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "right lung",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        94,
+        103
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        94,
+        103
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        94,
+        103
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        94,
+        103
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "left lower lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        45
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "right lung",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        45
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        45
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        45
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        45
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "left lower lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        223,
+        229
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "right lung",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        223,
+        229
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        223,
+        229
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        223,
+        229
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        223,
+        229
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "left lower lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        144,
+        149
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "right lung",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        144,
+        149
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        144,
+        149
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        144,
+        149
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a focal opacity in the left lower lobe, which is concerning for pneumonia.** [Breathing: Lungs] The right lung is clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits. [Everything else: Bones] The visualized osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        144,
+        149
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 25,
+  "num_relational_flags": 0
+}

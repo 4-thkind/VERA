@@ -1,0 +1,249 @@
+{
+  "image_id": "3449_IM-1672-2001.dcm",
+  "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+  "claims": [
+    {
+      "finding": "pleural effusion",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        120,
+        136
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        120,
+        136
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        120,
+        136
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        120,
+        136
+      ]
+    },
+    {
+      "finding": "unremarkable",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        190,
+        202
+      ]
+    },
+    {
+      "finding": "unremarkable",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        190,
+        202
+      ]
+    },
+    {
+      "finding": "unremarkable",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        190,
+        202
+      ]
+    },
+    {
+      "finding": "unremarkable",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        190,
+        202
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        80,
+        86
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        80,
+        86
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        80,
+        86
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        80,
+        86
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        33,
+        38
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        33,
+        38
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        33,
+        38
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        33,
+        38
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        100,
+        106
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        100,
+        106
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        100,
+        106
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+      "sentence_idx": 0,
+      "char_span": [
+        100,
+        106
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 20,
+  "num_relational_flags": 0
+}

@@ -1,0 +1,189 @@
+{
+  "image_id": "3445_IM-1668-1001.dcm",
+  "generated_report": "[Breathing: Lungs] **A nodular opacity is seen in the right lower lung zone, which may represent a nipple shadow.** [Breathing: Lungs] The lungs are otherwise clear. [Everything else: Mediastinal] The cardiomedial silhouette is unremarkable. [Breathing: Pleura] There is no evidence of pneumothorax.",
+  "claims": [
+    {
+      "finding": "pneumothorax",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A nodular opacity is seen in the right lower lung zone, which may represent a nipple shadow.** [Breathing: Lungs] The lungs are otherwise clear. [Everything else: Mediastinal] The cardiomedial silhouette is unremarkable. [Breathing: Pleura] There is no evidence of pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        286,
+        298
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A nodular opacity is seen in the right lower lung zone, which may represent a nipple shadow.** [Breathing: Lungs] The lungs are otherwise clear. [Everything else: Mediastinal] The cardiomedial silhouette is unremarkable. [Breathing: Pleura] There is no evidence of pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        286,
+        298
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "right",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A nodular opacity is seen in the right lower lung zone, which may represent a nipple shadow.** [Breathing: Lungs] The lungs are otherwise clear. [Everything else: Mediastinal] The cardiomedial silhouette is unremarkable. [Breathing: Pleura] There is no evidence of pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        286,
+        298
+      ]
+    },
+    {
+      "finding": "unremarkable",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A nodular opacity is seen in the right lower lung zone, which may represent a nipple shadow.** [Breathing: Lungs] The lungs are otherwise clear. [Everything else: Mediastinal] The cardiomedial silhouette is unremarkable. [Breathing: Pleura] There is no evidence of pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        228,
+        240
+      ]
+    },
+    {
+      "finding": "unremarkable",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A nodular opacity is seen in the right lower lung zone, which may represent a nipple shadow.** [Breathing: Lungs] The lungs are otherwise clear. [Everything else: Mediastinal] The cardiomedial silhouette is unremarkable. [Breathing: Pleura] There is no evidence of pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        228,
+        240
+      ]
+    },
+    {
+      "finding": "unremarkable",
+      "location": "right",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A nodular opacity is seen in the right lower lung zone, which may represent a nipple shadow.** [Breathing: Lungs] The lungs are otherwise clear. [Everything else: Mediastinal] The cardiomedial silhouette is unremarkable. [Breathing: Pleura] There is no evidence of pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        228,
+        240
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A nodular opacity is seen in the right lower lung zone, which may represent a nipple shadow.** [Breathing: Lungs] The lungs are otherwise clear. [Everything else: Mediastinal] The cardiomedial silhouette is unremarkable. [Breathing: Pleura] There is no evidence of pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        31,
+        38
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A nodular opacity is seen in the right lower lung zone, which may represent a nipple shadow.** [Breathing: Lungs] The lungs are otherwise clear. [Everything else: Mediastinal] The cardiomedial silhouette is unremarkable. [Breathing: Pleura] There is no evidence of pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        31,
+        38
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "right",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A nodular opacity is seen in the right lower lung zone, which may represent a nipple shadow.** [Breathing: Lungs] The lungs are otherwise clear. [Everything else: Mediastinal] The cardiomedial silhouette is unremarkable. [Breathing: Pleura] There is no evidence of pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        31,
+        38
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A nodular opacity is seen in the right lower lung zone, which may represent a nipple shadow.** [Breathing: Lungs] The lungs are otherwise clear. [Everything else: Mediastinal] The cardiomedial silhouette is unremarkable. [Breathing: Pleura] There is no evidence of pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        159,
+        164
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A nodular opacity is seen in the right lower lung zone, which may represent a nipple shadow.** [Breathing: Lungs] The lungs are otherwise clear. [Everything else: Mediastinal] The cardiomedial silhouette is unremarkable. [Breathing: Pleura] There is no evidence of pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        159,
+        164
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "right",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A nodular opacity is seen in the right lower lung zone, which may represent a nipple shadow.** [Breathing: Lungs] The lungs are otherwise clear. [Everything else: Mediastinal] The cardiomedial silhouette is unremarkable. [Breathing: Pleura] There is no evidence of pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        159,
+        164
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A nodular opacity is seen in the right lower lung zone, which may represent a nipple shadow.** [Breathing: Lungs] The lungs are otherwise clear. [Everything else: Mediastinal] The cardiomedial silhouette is unremarkable. [Breathing: Pleura] There is no evidence of pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        254,
+        260
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A nodular opacity is seen in the right lower lung zone, which may represent a nipple shadow.** [Breathing: Lungs] The lungs are otherwise clear. [Everything else: Mediastinal] The cardiomedial silhouette is unremarkable. [Breathing: Pleura] There is no evidence of pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        254,
+        260
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "right",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A nodular opacity is seen in the right lower lung zone, which may represent a nipple shadow.** [Breathing: Lungs] The lungs are otherwise clear. [Everything else: Mediastinal] The cardiomedial silhouette is unremarkable. [Breathing: Pleura] There is no evidence of pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        254,
+        260
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 15,
+  "num_relational_flags": 0
+}

@@ -1,0 +1,297 @@
+{
+  "image_id": "3560_IM-1745-1001.dcm",
+  "generated_report": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+  "claims": [
+    {
+      "finding": "pleural effusion",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        180,
+        196
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        180,
+        196
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        180,
+        196
+      ]
+    },
+    {
+      "finding": "pleural effusion",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        180,
+        196
+      ]
+    },
+    {
+      "finding": "pulmonary edema",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        79,
+        94
+      ]
+    },
+    {
+      "finding": "pulmonary edema",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        79,
+        94
+      ]
+    },
+    {
+      "finding": "pulmonary edema",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        79,
+        94
+      ]
+    },
+    {
+      "finding": "pulmonary edema",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        79,
+        94
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        133,
+        146
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        133,
+        146
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        133,
+        146
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        133,
+        146
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        230,
+        242
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        230,
+        242
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        230,
+        242
+      ]
+    },
+    {
+      "finding": "pneumothorax",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        230,
+        242
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        40,
+        46
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        40,
+        46
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        40,
+        46
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        40,
+        46
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        160,
+        166
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        160,
+        166
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        160,
+        166
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+      "sentence_idx": 0,
+      "char_span": [
+        160,
+        166
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 24,
+  "num_relational_flags": 0
+}

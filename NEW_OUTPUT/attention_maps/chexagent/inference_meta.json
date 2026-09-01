@@ -1,0 +1,13 @@
+{
+  "model_id": "StanfordAIMI/CheXagent-2-3b",
+  "model_name": "chexagent",
+  "patch_grid": [
+    24,
+    24
+  ],
+  "num_layers_used": 4,
+  "max_new_tokens": 256,
+  "num_processed": 50,
+  "num_failed": 0,
+  "prompt": "You are an expert radiologist. Generate a detailed radiology report for this chest X-ray image. Include findings about the lungs, heart, mediastinum, and any abnormalities. Structure your response with Findings and Impression sections."
+}

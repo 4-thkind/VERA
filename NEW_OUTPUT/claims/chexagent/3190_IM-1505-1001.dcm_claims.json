@@ -1,0 +1,57 @@
+{
+  "image_id": "3190_IM-1505-1001.dcm",
+  "generated_report": "[Breathing: Lungs] **Right upper lobe consolidation is concerning for pneumonia.**",
+  "claims": [
+    {
+      "finding": "consolidation",
+      "location": "right upper lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **Right upper lobe consolidation is concerning for pneumonia.**",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        51
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **Right upper lobe consolidation is concerning for pneumonia.**",
+      "sentence_idx": 0,
+      "char_span": [
+        38,
+        51
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "right upper lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **Right upper lobe consolidation is concerning for pneumonia.**",
+      "sentence_idx": 0,
+      "char_span": [
+        70,
+        79
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **Right upper lobe consolidation is concerning for pneumonia.**",
+      "sentence_idx": 0,
+      "char_span": [
+        70,
+        79
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 4,
+  "num_relational_flags": 0
+}

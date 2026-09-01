@@ -1,0 +1,189 @@
+{
+  "image_id": "1762_IM-0497-1001.dcm",
+  "generated_report": "[Breathing: Lungs] **A small calcified granuloma is present in the right upper lobe.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] **Calcified mediastinal lymph nodes are noted.**",
+  "claims": [
+    {
+      "finding": "granuloma",
+      "location": "right upper lobe",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small calcified granuloma is present in the right upper lobe.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] **Calcified mediastinal lymph nodes are noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        39,
+        48
+      ]
+    },
+    {
+      "finding": "granuloma",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small calcified granuloma is present in the right upper lobe.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] **Calcified mediastinal lymph nodes are noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        39,
+        48
+      ]
+    },
+    {
+      "finding": "granuloma",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small calcified granuloma is present in the right upper lobe.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] **Calcified mediastinal lymph nodes are noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        39,
+        48
+      ]
+    },
+    {
+      "finding": "granuloma",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small calcified granuloma is present in the right upper lobe.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] **Calcified mediastinal lymph nodes are noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        39,
+        48
+      ]
+    },
+    {
+      "finding": "granuloma",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small calcified granuloma is present in the right upper lobe.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] **Calcified mediastinal lymph nodes are noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        39,
+        48
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "right upper lobe",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small calcified granuloma is present in the right upper lobe.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] **Calcified mediastinal lymph nodes are noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        177,
+        183
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small calcified granuloma is present in the right upper lobe.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] **Calcified mediastinal lymph nodes are noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        177,
+        183
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small calcified granuloma is present in the right upper lobe.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] **Calcified mediastinal lymph nodes are noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        177,
+        183
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small calcified granuloma is present in the right upper lobe.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] **Calcified mediastinal lymph nodes are noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        177,
+        183
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small calcified granuloma is present in the right upper lobe.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] **Calcified mediastinal lymph nodes are noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        177,
+        183
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "right upper lobe",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small calcified granuloma is present in the right upper lobe.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] **Calcified mediastinal lymph nodes are noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        130,
+        135
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "mediastinal",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small calcified granuloma is present in the right upper lobe.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] **Calcified mediastinal lymph nodes are noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        130,
+        135
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small calcified granuloma is present in the right upper lobe.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] **Calcified mediastinal lymph nodes are noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        130,
+        135
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small calcified granuloma is present in the right upper lobe.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] **Calcified mediastinal lymph nodes are noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        130,
+        135
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small calcified granuloma is present in the right upper lobe.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] **Calcified mediastinal lymph nodes are noted.**",
+      "sentence_idx": 0,
+      "char_span": [
+        130,
+        135
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 15,
+  "num_relational_flags": 0
+}

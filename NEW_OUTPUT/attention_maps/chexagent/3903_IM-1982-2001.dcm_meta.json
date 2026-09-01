@@ -1,0 +1,7 @@
+{
+  "image_id": "3903_IM-1982-2001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/3903_IM-1982-2001.dcm.png",
+  "generated_report": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] The lungs are clear.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/3903_IM-1982-2001.dcm_attention.npz",
+  "num_generated_tokens": 27
+}

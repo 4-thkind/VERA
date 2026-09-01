@@ -1,0 +1,7 @@
+{
+  "image_id": "184_IM-0544-1001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/184_IM-0544-1001.dcm.png",
+  "generated_report": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/184_IM-0544-1001.dcm_attention.npz",
+  "num_generated_tokens": 77
+}

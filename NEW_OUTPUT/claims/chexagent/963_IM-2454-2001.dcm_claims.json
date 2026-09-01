@@ -1,0 +1,21 @@
+{
+  "image_id": "963_IM-2454-2001.dcm",
+  "generated_report": "[Breathing: Lungs] **There is no evidence of pneumonia.**",
+  "claims": [
+    {
+      "finding": "pneumonia",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is no evidence of pneumonia.**",
+      "sentence_idx": 0,
+      "char_span": [
+        45,
+        54
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 1,
+  "num_relational_flags": 0
+}

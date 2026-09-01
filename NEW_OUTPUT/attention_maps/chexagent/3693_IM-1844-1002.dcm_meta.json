@@ -1,0 +1,7 @@
+{
+  "image_id": "3693_IM-1844-1002.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/3693_IM-1844-1002.dcm.png",
+  "generated_report": "[Breathing: Lungs] **The lungs are hyperinflated.** [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion or pneumothorax. [Cardiac: Heart Size] The cardiomediastinal silhouette is normal.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/3693_IM-1844-1002.dcm_attention.npz",
+  "num_generated_tokens": 72
+}

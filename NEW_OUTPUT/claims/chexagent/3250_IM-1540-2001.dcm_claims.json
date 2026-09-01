@@ -1,0 +1,33 @@
+{
+  "image_id": "3250_IM-1540-2001.dcm",
+  "generated_report": "[Breathing: Lungs] **There is no evidence of pneumonia.** [Everything else: Mediastinal] **A large hiatal hernia is present.**",
+  "claims": [
+    {
+      "finding": "pneumonia",
+      "location": "mediastinal",
+      "severity": "critical",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is no evidence of pneumonia.** [Everything else: Mediastinal] **A large hiatal hernia is present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        45,
+        54
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "lungs",
+      "severity": "critical",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is no evidence of pneumonia.** [Everything else: Mediastinal] **A large hiatal hernia is present.**",
+      "sentence_idx": 0,
+      "char_span": [
+        45,
+        54
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 2,
+  "num_relational_flags": 0
+}

@@ -1,0 +1,7 @@
+{
+  "image_id": "3560_IM-1745-1001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/3560_IM-1745-1001.dcm.png",
+  "generated_report": "[Cardiac: Heart Size] The heart size is normal. [Breathing: Lungs] There is no pulmonary edema. [Breathing: Lungs] There is no focal consolidation. [Breathing: Pleura] There is no pleural effusion. [Breathing: Pleura] There is no pneumothorax.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/3560_IM-1745-1001.dcm_attention.npz",
+  "num_generated_tokens": 75
+}

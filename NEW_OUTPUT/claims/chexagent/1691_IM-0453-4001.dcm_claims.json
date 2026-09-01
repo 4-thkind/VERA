@@ -1,0 +1,21 @@
+{
+  "image_id": "1691_IM-0453-4001.dcm",
+  "generated_report": "<|ref|> Pulmonary fibrosis <|/ref|> <|box|> (73,41),(85,50) <|/box|>",
+  "claims": [
+    {
+      "finding": "fibrosis",
+      "location": "",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "<|ref|> Pulmonary fibrosis <|/ref|> <|box|> (73,41),(85,50) <|/box|>",
+      "sentence_idx": 0,
+      "char_span": [
+        0,
+        0
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 1,
+  "num_relational_flags": 0
+}
