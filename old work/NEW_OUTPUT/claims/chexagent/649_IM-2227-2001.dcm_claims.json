@@ -1,0 +1,57 @@
+{
+  "image_id": "649_IM-2227-2001.dcm",
+  "generated_report": "[Breathing: Lungs] **There is a marked improvement in the appearance of the lungs with near-complete resolution of the bilateral opacities.** [Breathing: Lungs] There is no focal consolidation.",
+  "claims": [
+    {
+      "finding": "consolidation",
+      "location": "bilateral",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a marked improvement in the appearance of the lungs with near-complete resolution of the bilateral opacities.** [Breathing: Lungs] There is no focal consolidation.",
+      "sentence_idx": 0,
+      "char_span": [
+        179,
+        192
+      ]
+    },
+    {
+      "finding": "consolidation",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a marked improvement in the appearance of the lungs with near-complete resolution of the bilateral opacities.** [Breathing: Lungs] There is no focal consolidation.",
+      "sentence_idx": 0,
+      "char_span": [
+        179,
+        192
+      ]
+    },
+    {
+      "finding": "opacities",
+      "location": "bilateral",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a marked improvement in the appearance of the lungs with near-complete resolution of the bilateral opacities.** [Breathing: Lungs] There is no focal consolidation.",
+      "sentence_idx": 0,
+      "char_span": [
+        129,
+        138
+      ]
+    },
+    {
+      "finding": "opacities",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a marked improvement in the appearance of the lungs with near-complete resolution of the bilateral opacities.** [Breathing: Lungs] There is no focal consolidation.",
+      "sentence_idx": 0,
+      "char_span": [
+        129,
+        138
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 4,
+  "num_relational_flags": 0
+}

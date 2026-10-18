@@ -1,0 +1,7 @@
+{
+  "image_id": "3413_IM-1650-1001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/3413_IM-1650-1001.dcm.png",
+  "generated_report": "[Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Airway: Hilar Structures] The hilar contours are normal. [Breathing: Lungs] The pulmonary vasculature is normal. [Breathing: Lungs] The lungs are clear. [Breathing: Pleura] No pleural effusion or pneumothorax is seen.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/3413_IM-1650-1001.dcm_attention.npz",
+  "num_generated_tokens": 98
+}

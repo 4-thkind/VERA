@@ -1,0 +1,297 @@
+{
+  "image_id": "2052_IM-0690-2001.dcm",
+  "generated_report": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+  "claims": [
+    {
+      "finding": "pneumonia",
+      "location": "right lower lobe",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        122,
+        131
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        122,
+        131
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        122,
+        131
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        122,
+        131
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        122,
+        131
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        122,
+        131
+      ]
+    },
+    {
+      "finding": "granuloma",
+      "location": "right lower lobe",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        42,
+        51
+      ]
+    },
+    {
+      "finding": "granuloma",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        42,
+        51
+      ]
+    },
+    {
+      "finding": "granuloma",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        42,
+        51
+      ]
+    },
+    {
+      "finding": "granuloma",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        42,
+        51
+      ]
+    },
+    {
+      "finding": "granuloma",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        42,
+        51
+      ]
+    },
+    {
+      "finding": "granuloma",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        42,
+        51
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "right lower lobe",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        173,
+        179
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        173,
+        179
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        173,
+        179
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        173,
+        179
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        173,
+        179
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        173,
+        179
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "right lower lobe",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        261,
+        267
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "mediastinal",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        261,
+        267
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "cardiac",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        261,
+        267
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "pleural",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        261,
+        267
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        261,
+        267
+      ]
+    },
+    {
+      "finding": "pleura",
+      "location": "heart",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+      "sentence_idx": 0,
+      "char_span": [
+        261,
+        267
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 24,
+  "num_relational_flags": 0
+}

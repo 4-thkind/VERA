@@ -1,0 +1,7 @@
+{
+  "image_id": "3596_IM-1774-2001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/3596_IM-1774-2001.dcm.png",
+  "generated_report": "[Everything else: Tubes] A right internal jugular central venous catheter has been placed with its tip at the cavoatrial junction. [Breathing: Pleura] There is no evidence of pneumothorax. [Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size and Borders] The cardiomedial silhouette is within normal limits.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/3596_IM-1774-2001.dcm_attention.npz",
+  "num_generated_tokens": 82
+}

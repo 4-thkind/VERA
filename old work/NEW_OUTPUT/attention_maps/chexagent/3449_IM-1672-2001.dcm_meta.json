@@ -1,0 +1,7 @@
+{
+  "image_id": "3449_IM-1672-2001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/3449_IM-1672-2001.dcm.png",
+  "generated_report": "[Breathing: Lungs] The lungs are clear. [Cardiac: Heart Size] The heart size is normal. [Breathing: Pleura] There is no pleural effusion. [Everything else: Bones] The osseous structures are unremarkable.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/3449_IM-1672-2001.dcm_attention.npz",
+  "num_generated_tokens": 58
+}
