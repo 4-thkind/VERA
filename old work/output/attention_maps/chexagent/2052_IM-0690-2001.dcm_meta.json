@@ -1,0 +1,7 @@
+{
+  "image_id": "2052_IM-0690-2001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/2052_IM-0690-2001.dcm.png",
+  "generated_report": "[Breathing: Lungs] **There is a calcified granuloma in the right lower lobe.** [Breathing: Lungs] There is no evidence of pneumonia. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] The mediastinal contours are normal. [Breathing: Pleura] There are no pleural effusions.",
+  "attention_map_path": "/content/data/attention_maps/chexagent/2052_IM-0690-2001.dcm_attention.npz",
+  "num_generated_tokens": 87
+}

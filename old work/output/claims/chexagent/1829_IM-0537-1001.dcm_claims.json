@@ -1,0 +1,57 @@
+{
+  "image_id": "1829_IM-0537-1001.dcm",
+  "generated_report": "[Everything else: Tubes] The left subclavian line is in place. [Breathing: Lungs] **There is a slight improvement in the bibasilar atelectasis.**",
+  "claims": [
+    {
+      "finding": "atelectasis",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Everything else: Tubes] The left subclavian line is in place. [Breathing: Lungs] **There is a slight improvement in the bibasilar atelectasis.**",
+      "sentence_idx": 0,
+      "char_span": [
+        131,
+        142
+      ]
+    },
+    {
+      "finding": "atelectasis",
+      "location": "left",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Everything else: Tubes] The left subclavian line is in place. [Breathing: Lungs] **There is a slight improvement in the bibasilar atelectasis.**",
+      "sentence_idx": 0,
+      "char_span": [
+        131,
+        142
+      ]
+    },
+    {
+      "finding": "bibasilar atelectasis",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Everything else: Tubes] The left subclavian line is in place. [Breathing: Lungs] **There is a slight improvement in the bibasilar atelectasis.**",
+      "sentence_idx": 0,
+      "char_span": [
+        121,
+        142
+      ]
+    },
+    {
+      "finding": "bibasilar atelectasis",
+      "location": "left",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Everything else: Tubes] The left subclavian line is in place. [Breathing: Lungs] **There is a slight improvement in the bibasilar atelectasis.**",
+      "sentence_idx": 0,
+      "char_span": [
+        121,
+        142
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 4,
+  "num_relational_flags": 0
+}

@@ -1,0 +1,81 @@
+{
+  "image_id": "2790_IM-1224-2001.dcm",
+  "generated_report": "[Breathing: Lungs] **There is a slight increase in opacity in the left lower lobe, which could indicate atelectasis or pneumonia.**",
+  "claims": [
+    {
+      "finding": "atelectasis",
+      "location": "left lower lobe",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a slight increase in opacity in the left lower lobe, which could indicate atelectasis or pneumonia.**",
+      "sentence_idx": 0,
+      "char_span": [
+        104,
+        115
+      ]
+    },
+    {
+      "finding": "atelectasis",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a slight increase in opacity in the left lower lobe, which could indicate atelectasis or pneumonia.**",
+      "sentence_idx": 0,
+      "char_span": [
+        104,
+        115
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "left lower lobe",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a slight increase in opacity in the left lower lobe, which could indicate atelectasis or pneumonia.**",
+      "sentence_idx": 0,
+      "char_span": [
+        119,
+        128
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a slight increase in opacity in the left lower lobe, which could indicate atelectasis or pneumonia.**",
+      "sentence_idx": 0,
+      "char_span": [
+        119,
+        128
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "left lower lobe",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a slight increase in opacity in the left lower lobe, which could indicate atelectasis or pneumonia.**",
+      "sentence_idx": 0,
+      "char_span": [
+        51,
+        58
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **There is a slight increase in opacity in the left lower lobe, which could indicate atelectasis or pneumonia.**",
+      "sentence_idx": 0,
+      "char_span": [
+        51,
+        58
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 6,
+  "num_relational_flags": 0
+}

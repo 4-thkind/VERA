@@ -1,0 +1,7 @@
+{
+  "image_id": "1762_IM-0497-1001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/1762_IM-0497-1001.dcm.png",
+  "generated_report": "[Breathing: Lungs] **A small calcified granuloma is present in the right upper lobe.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size] The heart size is normal. [Everything else: Mediastinal] **Calcified mediastinal lymph nodes are noted.**",
+  "attention_map_path": "/content/data/attention_maps/chexagent/1762_IM-0497-1001.dcm_attention.npz",
+  "num_generated_tokens": 75
+}

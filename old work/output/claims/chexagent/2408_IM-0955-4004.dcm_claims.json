@@ -1,0 +1,45 @@
+{
+  "image_id": "2408_IM-0955-4004.dcm",
+  "generated_report": "[Breathing: Lungs] **Bibasilar atelectasis is present.** [Breathing: Lungs] There is no evidence of pneumonia.",
+  "claims": [
+    {
+      "finding": "atelectasis",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **Bibasilar atelectasis is present.** [Breathing: Lungs] There is no evidence of pneumonia.",
+      "sentence_idx": 0,
+      "char_span": [
+        31,
+        42
+      ]
+    },
+    {
+      "finding": "pneumonia",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **Bibasilar atelectasis is present.** [Breathing: Lungs] There is no evidence of pneumonia.",
+      "sentence_idx": 0,
+      "char_span": [
+        100,
+        109
+      ]
+    },
+    {
+      "finding": "bibasilar atelectasis",
+      "location": "lungs",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **Bibasilar atelectasis is present.** [Breathing: Lungs] There is no evidence of pneumonia.",
+      "sentence_idx": 0,
+      "char_span": [
+        21,
+        42
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 3,
+  "num_relational_flags": 0
+}

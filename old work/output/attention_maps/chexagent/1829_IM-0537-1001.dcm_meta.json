@@ -1,0 +1,7 @@
+{
+  "image_id": "1829_IM-0537-1001.dcm",
+  "image_path": "/content/indiana_dataset/images/images_normalized/1829_IM-0537-1001.dcm.png",
+  "generated_report": "[Everything else: Tubes] The left subclavian line is in place. [Breathing: Lungs] **There is a slight improvement in the bibasilar atelectasis.**",
+  "attention_map_path": "/content/data/attention_maps/chexagent/1829_IM-0537-1001.dcm_attention.npz",
+  "num_generated_tokens": 44
+}

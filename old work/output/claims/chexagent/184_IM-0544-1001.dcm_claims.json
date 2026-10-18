@@ -1,0 +1,249 @@
+{
+  "image_id": "184_IM-0544-1001.dcm",
+  "generated_report": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+  "claims": [
+    {
+      "finding": "nodule",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        36,
+        42
+      ]
+    },
+    {
+      "finding": "nodule",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        36,
+        42
+      ]
+    },
+    {
+      "finding": "nodule",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        36,
+        42
+      ]
+    },
+    {
+      "finding": "nodule",
+      "location": "right",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        36,
+        42
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        210,
+        216
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        210,
+        216
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        210,
+        216
+      ]
+    },
+    {
+      "finding": "normal",
+      "location": "right",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        210,
+        216
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        126,
+        131
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        126,
+        131
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        126,
+        131
+      ]
+    },
+    {
+      "finding": "clear",
+      "location": "right",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        126,
+        131
+      ]
+    },
+    {
+      "finding": "dense nodule",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        30,
+        42
+      ]
+    },
+    {
+      "finding": "dense nodule",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        30,
+        42
+      ]
+    },
+    {
+      "finding": "dense nodule",
+      "location": "heart",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        30,
+        42
+      ]
+    },
+    {
+      "finding": "dense nodule",
+      "location": "right",
+      "severity": "mild",
+      "negated": false,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        30,
+        42
+      ]
+    },
+    {
+      "finding": "acute osseous abnormalities",
+      "location": "cardiac",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        253,
+        280
+      ]
+    },
+    {
+      "finding": "acute osseous abnormalities",
+      "location": "lungs",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        253,
+        280
+      ]
+    },
+    {
+      "finding": "acute osseous abnormalities",
+      "location": "heart",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        253,
+        280
+      ]
+    },
+    {
+      "finding": "acute osseous abnormalities",
+      "location": "right",
+      "severity": "mild",
+      "negated": true,
+      "sentence": "[Breathing: Lungs] **A small, dense nodule is seen in the right upper lung zone.** [Breathing: Lungs] The lungs are otherwise clear. [Cardiac: Heart Size and Borders] The cardiomediastinal silhouette is within normal limits. [Everything else: Bones] No acute osseous abnormalities are present.",
+      "sentence_idx": 0,
+      "char_span": [
+        253,
+        280
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 20,
+  "num_relational_flags": 0
+}

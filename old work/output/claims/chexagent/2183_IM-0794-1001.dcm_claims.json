@@ -1,0 +1,45 @@
+{
+  "image_id": "2183_IM-0794-1001.dcm",
+  "generated_report": "<|ref|> Cardiomegaly <|/ref|> <|box|> (31,54),(85,78) <|/box|> <|ref|> Aortic enlargement <|/ref|> <|box|> (50,31),(64,43) <|/box|> <|ref|> Lung Opacity <|/ref|> <|box|> (68,50),(86,72) <|/box|>",
+  "claims": [
+    {
+      "finding": "cardiomegaly",
+      "location": "aortic",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "<|ref|> Cardiomegaly <|/ref|> <|box|> (31,54),(85,78) <|/box|> <|ref|> Aortic enlargement <|/ref|> <|box|> (50,31),(64,43) <|/box|> <|ref|> Lung Opacity <|/ref|> <|box|> (68,50),(86,72) <|/box|>",
+      "sentence_idx": 0,
+      "char_span": [
+        8,
+        20
+      ]
+    },
+    {
+      "finding": "opacity",
+      "location": "aortic",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "<|ref|> Cardiomegaly <|/ref|> <|box|> (31,54),(85,78) <|/box|> <|ref|> Aortic enlargement <|/ref|> <|box|> (50,31),(64,43) <|/box|> <|ref|> Lung Opacity <|/ref|> <|box|> (68,50),(86,72) <|/box|>",
+      "sentence_idx": 0,
+      "char_span": [
+        145,
+        152
+      ]
+    },
+    {
+      "finding": "lung opacity",
+      "location": "aortic",
+      "severity": "unspecified",
+      "negated": false,
+      "sentence": "<|ref|> Cardiomegaly <|/ref|> <|box|> (31,54),(85,78) <|/box|> <|ref|> Aortic enlargement <|/ref|> <|box|> (50,31),(64,43) <|/box|> <|ref|> Lung Opacity <|/ref|> <|box|> (68,50),(86,72) <|/box|>",
+      "sentence_idx": 0,
+      "char_span": [
+        140,
+        152
+      ]
+    }
+  ],
+  "relational_flags": [],
+  "num_claims": 3,
+  "num_relational_flags": 0
+}
