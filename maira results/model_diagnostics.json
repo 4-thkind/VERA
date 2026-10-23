@@ -1,0 +1,6 @@
+{
+ "model": "microsoft/maira-2",
+ "n_layers": 32,
+ "n_heads": 32,
+ "image_token_index": 32204
+}
