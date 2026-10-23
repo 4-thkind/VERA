@@ -1,0 +1,20 @@
+# installed by vera/setup_env.py inside the notebook
+transformers==4.40.0
+tokenizers==0.19.1
+huggingface_hub==0.25.2
+torch
+torchvision
+torchxrayvision
+kagglehub
+albumentations
+opencv-python-headless
+einops
+pyarrow
+regex
+tiktoken
+matplotlib
+pandas
+scikit-image
+sentencepiece
+marimo
+scikit-learn
