@@ -1,0 +1,7 @@
+{
+ "visual_missing_keys": 0,
+ "visual_unexpected_keys": 0,
+ "example_missing": [],
+ "n_layers": 32,
+ "n_heads": 32
+}
