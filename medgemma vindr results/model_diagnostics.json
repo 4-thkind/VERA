@@ -1,0 +1,6 @@
+{
+ "model": "google/medgemma-4b-it",
+ "n_layers": 34,
+ "n_heads": 8,
+ "image_token_index": 262144
+}
