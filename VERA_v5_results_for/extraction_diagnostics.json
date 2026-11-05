@@ -1,0 +1,11 @@
+{
+ "n_images": 3666,
+ "n_with_counterfactual": 3666,
+ "n_counterfactual_errors": 0,
+ "example_errors": [],
+ "median_real_vs_generation_logprob_gap": 0.0046451156958937645,
+ "p95_real_vs_generation_logprob_gap": 0.016183309722691774,
+ "median_passes": 2.0,
+ "median_seconds": 1.5,
+ "median_seconds_generate": 1.1
+}
