@@ -1,0 +1,12 @@
+{
+ "n_images": 3666,
+ "n_with_samples": 3666,
+ "n_sample_errors": 0,
+ "example_sample_errors": [],
+ "n_with_self_verification": 1511,
+ "n_self_verification_errors": 0,
+ "example_self_verification_errors": [],
+ "median_seconds": 3.2,
+ "median_seconds_generate": 1.1,
+ "median_seconds_extra": 2.1
+}
