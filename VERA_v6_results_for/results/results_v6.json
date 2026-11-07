@@ -1,0 +1,1607 @@
+{
+ "n_images": 1292,
+ "n_greedy_primary": 1993,
+ "n_sample_primary": 5032,
+ "families": {
+  "A": 5120,
+  "A_s": 5120,
+  "T": 101,
+  "C": 12,
+  "S": 5,
+  "Q": 3,
+  "V": 21,
+  "I": 1024,
+  "Aoff": 5120,
+  "Aoff_shuf": 5120
+ },
+ "headline": "VERA (full, model-internal)",
+ "label_sets": {
+  "strict": {
+   "n": 1359,
+   "prevalence": 0.33259749816041206,
+   "candidates": [
+    {
+     "name": "Text only",
+     "role": "baseline",
+     "cv": {
+      "auroc": 0.6603470060785825,
+      "auroc_ci": [
+       0.6141814163686388,
+       0.7060294917874489
+      ],
+      "auprc": 0.48534970454208193,
+      "n": 1359,
+      "prevalence": 0.33259749816041206
+     },
+     "cv_test_split": {
+      "auroc": 0.6937737402714692,
+      "auroc_ci": [
+       0.6517491259455328,
+       0.7310120889422266
+      ],
+      "auprc": 0.5102604261771763,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "heldout": {
+      "auroc": 0.6515127367386512,
+      "auroc_ci": [
+       0.6079555108035042,
+       0.6937182897159622
+      ],
+      "auprc": 0.4601130301335488,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "C": [
+      1.0,
+      0.01,
+      0.01,
+      0.1,
+      0.1
+     ]
+    },
+    {
+     "name": "Confidence at the finding word",
+     "role": "baseline",
+     "cv": {
+      "auroc": 0.5701500619566596,
+      "auroc_ci": [
+       0.5314156519377586,
+       0.6109412567185691
+      ],
+      "auprc": 0.4018919563325473,
+      "n": 1359,
+      "prevalence": 0.33259749816041206
+     },
+     "cv_test_split": {
+      "auroc": 0.6016681276064494,
+      "auroc_ci": [
+       0.553101096749904,
+       0.6484901465976719
+      ],
+      "auprc": 0.4205144732343588,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "heldout": {
+      "auroc": 0.6020931282705129,
+      "auroc_ci": [
+       0.5542273879643399,
+       0.6465000954047259
+      ],
+      "auprc": 0.40191642064893673,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "C": [
+      0.01,
+      1.0,
+      0.01,
+      0.01,
+      0.01
+     ]
+    },
+    {
+     "name": "Self-consistency (3 sampled reports)",
+     "role": "baseline",
+     "cv": {
+      "auroc": 0.692826687221317,
+      "auroc_ci": [
+       0.6597552334631595,
+       0.7255839817263365
+      ],
+      "auprc": 0.5294406381479833,
+      "n": 1359,
+      "prevalence": 0.33259749816041206
+     },
+     "cv_test_split": {
+      "auroc": 0.703190161234627,
+      "auroc_ci": [
+       0.665551265569264,
+       0.7457520966826658
+      ],
+      "auprc": 0.5396696340948732,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "heldout": {
+      "auroc": 0.6999561718065185,
+      "auroc_ci": [
+       0.6625852123808561,
+       0.740758205338297
+      ],
+      "auprc": 0.5313007328589423,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "C": [
+      0.01,
+      1.0,
+      0.1,
+      0.1,
+      0.01
+     ]
+    },
+    {
+     "name": "Self-verification P(yes), no training",
+     "role": "baseline",
+     "cv": {
+      "auroc": 0.7139712267418603,
+      "auroc_ci": [
+       0.6827140337284371,
+       0.7431205187852411
+      ],
+      "auprc": 0.5410888851214805,
+      "n": 1359,
+      "prevalence": 0.33259749816041206
+     },
+     "cv_test_split": {
+      "auroc": 0.7130946688979202,
+      "auroc_ci": [
+       0.6752561223446505,
+       0.7495396154442165
+      ],
+      "auprc": 0.5346291368408133,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "heldout": {
+      "auroc": 0.7130946688979202,
+      "auroc_ci": [
+       0.6752561223446505,
+       0.7495396154442165
+      ],
+      "auprc": 0.5346291368408133,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "C": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "name": "External classifier (not trained on IU)",
+     "role": "baseline",
+     "cv": {
+      "auroc": 0.6159443268189402,
+      "auroc_ci": [
+       0.5795548347895679,
+       0.6521020736988831
+      ],
+      "auprc": 0.4033317154242643,
+      "n": 1359,
+      "prevalence": 0.33259749816041206
+     },
+     "cv_test_split": {
+      "auroc": 0.6262417988153106,
+      "auroc_ci": [
+       0.5811993657800306,
+       0.6677192951501488
+      ],
+      "auprc": 0.399768095203142,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "heldout": {
+      "auroc": 0.6202585863415412,
+      "auroc_ci": [
+       0.5707762676545581,
+       0.6657123098215836
+      ],
+      "auprc": 0.4009368736520899,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "C": [
+      1.0,
+      0.01,
+      0.01,
+      1.0,
+      1.0
+     ]
+    },
+    {
+     "name": "Image-level attention (control)",
+     "role": "control",
+     "cv": {
+      "auroc": 0.7238989277107258,
+      "auroc_ci": [
+       0.6929689467990608,
+       0.7561676741150906
+      ],
+      "auprc": 0.5505152047753509,
+      "n": 1359,
+      "prevalence": 0.33259749816041206
+     },
+     "cv_test_split": {
+      "auroc": 0.7221060111031423,
+      "auroc_ci": [
+       0.6774345254072588,
+       0.7644639784486809
+      ],
+      "auprc": 0.5490053393140917,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "heldout": {
+      "auroc": 0.695759290248891,
+      "auroc_ci": [
+       0.6520111696094726,
+       0.7380485243009811
+      ],
+      "auprc": 0.5393800838967273,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "C": [
+      0.003,
+      0.001,
+      0.003,
+      0.003,
+      0.003
+     ]
+    },
+    {
+     "name": "VERA-probe, offline region features",
+     "role": "control-pair",
+     "cv": {
+      "auroc": 0.8056695222019494,
+      "auroc_ci": [
+       0.7772047804170032,
+       0.8306238523471036
+      ],
+      "auprc": 0.6451475957310263,
+      "n": 1359,
+      "prevalence": 0.33259749816041206
+     },
+     "cv_test_split": {
+      "auroc": 0.7976033946928042,
+      "auroc_ci": [
+       0.7600908577751458,
+       0.8316013083416178
+      ],
+      "auprc": 0.6441580181048462,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "heldout": {
+      "auroc": 0.75916407681887,
+      "auroc_ci": [
+       0.7220270232813998,
+       0.7962467307722394
+      ],
+      "auprc": 0.5622544486667483,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "C": [
+      0.001,
+      0.001,
+      0.001,
+      0.0003,
+      0.001
+     ]
+    },
+    {
+     "name": "VERA-probe, SHUFFLED regions (control)",
+     "role": "control",
+     "cv": {
+      "auroc": 0.7956649852182143,
+      "auroc_ci": [
+       0.7685384870739135,
+       0.8207078931701848
+      ],
+      "auprc": 0.6393113703630446,
+      "n": 1359,
+      "prevalence": 0.33259749816041206
+     },
+     "cv_test_split": {
+      "auroc": 0.7910922517066433,
+      "auroc_ci": [
+       0.7561751184424107,
+       0.8245982413670241
+      ],
+      "auprc": 0.6409405264887708,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "heldout": {
+      "auroc": 0.7465003851568518,
+      "auroc_ci": [
+       0.709570544241891,
+       0.7848854600817554
+      ],
+      "auprc": 0.5610867694883892,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "C": [
+      0.001,
+      0.001,
+      0.001,
+      0.001,
+      0.001
+     ]
+    },
+    {
+     "name": "VERA-probe (finding-word attention)",
+     "role": "method",
+     "cv": {
+      "auroc": 0.8019179732854592,
+      "auroc_ci": [
+       0.7732004433605817,
+       0.8270384883173649
+      ],
+      "auprc": 0.6448291860637012,
+      "n": 1359,
+      "prevalence": 0.33259749816041206
+     },
+     "cv_test_split": {
+      "auroc": 0.7937053417270965,
+      "auroc_ci": [
+       0.7541829992498017,
+       0.8287797008574312
+      ],
+      "auprc": 0.6443633170955431,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "heldout": {
+      "auroc": 0.7580019656280713,
+      "auroc_ci": [
+       0.7212137618039991,
+       0.7933419465228845
+      ],
+      "auprc": 0.5507724090462824,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "C": [
+      0.001,
+      0.001,
+      0.001,
+      0.001,
+      0.001
+     ]
+    },
+    {
+     "name": "VERA-probe + sampled-report training",
+     "role": "method",
+     "cv": {
+      "auroc": 0.8170351543062317,
+      "auroc_ci": [
+       0.7894707385086482,
+       0.8429382180069919
+      ],
+      "auprc": 0.6539476100002604,
+      "n": 1359,
+      "prevalence": 0.33259749816041206
+     },
+     "cv_test_split": {
+      "auroc": 0.8093141551783675,
+      "auroc_ci": [
+       0.7763032013816178,
+       0.8397364609538078
+      ],
+      "auprc": 0.6421186160959848,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "heldout": {
+      "auroc": 0.7877951762424629,
+      "auroc_ci": [
+       0.7519819322585546,
+       0.8210029679074391
+      ],
+      "auprc": 0.620200806850626,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "C": [
+      0.0003,
+      0.0003,
+      0.0003,
+      0.0003,
+      0.001
+     ]
+    },
+    {
+     "name": "VERA (full, model-internal)",
+     "role": "headline",
+     "cv": {
+      "auroc": 0.8198036900801046,
+      "auroc_ci": [
+       0.7934386669499554,
+       0.8429018608560269
+      ],
+      "auprc": 0.6867273022635335,
+      "n": 1359,
+      "prevalence": 0.33259749816041206
+     },
+     "cv_test_split": {
+      "auroc": 0.8191290142640848,
+      "auroc_ci": [
+       0.7872751219996269,
+       0.8496356466267372
+      ],
+      "auprc": 0.6923002210136803,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "heldout": {
+      "auroc": 0.8156559619624406,
+      "auroc_ci": [
+       0.782735678835731,
+       0.8463658090270709
+      ],
+      "auprc": 0.676721216305977,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "C": [
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1
+     ]
+    },
+    {
+     "name": "VERA (full) + external classifier",
+     "role": "method",
+     "cv": {
+      "auroc": 0.8124615819925652,
+      "auroc_ci": [
+       0.7838186162608971,
+       0.8360609589517983
+      ],
+      "auprc": 0.6839333782887601,
+      "n": 1359,
+      "prevalence": 0.33259749816041206
+     },
+     "cv_test_split": {
+      "auroc": 0.8110938454591335,
+      "auroc_ci": [
+       0.7780839002773398,
+       0.844986247201853
+      ],
+      "auprc": 0.6841364759201929,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "heldout": {
+      "auroc": 0.8084243100379844,
+      "auroc_ci": [
+       0.7738016633906071,
+       0.8423746194286768
+      ],
+      "auprc": 0.686711073074542,
+      "n": 831,
+      "prevalence": 0.3212996389891697
+     },
+     "C": [
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1
+     ]
+    }
+   ],
+   "comparisons": [
+    {
+     "a": "VERA-probe (finding-word attention)",
+     "b": "Text only",
+     "question": "attention beats the text prior",
+     "cv": {
+      "delta": 0.14157096720687667,
+      "ci": [
+       0.09653148424863996,
+       0.1910859333347719
+      ],
+      "p_one_sided": 0.000999000999000999
+     },
+     "heldout": {
+      "delta": 0.10648922888942014,
+      "ci": [
+       0.06514089358328834,
+       0.14978375437700056
+      ],
+      "p_one_sided": 0.000999000999000999
+     }
+    },
+    {
+     "a": "VERA-probe (finding-word attention)",
+     "b": "Confidence at the finding word",
+     "question": "attention beats token confidence",
+     "cv": {
+      "delta": 0.2317679113287996,
+      "ci": [
+       0.18360064832339085,
+       0.2786242102755614
+      ],
+      "p_one_sided": 0.000999000999000999
+     },
+     "heldout": {
+      "delta": 0.15590883735755845,
+      "ci": [
+       0.1029066332565335,
+       0.21089614408381896
+      ],
+      "p_one_sided": 0.000999000999000999
+     }
+    },
+    {
+     "a": "VERA-probe, offline region features",
+     "b": "VERA-probe, SHUFFLED regions (control)",
+     "question": "the NAMED region matters (grounding)",
+     "cv": {
+      "delta": 0.010004536983735157,
+      "ci": [
+       -0.004658386578502607,
+       0.023712858506451124
+      ],
+      "p_one_sided": 0.09290709290709291
+     },
+     "heldout": {
+      "delta": 0.012663691662018195,
+      "ci": [
+       -0.006268501803755455,
+       0.032040193185157585
+      ],
+      "p_one_sided": 0.0969030969030969
+     }
+    },
+    {
+     "a": "VERA-probe (finding-word attention)",
+     "b": "Image-level attention (control)",
+     "question": "claim-level beats image-level attention",
+     "cv": {
+      "delta": 0.07801904557473338,
+      "ci": [
+       0.049542058576041936,
+       0.10283444575111166
+      ],
+      "p_one_sided": 0.000999000999000999
+     },
+     "heldout": {
+      "delta": 0.06224267537918027,
+      "ci": [
+       0.027041760911699717,
+       0.10019716624778241
+      ],
+      "p_one_sided": 0.000999000999000999
+     }
+    },
+    {
+     "a": "VERA-probe + sampled-report training",
+     "b": "VERA-probe (finding-word attention)",
+     "question": "sampled reports as extra training data help",
+     "cv": {
+      "delta": 0.01511718102077253,
+      "ci": [
+       0.003042809308383357,
+       0.02970188553310248
+      ],
+      "p_one_sided": 0.005994005994005994
+     },
+     "heldout": {
+      "delta": 0.029793210614391552,
+      "ci": [
+       0.01003093044938421,
+       0.04908776475783032
+      ],
+      "p_one_sided": 0.001998001998001998
+     }
+    },
+    {
+     "a": "VERA (full, model-internal)",
+     "b": "VERA-probe + sampled-report training",
+     "question": "consistency + self-verification + confidence add",
+     "cv": {
+      "delta": 0.0027685357738728156,
+      "ci": [
+       -0.013595593771304084,
+       0.019696599825377727
+      ],
+      "p_one_sided": 0.3876123876123876
+     },
+     "heldout": {
+      "delta": 0.027860785719977743,
+      "ci": [
+       0.009492593210618253,
+       0.04739548767569851
+      ],
+      "p_one_sided": 0.002997002997002997
+     }
+    },
+    {
+     "a": "VERA (full, model-internal)",
+     "b": "Self-consistency (3 sampled reports)",
+     "question": "full vs self-consistency alone",
+     "cv": {
+      "delta": 0.12697700285878755,
+      "ci": [
+       0.1003789095046971,
+       0.15181793323681642
+      ],
+      "p_one_sided": 0.000999000999000999
+     },
+     "heldout": {
+      "delta": 0.11569979015592213,
+      "ci": [
+       0.08412555763265622,
+       0.14745525362719705
+      ],
+      "p_one_sided": 0.000999000999000999
+     }
+    },
+    {
+     "a": "VERA (full, model-internal)",
+     "b": "Self-verification P(yes), no training",
+     "question": "full vs self-verification alone",
+     "cv": {
+      "delta": 0.10583246333824425,
+      "ci": [
+       0.07739285919978096,
+       0.13109902412844096
+      ],
+      "p_one_sided": 0.000999000999000999
+     },
+     "heldout": {
+      "delta": 0.10256129306452044,
+      "ci": [
+       0.06974822083592215,
+       0.13463278414255458
+      ],
+      "p_one_sided": 0.000999000999000999
+     }
+    },
+    {
+     "a": "VERA (full, model-internal)",
+     "b": "Text only",
+     "question": "full vs text prior",
+     "cv": {
+      "delta": 0.15945668400152202,
+      "ci": [
+       0.1147322346826868,
+       0.2069506901842462
+      ],
+      "p_one_sided": 0.000999000999000999
+     },
+     "heldout": {
+      "delta": 0.16414322522378944,
+      "ci": [
+       0.12052952246846715,
+       0.20711720018810031
+      ],
+      "p_one_sided": 0.000999000999000999
+     }
+    },
+    {
+     "a": "VERA (full) + external classifier",
+     "b": "VERA (full, model-internal)",
+     "question": "an external classifier adds",
+     "cv": {
+      "delta": -0.007342108087539323,
+      "ci": [
+       -0.018158971081455807,
+       0.003725258365267344
+      ],
+      "p_one_sided": 0.9110889110889111
+     },
+     "heldout": {
+      "delta": -0.007231651924456184,
+      "ci": [
+       -0.022077676635529803,
+       0.0063969054566822715
+      ],
+      "p_one_sided": 0.8491508491508492
+     }
+    },
+    {
+     "a": "VERA (full, model-internal)",
+     "b": "External classifier (not trained on IU)",
+     "question": "full vs external classifier",
+     "cv": {
+      "delta": 0.20385936326116438,
+      "ci": [
+       0.16711387300567002,
+       0.240240674256443
+      ],
+      "p_one_sided": 0.000999000999000999
+     },
+     "heldout": {
+      "delta": 0.19539737562089943,
+      "ci": [
+       0.14366566292979968,
+       0.2424856418951523
+      ],
+      "p_one_sided": 0.000999000999000999
+     }
+    }
+   ],
+   "per_tier_headline_cv": {
+    "critical": {
+     "auroc": 0.8521087850696789,
+     "auroc_ci": [
+      0.8003354073167415,
+      0.8977306028622754
+     ],
+     "auprc": 0.7214236879600806,
+     "n": 270,
+     "prevalence": 0.337037037037037
+    },
+    "moderate": {
+     "auroc": 0.7974015283022244,
+     "auroc_ci": [
+      0.7660000592653314,
+      0.8286255239591243
+     ],
+     "auprc": 0.7102216938132293,
+     "n": 842,
+     "prevalence": 0.3836104513064133
+    },
+    "mild": {
+     "auroc": 0.7947620246789222,
+     "auroc_ci": [
+      0.7122121338866252,
+      0.8665884955488304
+     ],
+     "auprc": 0.42166978051736115,
+     "n": 247,
+     "prevalence": 0.15384615384615385
+    }
+   },
+   "operating_points_headline_cv": [
+    {
+     "target_rate": 0.1,
+     "test_flag_rate": 0.10007358351729213,
+     "precision": 0.7720588235294118,
+     "recall": 0.2323008849557522,
+     "f1": 0.3571428571428571
+    },
+    {
+     "target_rate": 0.2,
+     "test_flag_rate": 0.20014716703458427,
+     "precision": 0.7352941176470589,
+     "recall": 0.4424778761061947,
+     "f1": 0.5524861878453039
+    },
+    {
+     "target_rate": 0.3,
+     "test_flag_rate": 0.30022075055187636,
+     "precision": 0.6642156862745098,
+     "recall": 0.5995575221238938,
+     "f1": 0.6302325581395349
+    },
+    {
+     "target_rate": 0.5,
+     "test_flag_rate": 0.5003679175864606,
+     "precision": 0.5455882352941176,
+     "recall": 0.8207964601769911,
+     "f1": 0.6554770318021201
+    }
+   ]
+  },
+  "broad": {
+   "n": 1993,
+   "prevalence": 0.5449071751128951,
+   "candidates": [
+    {
+     "name": "Text only",
+     "role": "baseline",
+     "cv": {
+      "auroc": 0.6742991384789067,
+      "auroc_ci": [
+       0.6480959010609652,
+       0.7014279683081419
+      ],
+      "auprc": 0.6971389677555893,
+      "n": 1993,
+      "prevalence": 0.5449071751128951
+     },
+     "cv_test_split": {
+      "auroc": 0.6740904226859283,
+      "auroc_ci": [
+       0.643144325510198,
+       0.7027298645348828
+      ],
+      "auprc": 0.6776890306627823,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "heldout": {
+      "auroc": 0.6423804401033663,
+      "auroc_ci": [
+       0.609153755796583,
+       0.6746349144945724
+      ],
+      "auprc": 0.6482333039508167,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "C": [
+      0.01,
+      1.0,
+      1.0,
+      1.0,
+      0.1
+     ]
+    },
+    {
+     "name": "Confidence at the finding word",
+     "role": "baseline",
+     "cv": {
+      "auroc": 0.5881703793494836,
+      "auroc_ci": [
+       0.5545452386323098,
+       0.61843255166016
+      ],
+      "auprc": 0.6117787338540335,
+      "n": 1993,
+      "prevalence": 0.5449071751128951
+     },
+     "cv_test_split": {
+      "auroc": 0.6020172352947873,
+      "auroc_ci": [
+       0.5674545605326138,
+       0.6356680143313941
+      ],
+      "auprc": 0.5914957569891599,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "heldout": {
+      "auroc": 0.5773226096558634,
+      "auroc_ci": [
+       0.5424762628761418,
+       0.6120692264737952
+      ],
+      "auprc": 0.5819109635000954,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "C": [
+      1.0,
+      0.1,
+      1.0,
+      1.0,
+      1.0
+     ]
+    },
+    {
+     "name": "Self-consistency (3 sampled reports)",
+     "role": "baseline",
+     "cv": {
+      "auroc": 0.6734209676731621,
+      "auroc_ci": [
+       0.6478499252001826,
+       0.6976058805483778
+      ],
+      "auprc": 0.6950891496696694,
+      "n": 1993,
+      "prevalence": 0.5449071751128951
+     },
+     "cv_test_split": {
+      "auroc": 0.6719957765559008,
+      "auroc_ci": [
+       0.6410222421456475,
+       0.7035245476396215
+      ],
+      "auprc": 0.6767459030742685,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "heldout": {
+      "auroc": 0.6758193595391778,
+      "auroc_ci": [
+       0.6449213496756399,
+       0.706828412238604
+      ],
+      "auprc": 0.6781940596816349,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "C": [
+      0.1,
+      1.0,
+      1.0,
+      0.1,
+      1.0
+     ]
+    },
+    {
+     "name": "Self-verification P(yes), no training",
+     "role": "baseline",
+     "cv": {
+      "auroc": 0.7324365838851089,
+      "auroc_ci": [
+       0.7090343765813064,
+       0.7541276349297159
+      ],
+      "auprc": 0.7620287568042752,
+      "n": 1993,
+      "prevalence": 0.5449071751128951
+     },
+     "cv_test_split": {
+      "auroc": 0.7321599330623955,
+      "auroc_ci": [
+       0.7037903939911949,
+       0.759487219796677
+      ],
+      "auprc": 0.7497146861202441,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "heldout": {
+      "auroc": 0.7321599330623955,
+      "auroc_ci": [
+       0.7037903939911949,
+       0.759487219796677
+      ],
+      "auprc": 0.7497146861202441,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "C": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "name": "External classifier (not trained on IU)",
+     "role": "baseline",
+     "cv": {
+      "auroc": 0.6257398462135102,
+      "auroc_ci": [
+       0.5966426744600368,
+       0.6552004021265876
+      ],
+      "auprc": 0.6337300328609414,
+      "n": 1993,
+      "prevalence": 0.5449071751128951
+     },
+     "cv_test_split": {
+      "auroc": 0.6282558086586296,
+      "auroc_ci": [
+       0.5922715716457146,
+       0.6638848547280499
+      ],
+      "auprc": 0.6142679596289539,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "heldout": {
+      "auroc": 0.6331195997404461,
+      "auroc_ci": [
+       0.5957064561515802,
+       0.6690603062216055
+      ],
+      "auprc": 0.60938126698889,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "C": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+     ]
+    },
+    {
+     "name": "Image-level attention (control)",
+     "role": "control",
+     "cv": {
+      "auroc": 0.7209477747253306,
+      "auroc_ci": [
+       0.6952946824590202,
+       0.7448877091808038
+      ],
+      "auprc": 0.724996202493992,
+      "n": 1993,
+      "prevalence": 0.5449071751128951
+     },
+     "cv_test_split": {
+      "auroc": 0.7118495497649215,
+      "auroc_ci": [
+       0.6824527791706825,
+       0.74176719616703
+      ],
+      "auprc": 0.7020146475318629,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "heldout": {
+      "auroc": 0.6949358514622679,
+      "auroc_ci": [
+       0.6633157714161944,
+       0.7238254862257887
+      ],
+      "auprc": 0.6840307428384959,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "C": [
+      0.003,
+      0.003,
+      0.003,
+      0.003,
+      0.003
+     ]
+    },
+    {
+     "name": "VERA-probe, offline region features",
+     "role": "control-pair",
+     "cv": {
+      "auroc": 0.7756598463759464,
+      "auroc_ci": [
+       0.7526804101812905,
+       0.7976061951570863
+      ],
+      "auprc": 0.7674219044307818,
+      "n": 1993,
+      "prevalence": 0.5449071751128951
+     },
+     "cv_test_split": {
+      "auroc": 0.7706760925742517,
+      "auroc_ci": [
+       0.7420991164081301,
+       0.7966637523676318
+      ],
+      "auprc": 0.7497434636192803,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "heldout": {
+      "auroc": 0.7367049736461642,
+      "auroc_ci": [
+       0.7072142226722407,
+       0.7646283023303385
+      ],
+      "auprc": 0.7152893355599111,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "C": [
+      0.001,
+      0.0003,
+      0.0003,
+      0.001,
+      0.001
+     ]
+    },
+    {
+     "name": "VERA-probe, SHUFFLED regions (control)",
+     "role": "control",
+     "cv": {
+      "auroc": 0.7773339546518687,
+      "auroc_ci": [
+       0.7548909537776864,
+       0.7986564310500336
+      ],
+      "auprc": 0.7742276812464066,
+      "n": 1993,
+      "prevalence": 0.5449071751128951
+     },
+     "cv_test_split": {
+      "auroc": 0.7734438145327459,
+      "auroc_ci": [
+       0.7466073809218632,
+       0.7973153901466542
+      ],
+      "auprc": 0.7620269689226729,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "heldout": {
+      "auroc": 0.7295985451316553,
+      "auroc_ci": [
+       0.7008806649254515,
+       0.7556138925228912
+      ],
+      "auprc": 0.7107398323488059,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "C": [
+      0.001,
+      0.0003,
+      0.001,
+      0.001,
+      0.001
+     ]
+    },
+    {
+     "name": "VERA-probe (finding-word attention)",
+     "role": "method",
+     "cv": {
+      "auroc": 0.7727994460924953,
+      "auroc_ci": [
+       0.7504232023732805,
+       0.7946246220337422
+      ],
+      "auprc": 0.7583325815087554,
+      "n": 1993,
+      "prevalence": 0.5449071751128951
+     },
+     "cv_test_split": {
+      "auroc": 0.7709123094611978,
+      "auroc_ci": [
+       0.7440498017041642,
+       0.795401351432955
+      ],
+      "auprc": 0.7542998168541076,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "heldout": {
+      "auroc": 0.7329169654952585,
+      "auroc_ci": [
+       0.7029098275687408,
+       0.7617178136536298
+      ],
+      "auprc": 0.7164004368030814,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "C": [
+      0.001,
+      0.001,
+      0.001,
+      0.0003,
+      0.0003
+     ]
+    },
+    {
+     "name": "VERA-probe + sampled-report training",
+     "role": "method",
+     "cv": {
+      "auroc": 0.7860227694969147,
+      "auroc_ci": [
+       0.7635613293711138,
+       0.8080526322986122
+      ],
+      "auprc": 0.7884016166388033,
+      "n": 1993,
+      "prevalence": 0.5449071751128951
+     },
+     "cv_test_split": {
+      "auroc": 0.7807622690481882,
+      "auroc_ci": [
+       0.7537683058377115,
+       0.8060284288614795
+      ],
+      "auprc": 0.7776098562345347,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "heldout": {
+      "auroc": 0.7619261068041847,
+      "auroc_ci": [
+       0.7342601256160394,
+       0.7874331111078904
+      ],
+      "auprc": 0.7528194413026998,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "C": [
+      0.0003,
+      0.0003,
+      0.0003,
+      0.001,
+      0.0003
+     ]
+    },
+    {
+     "name": "VERA (full, model-internal)",
+     "role": "headline",
+     "cv": {
+      "auroc": 0.7991334027748167,
+      "auroc_ci": [
+       0.7797807948038413,
+       0.8176972103659262
+      ],
+      "auprc": 0.8147907231418342,
+      "n": 1993,
+      "prevalence": 0.5449071751128951
+     },
+     "cv_test_split": {
+      "auroc": 0.7950348917955898,
+      "auroc_ci": [
+       0.7705643766644407,
+       0.8181500271760777
+      ],
+      "auprc": 0.8058682741126428,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "heldout": {
+      "auroc": 0.7871173571030133,
+      "auroc_ci": [
+       0.7632175368442731,
+       0.8103107765830493
+      ],
+      "auprc": 0.7851532680494442,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "C": [
+      1.0,
+      0.1,
+      0.1,
+      0.1,
+      0.1
+     ]
+    },
+    {
+     "name": "VERA (full) + external classifier",
+     "role": "method",
+     "cv": {
+      "auroc": 0.7988410175816902,
+      "auroc_ci": [
+       0.7779240787040003,
+       0.8187528346207557
+      ],
+      "auprc": 0.8183227862544452,
+      "n": 1993,
+      "prevalence": 0.5449071751128951
+     },
+     "cv_test_split": {
+      "auroc": 0.791417642840067,
+      "auroc_ci": [
+       0.7654548926508218,
+       0.8154081484031528
+      ],
+      "auprc": 0.8030179342236262,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "heldout": {
+      "auroc": 0.7921035256081873,
+      "auroc_ci": [
+       0.7662883913193789,
+       0.8165825766382043
+      ],
+      "auprc": 0.7867183959693463,
+      "n": 1187,
+      "prevalence": 0.5248525695029486
+     },
+     "C": [
+      0.1,
+      0.1,
+      0.01,
+      1.0,
+      0.1
+     ]
+    }
+   ],
+   "comparisons": [
+    {
+     "a": "VERA-probe (finding-word attention)",
+     "b": "Text only",
+     "question": "attention beats the text prior",
+     "cv": {
+      "delta": 0.09850030761358863,
+      "ci": [
+       0.07262776945894359,
+       0.1265127387148268
+      ],
+      "p_one_sided": 0.000999000999000999
+     },
+     "heldout": {
+      "delta": 0.09053652539189228,
+      "ci": [
+       0.052075728069245236,
+       0.12726370831695427
+      ],
+      "p_one_sided": 0.000999000999000999
+     }
+    },
+    {
+     "a": "VERA-probe (finding-word attention)",
+     "b": "Confidence at the finding word",
+     "question": "attention beats token confidence",
+     "cv": {
+      "delta": 0.18462906674301172,
+      "ci": [
+       0.148276596415748,
+       0.22271752886418822
+      ],
+      "p_one_sided": 0.000999000999000999
+     },
+     "heldout": {
+      "delta": 0.15559435583939518,
+      "ci": [
+       0.11764143213970714,
+       0.19503009844829977
+      ],
+      "p_one_sided": 0.000999000999000999
+     }
+    },
+    {
+     "a": "VERA-probe, offline region features",
+     "b": "VERA-probe, SHUFFLED regions (control)",
+     "question": "the NAMED region matters (grounding)",
+     "cv": {
+      "delta": -0.0016741082759222925,
+      "ci": [
+       -0.01291615172362851,
+       0.010708132238046246
+      ],
+      "p_one_sided": 0.5834165834165834
+     },
+     "heldout": {
+      "delta": 0.007106428514508822,
+      "ci": [
+       -0.009914113492293547,
+       0.023958590485497196
+      ],
+      "p_one_sided": 0.21078921078921078
+     }
+    },
+    {
+     "a": "VERA-probe (finding-word attention)",
+     "b": "Image-level attention (control)",
+     "question": "claim-level beats image-level attention",
+     "cv": {
+      "delta": 0.05185167136716473,
+      "ci": [
+       0.032212164586171294,
+       0.07350948844335825
+      ],
+      "p_one_sided": 0.000999000999000999
+     },
+     "heldout": {
+      "delta": 0.03798111403299065,
+      "ci": [
+       0.011060189509062474,
+       0.0662929767090428
+      ],
+      "p_one_sided": 0.002997002997002997
+     }
+    },
+    {
+     "a": "VERA-probe + sampled-report training",
+     "b": "VERA-probe (finding-word attention)",
+     "question": "sampled reports as extra training data help",
+     "cv": {
+      "delta": 0.013223323404419451,
+      "ci": [
+       0.0012937221809458555,
+       0.025216463670184715
+      ],
+      "p_one_sided": 0.01098901098901099
+     },
+     "heldout": {
+      "delta": 0.02900914130892618,
+      "ci": [
+       0.011454103556321742,
+       0.046125756163213835
+      ],
+      "p_one_sided": 0.000999000999000999
+     }
+    },
+    {
+     "a": "VERA (full, model-internal)",
+     "b": "VERA-probe + sampled-report training",
+     "question": "consistency + self-verification + confidence add",
+     "cv": {
+      "delta": 0.013110633277901962,
+      "ci": [
+       0.0008764006529135338,
+       0.02441893007397124
+      ],
+      "p_one_sided": 0.01898101898101898
+     },
+     "heldout": {
+      "delta": 0.025191250298828627,
+      "ci": [
+       0.00576050656253646,
+       0.04294794173592204
+      ],
+      "p_one_sided": 0.00999000999000999
+     }
+    },
+    {
+     "a": "VERA (full, model-internal)",
+     "b": "Self-consistency (3 sampled reports)",
+     "question": "full vs self-consistency alone",
+     "cv": {
+      "delta": 0.12571243510165464,
+      "ci": [
+       0.10379409190603614,
+       0.14910299991913117
+      ],
+      "p_one_sided": 0.000999000999000999
+     },
+     "heldout": {
+      "delta": 0.11129799756383552,
+      "ci": [
+       0.08483383210870843,
+       0.13612941025822908
+      ],
+      "p_one_sided": 0.000999000999000999
+     }
+    },
+    {
+     "a": "VERA (full, model-internal)",
+     "b": "Self-verification P(yes), no training",
+     "question": "full vs self-verification alone",
+     "cv": {
+      "delta": 0.0666968188897078,
+      "ci": [
+       0.04905984374690417,
+       0.0842322535651221
+      ],
+      "p_one_sided": 0.000999000999000999
+     },
+     "heldout": {
+      "delta": 0.054957424040617875,
+      "ci": [
+       0.03301702357746105,
+       0.07662650389406059
+      ],
+      "p_one_sided": 0.000999000999000999
+     }
+    },
+    {
+     "a": "VERA (full, model-internal)",
+     "b": "Text only",
+     "question": "full vs text prior",
+     "cv": {
+      "delta": 0.12483426429591005,
+      "ci": [
+       0.0991719096114445,
+       0.152931292398312
+      ],
+      "p_one_sided": 0.000999000999000999
+     },
+     "heldout": {
+      "delta": 0.14473691699964708,
+      "ci": [
+       0.10819623801020815,
+       0.1802454874620528
+      ],
+      "p_one_sided": 0.000999000999000999
+     }
+    },
+    {
+     "a": "VERA (full) + external classifier",
+     "b": "VERA (full, model-internal)",
+     "question": "an external classifier adds",
+     "cv": {
+      "delta": -0.0002923851931264654,
+      "ci": [
+       -0.008824190051574976,
+       0.007417408473398219
+      ],
+      "p_one_sided": 0.5504495504495505
+     },
+     "heldout": {
+      "delta": 0.004986168505173971,
+      "ci": [
+       -0.0038059231342421865,
+       0.013892713887268595
+      ],
+      "p_one_sided": 0.13786213786213786
+     }
+    },
+    {
+     "a": "VERA (full, model-internal)",
+     "b": "External classifier (not trained on IU)",
+     "question": "full vs external classifier",
+     "cv": {
+      "delta": 0.1733935565613065,
+      "ci": [
+       0.1434825697699475,
+       0.20461838073111155
+      ],
+      "p_one_sided": 0.000999000999000999
+     },
+     "heldout": {
+      "delta": 0.15399775736256727,
+      "ci": [
+       0.1169126524707713,
+       0.1944121418370784
+      ],
+      "p_one_sided": 0.000999000999000999
+     }
+    }
+   ],
+   "per_tier_headline_cv": {
+    "critical": {
+     "auroc": 0.861639848794032,
+     "auroc_ci": [
+      0.8223112433443748,
+      0.8994015659782975
+     ],
+     "auprc": 0.8283442740087886,
+     "n": 346,
+     "prevalence": 0.48265895953757226
+    },
+    "moderate": {
+     "auroc": 0.7828624230817439,
+     "auroc_ci": [
+      0.7552714905639085,
+      0.8083607776139977
+     ],
+     "auprc": 0.8184681386195016,
+     "n": 1180,
+     "prevalence": 0.5601694915254237
+    },
+    "mild": {
+     "auroc": 0.7891769593115983,
+     "auroc_ci": [
+      0.7470197693127985,
+      0.8289340155307772
+     ],
+     "auprc": 0.8094850289141211,
+     "n": 467,
+     "prevalence": 0.5524625267665952
+    }
+   },
+   "operating_points_headline_cv": [
+    {
+     "target_rate": 0.1,
+     "test_flag_rate": 0.10035122930255895,
+     "precision": 0.935,
+     "recall": 0.1721915285451197,
+     "f1": 0.2908242612752722
+    },
+    {
+     "target_rate": 0.2,
+     "test_flag_rate": 0.2002007024586051,
+     "precision": 0.8796992481203008,
+     "recall": 0.32320441988950277,
+     "f1": 0.4727272727272727
+    },
+    {
+     "target_rate": 0.3,
+     "test_flag_rate": 0.3000501756146513,
+     "precision": 0.8528428093645485,
+     "recall": 0.4696132596685083,
+     "f1": 0.6057007125890735
+    },
+    {
+     "target_rate": 0.5,
+     "test_flag_rate": 0.5002508780732564,
+     "precision": 0.7632898696088265,
+     "recall": 0.7007366482504604,
+     "f1": 0.7306769083053288
+    }
+   ]
+  }
+ },
+ "protocol": "VERA v6 analysis: one small, pre-registered set of models.\n\nFixed before any v6 number was seen:\n  * Labels: list-aware negation (v5 parser negated only the first item of \"no X, Y, or Z\"), CheXpert\n    hierarchy (opacity <- consolidation / pneumonia / ...), and two label sets:\n      strict (PRIMARY): 1 = the reference contradicts the claim, 0 = supported, unmentioned = excluded\n      broad: 1 = contradicted or unmentioned, 0 = supported (the v2-v5 definition, now with fixed parsing)\n  * Claims evaluated: positive, un-hedged abnormal claims of the GREEDY report.\n  * Protocol (PRIMARY): 5-fold cross-validation grouped by image over all images; every model is fit on\n    the training folds only (C chosen by inner grouped CV); out-of-fold scores are pooled. 95% CIs and\n    paired tests by image bootstrap. Secondary: train on the calibration split, test on the test split.\n  * Headline model: \"VERA (full, model-internal)\". No selection among candidates.\nFeature families (nothing from the reference is ever a feature):\n  A  finding-word attention per layer x head: image share, share relative to the report, attention on the\n     named region (raw, area-normalised lift, contrast vs the report), computed online for every report\n  T  text the model wrote; C token confidence at the finding word\n  S  self-consistency: does the finding come back in 3 sampled reports of the same image?\n  Q  self-verification: the model's own P(yes) to \"Does this chest X-ray show <finding>?\"\n  V  external classifier (torchxrayvision, not trained on IU); I image-level attention (control)\n"
+}
